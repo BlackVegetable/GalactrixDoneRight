@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+   <Text tag="[BLANK]"> </Text>
+   <Text tag="[GALACTRIX]">Galactrix</Text>
+   <Text tag="[INVENTORY]">Inventory</Text>
+   <Text tag="[BATTLE]">Battle</Text>
+   <Text tag="[ENCOUNTER]">Encounter</Text>
+   <Text tag="[ENCOUNTER_INSTRUCT]">Random Encounter</Text>
+   <Text tag="[HACK_GATE]">Hack LeapGate</Text>
+   <Text tag="[HACK_INSTRUCT]">Make matches of the Gem types indicated in sequence \n before time runs out.</Text>
+   <Text tag="[TIME_]">Time: {1}</Text>
+   <Text tag="[MINE_ASTD]">Mine Asteroid</Text>
+   <Text tag="[MINE_INSTRUCT]">Mine the required amounts of each Cargo type on this asteroid without locking the board.</Text>
+   <Text tag="[PSI_INSTRUCT]">Swap Gems around board to form pulsing pattern out of Green CPU Gems.</Text>
+   <Text tag="[OPEN_GATE]">Open LeapGate</Text>
+	<Text tag="[RUMOR_TEST]">Rumors</Text>
+   <Text tag="[MINE]">Mine</Text>
+   <Text tag="[CLOSE]">Close</Text>
+   <Text tag="[BACK]">Back</Text>
+   <Text tag="[DONE]">Done</Text>
+   <Text tag="[MOREINFO]">More Info...</Text>
+   <Text tag="[QUITSTARMAP]">Are you certain you want to quit this game?</Text>
+   <Text tag="[QUITBATTLE]">Are you certain you want to quit this Battle?</Text>
+	<Text tag="[QUITPUZZLE]">Are you certain you want to quit this Puzzle?</Text>
+   <Text tag="[YES]">Yes</Text>
+   <Text tag="[NO]">No</Text>
+   <Text tag="[ON]">On</Text>
+   <Text tag="[OFF]">Off</Text>
+   <Text tag="[OKAY]">Okay</Text>
+   <Text tag="[CANCEL]">Cancel</Text>
+   <Text tag="[CONTINUE]">Continue</Text>
+   <Text tag="[RETRY]">Retry</Text>
+   <Text tag="[RETRY_]">Retry?</Text>
+   <Text tag="[NONE]">None</Text>  
+   <Text tag="[SAVING]">Saving...</Text>
+   <Text tag="[ERROR]">Error</Text>
+   <Text tag="[SAVE_FAILURE]">An error occurred when saving your game</Text>
+   <Text tag="[CREDITS]">Credits</Text>
+   <Text tag="[SHOW_TUTORIALS]">Show Tutorials</Text>
+   <Text tag="[MINING_COST_]">Mining Cost:</Text>
+   <Text tag="[HEROINFO0]">Name: %s</Text>
+   <Text tag="[HEROINFO1]">Pilot Skill: %d</Text>
+   <Text tag="[PILOTSKILL_0]">Novice</Text>
+   <Text tag="[PILOTSKILL_1]">Experienced</Text>
+   <Text tag="[PILOTSKILL_2]">Dangerous</Text>
+   <Text tag="[PILOTSKILL_3]">Deadly</Text>
+   <Text tag="[PILOTSKILL_4]">Elite</Text>
+   <Text tag="[GOVERNMENT_N]">Gov: %s</Text>
+   <Text tag="[TECHLEVEL_N]">Tech Level: %d</Text>
+   <Text tag="[INDUSTRY_N]">Type: %s</Text>
+   <Text tag="[GOVNAME_0]">Corporate</Text>
+   <Text tag="[GOVNAME_1]">Democracy</Text>
+   <Text tag="[GOVNAME_2]">Dictatorship</Text>
+   <Text tag="[GOVNAME_3]">Feudal</Text>
+   <Text tag="[GOVNAME_4]">Anarchy</Text>
+   <Text tag="[INDNAME_0]">Mining</Text>
+   <Text tag="[INDNAME_1]">Military</Text>
+   <Text tag="[INDNAME_2]">Agricultural</Text>
+   <Text tag="[INDNAME_3]">Industrial</Text>
+   <Text tag="[INDNAME_4]">Administrative</Text>
+   <Text tag="[MENU_CLOSE]">Close Menu</Text>
+   <Text tag="[ENEMYSHIP]">Enemy Ship</Text>
+   <Text tag="[SPACESHIP]">Spaceship</Text>
+   <Text tag="[NAME]">Name</Text>
+   <Text tag="[FOUROFAKIND]">4 Of A Kind!</Text>
+   <Text tag="[FIVEOFAKIND]">5 Of A Kind!!</Text>
+   <Text tag="[SIXOFAKIND]">6 Of A Kind!</Text>
+   <Text tag="[SEVENOFAKIND]">7 Of A Kind!!</Text>
+   <Text tag="[EIGHTOFAKIND]">8 Of A Kind!!!</Text>
+   <Text tag="[EXTRATURN]">Extra Turn Awarded!</Text>
+   <Text tag="[EXTRATIME]">Time Bonus!!</Text>
+   <Text tag="[INVALID]">Invalid Move!! -5</Text>
+   <Text tag="[SELECT_GEM]">Select A Gem</Text>
+   <Text tag="[AI_SELECT_GEM]">Enemy Selects Gem</Text>
+   <Text tag="[SELECT_COLUMN]">Select A Column</Text>
+   <Text tag="[AI_SELECT_PLAYER]">Enemy Selects Gem</Text>
+   <Text tag="[HEX]">HEX +8</Text>
+   <Text tag="[X]">X +5</Text>
+   <Text tag="[ARROW]">Arrow +3</Text>
+   <Text tag="[VICTORY]">Victory!</Text>
+   <Text tag="[DEFEAT]">Defeat!</Text>
+   <Text tag="[BATTLE_VICTORY]">You are victorious.</Text>
+   <Text tag="[BATTLE_DEFEAT]">You have been defeated.</Text>
+   <Text tag="[MORE_STATS]">More Stats</Text>
+	<Text tag="[HAGGLE_SUCCESS]">Haggling Complete</Text>
+	<Text tag="[HAGGLE_FAIL]">Haggling Failed</Text>
+	<Text tag="[HACK_SUCCESS]">Hacking Successful!</Text>
+   <Text tag="[HACK_VICTORY_]">You have successfully hacked the LeapGate.  You have been rewarded {1} credits.</Text>
+   <Text tag="[HACK_DEFEAT]"> You have short circuited the LeapGate, would you like to reset and try again?</Text>
+   <Text tag="[MINE_SUCCESS]">Mining Successful!</Text>
+   <Text tag="[MINE_VICTORY]">You have successfully mined this asteroid.</Text>
+   <Text tag="[MINE_FAIL]">Mining Completed</Text>
+   <Text tag="[MINE_DEFEAT]">You have Mined this Asteroid.</Text>
+   <Text tag="[CRAFT_VICTORY]">Crafting Successful!</Text>
+   <Text tag="[CRAFT_DEFEAT]">Crafting Unsuccessful!</Text>
+   <Text tag="[FAILED_CRAFTING]">Crafting Failed</Text>
+   <Text tag="[FAILED_RUMORS]">Rumors Failed</Text>   
+   <Text tag="[RUMOR_TEXT]">You have not discovered any rumors yet.</Text>   
+   <Text tag="[OUTOFTIME]">Times up! Hacking Failed</Text>
+   <Text tag="[BLACKHOLE]">Black Hole!</Text>
+   <Text tag="[NOVA]">NOVA!</Text>
+   <Text tag="[SUPANOVA]">SUPANOVA!</Text>
+   <Text tag="[NOVA_EFFECT]">X2 MULTIPLIER!!</Text>
+	<Text tag="[MAX_ENERGY_INCREASE]">MAX ENERGY INCREASED</Text>
+	<Text tag="[MAX_TYPE_INCREASE]">MAX {1} INCREASED</Text>
+   <Text tag="[SUPANOVA_EFFECT]">X3 MULTIPLIER!!!</Text>
+   <Text tag="[FOUROFAKINDS_]">4 Of A Kind:</Text>
+   <Text tag="[FIVEOFAKINDS_]">5 Of A Kind:</Text>
+   <Text tag="[SIXOFAKINDS_]">6 Of A Kind:</Text>
+   <Text tag="[SEVENOFAKINDS_]">7 Of A Kind:</Text>
+   <Text tag="[EIGHTOFAKINDS_]">8 Of A Kind:</Text>
+   <Text tag="[NOVAS_]">Total Novas:</Text>
+   <Text tag="[SUPANOVAS_]">Total Supanovas:</Text>
+	<Text tag="[PERCENT_COMPLETE_]">Percent Complete:</Text>
+	<Text tag="[WEAPON_COMPONENTS_]">Weapon Components:</Text>
+	<Text tag="[ENGINE_COMPONENTS_]">Engine Components:</Text>
+	<Text tag="[CPU_COMPONENTS_]">CPU Components:</Text>
+	<Text tag="[BIOHAZARDS_SPAWNED_]">Biohazards Spawned:</Text>
+	<Text tag="[BIOHAZARDS_MATCHED_]">Biohazards Matched:</Text>
+	<Text tag="[GEMS_MATCHED_]">Gems Matched:</Text>
+	<Text tag="[GEMS_]">Gems:</Text>
+	<Text tag="[READY]">Ready</Text>
+	<Text tag="[NOT_READY]">Not Ready</Text>
+   <Text tag="[START_GAME]">Start Game</Text>
+   <Text tag="[LEAVE_GAME]">Leave Game</Text>
+	 
+	<Text tag="[EASY]">Easy</Text>
+	<Text tag="[MEDIUM]">Medium</Text>
+	<Text tag="[HARD]">Difficult</Text>
+	
+	<Text tag="[NOT_ENDS_TURN]">Does not End your Turn</Text>
+	<Text tag="[ENDS_TURN]">Ends your Turn</Text>
+	<Text tag="[NO_RECHARGE]">No Recharge Time</Text>
+	<Text tag="[RECHARGE_X]">Recharge Turns: {1}</Text>
+	<Text tag="[X_TURNS]">{1} Turns</Text>
+	<Text tag="[TURNS_X]">Turns: {1}</Text>
+	<Text tag="[TURNS_REMAINING]">Turns Left: {1}</Text>
+   <Text tag="[GEMS_REMAINING_]">Gems Remaining:</Text>
+   <Text tag="[HAGGLE_BONUS_]">Haggle Bonus:</Text>
+
+	<!-- Added temporarily for purpose of PC QA and DEMO BUILD-->
+    <Text tag="[GET_QUESTS]">Get Missions</Text>	
+    <Text tag="[QUEST_LOG]">Mission Log</Text>	
+    <Text tag="[AVAILABLE_QUESTS]">Available Missions</Text>	
+    <Text tag="[COMPLETED_QUEST]">Completed Mission</Text>		
+    <Text tag="[QUEST_COMPLETE]">Mission Complete</Text>			
+    <Text tag="[QUIT]">Quit</Text>				
+	<Text tag="[CANT_ACCEPT]">Can&apos;t Accept</Text>
+	<Text tag="[TOO_MANY_QUESTS]">Too Many Missions</Text>
+
+	
+	<!--MP Messages -->
+	<Text tag="[QUICK_REMATCH]">Quick Rematch</Text>
+	<Text tag="[RETURN_TO_SETUP]">Return to setup</Text>
+	<Text tag="[OPPONENT_LEFT]">Opponent returned to Multiplayer Setup.</Text>
+	<Text tag="[CONNECTION_LOST]">Connection Lost</Text>
+	<Text tag="[CONNECTION_LOST_MSG]">Connection to opponent player has been lost.</Text>
+	<Text tag="[FAILED]">Failed!</Text>
+	<Text tag="[SUCCESS]">Success!</Text>
+	<Text tag="[HOSTING_FAILED]">Hosting Failed</Text>	
+    <Text tag="[HOST_TERMINATED_GAME]">Host Terminated Game</Text>
+    <Text tag="[HOST_TERMINATED_GAME_MSG]">The host has terminated the game!</Text>
+	
+	<Text tag="[GAIN_PSI]">+{1} Psi</Text>
+	<Text tag="[GAIN_INTEL]">+{1} Intel</Text>
+	<Text tag="[GAIN_CREDITS]">+{1} Credits</Text>
+	<Text tag="[REPUTATION]">Reputation</Text>
+	<Text tag="[GAIN_FRIEND]">New Crew: {1}</Text>
+	<Text tag="[LOSE_FRIEND]">Lost Crew: {1}</Text>
+	<Text tag="[GAIN_ITEM]">New Item: {1}</Text>
+	<Text tag="[GAIN_SHIP]">New Ship: {1}</Text>
+	<Text tag="[LOST_ITEM]">Lost Item {1}</Text>
+   
+   <Text tag="[EQUIPPED]">(Equipped)</Text>
+   <Text tag="[UNEQUIPPED]">(Unequipped)</Text>    
+   
+   <Text tag="[JUMPGATE_]">LeapGate:</Text>
+   <Text tag="[HACKED]">(Hacked)</Text>
+   <Text tag="[NOT_HACKED]">(Not Hacked)</Text>    
+   
+   <Text tag="[SKIP]">Skip</Text>
+   <Text tag="[ACCEPT]">Accept</Text>
+   
+   
+
+   <!-- GOVERMENT TEXT -->
+   
+   <Text tag="[GOV_DICTATORSHIP_NAME]">Dictatorship</Text>
+   <Text tag="[GOV_DEMOCRACY_NAME]">Democracy</Text>
+   <Text tag="[GOV_CORPORATE_NAME]">Corporate</Text>
+   <Text tag="[GOV_FEUDAL_NAME]">Feudal</Text>
+   <Text tag="[GOV_ANARCHIC_NAME]">Anarchic</Text>
+   
+   
+   
+   <!-- INDUSTRY TEXT -->
+   
+   <Text tag="[INDUSTRY_MINING_NAME]">Mining</Text>
+   <Text tag="[INDUSTRY_MILITARY_NAME]">Military</Text>
+   <Text tag="[INDUSTRY_AGRICULTURE_NAME]">Agriculture</Text>
+   <Text tag="[INDUSTRY_INDUSTRIAL_NAME]">Industrial</Text>
+   <Text tag="[INDUSTRY_ADMINISTRATIVE_NAME]">Administrative</Text>
+   
+   
+   
+   <!-- SYSTEM INFO -->
+   
+   <Text tag="[SYSTEM_]">System: </Text>
+   <Text tag="[TECH_]">Tech: </Text>
+   <Text tag="[GOVERNMENT_]">Government: </Text>
+   <Text tag="[PURPOSE_]">Purpose: </Text>
+   <Text tag="[FACTION_]">Faction: </Text>
+   
+   
+   <!-- SYSTEM POPUP INFO -->
+   
+   <Text tag="[NAME_]">Name: </Text>
+   <Text tag="[TYPE_]">Type: </Text>   
+   
+   <Text tag="[ASTD_TYPE]">Asteroid</Text>
+   <Text tag="[ASTD_DESC]">You can mine for extra cargo on asteroids.</Text>
+   <Text tag="[PLNT_TYPE]">Planet</Text>
+   <Text tag="[PLNT_DESC]">Visit planets as part of many missions.</Text>
+   <Text tag="[SPST_TYPE]">Space Station</Text>
+   <Text tag="[SPST_DESC]">Trade cargo and get missions at space stations.</Text>
+   <Text tag="[SHYD_TYPE]">Shop</Text>
+   <Text tag="[SHYD_DESC]">Shops have a number of different Items available for sale.</Text>
+   <Text tag="[GATE_TYPE]">LeapGate</Text>
+   <Text tag="[GATE_DESC]">LeapGates allow your ship to quickly move from system to system around the galaxy.</Text>
+   <Text tag="[FORG_TYPE]">Forge</Text>
+   <Text tag="[FORG_DESC]">The ideal spot for doing a bit of forging.</Text>
+   <Text tag="[MOON_TYPE]">Moon</Text>
+   <Text tag="[MOON_DESC]">Moons hold all sorts of interesting possibilities...</Text>
+   
+   <!-- SHOP TEXT -->
+	<Text tag="[GENERIC_SHOP]">Generic Shop</Text>
+	<Text tag="[CREDITS_AMOUNT]">Credits: {1}</Text>
+	<Text tag="[N_CREDITS]">{1} Cr</Text>
+	<Text tag="[_FULL]">{1}% Full</Text>
+	<Text tag="[SHOP_INSTRUCTIONS_BUY]">Select an Item to buy it from the Shop.</Text>
+	<Text tag="[SHOP_INSTRUCTIONS_SELL]">Select an Item to sell it to the Shop. \nRed Items are currently equipped on a ship.</Text>
+	<Text tag="[SHOP]">Shop</Text>
+	<Text tag="[BUY]">Buy</Text>
+	<Text tag="[BUY_FAILED]">Cannot Buy</Text>
+	<Text tag="[BUY_QUERY]">Are you sure you want to purchase this Item?</Text>
+	<Text tag="[TOO_EXPENSIVE]">You cannot afford this purchase.</Text>
+
+   <Text tag="[GATE_SUFFIX_NAME]">LeapGate</Text>
+   <Text tag="[SHIPS]">Ships</Text>
+   <Text tag="[SHIP_PROPERTIES]">Ship Properties</Text>
+   <Text tag="[PSI]">Psi</Text>
+	<Text tag="[PSI_]">Psi: {1}</Text>
+   <Text tag="[LOADOUT]">Loadout</Text>
+   <Text tag="[FACTIONS]">Factions</Text>
+   <Text tag="[PLANS]">Plans</Text>
+   <Text tag="[INTEL]">Intel</Text>
+   <Text tag="[INTEL_]">Intel: {1}</Text>
+   <Text tag="[MISSIONS]">Missions</Text>
+   <Text tag="[CREW]">Crew</Text>
+   <Text tag="[CARGO]">Cargo</Text>
+   <Text tag="[VIEW_CARGO]">View Cargo</Text>
+   <Text tag="[HULL]">Hull</Text>
+   <Text tag="[SHIELDS]">Shields:</Text>
+   <Text tag="[ENGINE]">Engine:</Text>
+   <Text tag="[WEAPONS]">Weapons:</Text>
+   <Text tag="[CPU]">Computer:</Text>
+	<Text tag="[SHIELD]">Shield</Text>
+	<Text tag="[WEAPON]">Weapon</Text>
+   <Text tag="[CAPACITY]">Capacity</Text>
+	<Text tag="[SLOTS]">Slots</Text>
+   <Text tag="[SPEED]">Speed</Text>
+	<Text tag="[CLASS]">Class</Text>
+	<Text tag="[_SLOTS]">{1} Slots</Text>
+	<Text tag="[_CLASS]">{1} Class</Text>
+	<Text tag="[_HULL_POINTS]">{1} Hull Pts.</Text>
+	<Text tag="[_CARGO_CAPACITY]">Cargo Capacity: {1}</Text>
+   <Text tag="[REMAINING_ENERGY]">Remaining Energy</Text>
+   <Text tag="[USES_ENERGY]">Consumes Energy</Text>
+   <Text tag="[SLOTS_LEFT]">Slots Remaining</Text>
+
+   <Text tag="[RACE]">Species</Text>
+   <Text tag="[GENDER]">Gender</Text>
+   <Text tag="[AGE]">Age</Text>
+   <Text tag="[BONUS]">Bonus</Text>
+	<Text tag="[BONUS_]">Bonus:</Text>
+
+   <Text tag="[CARGO_FOOD_NAME]">Food</Text>
+   <Text tag="[CARGO_TEXTILES_NAME]">Polymers</Text>
+   <Text tag="[CARGO_MINERALS_NAME]">Minerals</Text>
+   <Text tag="[CARGO_ALLOYS_NAME]">Alloys</Text>
+   <Text tag="[CARGO_TECH_NAME]">Technology</Text>
+   <Text tag="[CARGO_LUXURIES_NAME]">Isotopes</Text>
+   <Text tag="[CARGO_MEDICINE_NAME]">Medicine</Text>
+   <Text tag="[CARGO_GEMS_NAME]">Crystals</Text>
+   <Text tag="[CARGO_GOLD_NAME]">Gold</Text>
+   <Text tag="[CARGO_CONTRABAND_NAME]">Contraband</Text>
+   
+   <Text tag="[CARGO1_ABBR]">Food</Text>
+   <Text tag="[CARGO2_ABBR]">Poly.</Text>
+   <Text tag="[CARGO3_ABBR]">Min.</Text>
+   <Text tag="[CARGO4_ABBR]">Alloy</Text>
+   <Text tag="[CARGO5_ABBR]">Tech.</Text>
+   <Text tag="[CARGO6_ABBR]">Isot.</Text>
+   <Text tag="[CARGO7_ABBR]">Meds.</Text>
+   <Text tag="[CARGO8_ABBR]">Crys.</Text>
+   <Text tag="[CARGO9_ABBR]">Gold</Text>
+   <Text tag="[CARGO10_ABBR]">Cont.</Text>	
+   
+	<Text tag="[_CR_PER_UNIT]">{1} Cr Per Unit</Text>
+	<Text tag="[AVERAGE_PRICE]">Average Price</Text>
+	<Text tag="[CURRENT_PRICE]">Current Price</Text>
+	<Text tag="[AMOUNT]">Amount</Text>
+	<Text tag="[WEIGHT]">Weight</Text>
+   <Text tag="[VALUE]">Value</Text>
+	<Text tag="[AMOUNT_ABBR]">Amt.</Text>
+   <Text tag="[VALUE_ABBR]">Val.</Text>	
+   <Text tag="[JETTISON]">Jettison All...</Text>
+	
+	<Text tag="[TRADE1]">Sell 1</Text>
+	<Text tag="[TRADE10]">Sell 10</Text>
+	<Text tag="[TRADEALL]">Sell All</Text>
+	<Text tag="[SELL1]">Sell 1</Text>
+	<Text tag="[SELL10]">Sell 10</Text>
+	<Text tag="[SELLALL]">Sell All</Text>
+	<Text tag="[BUY1]">Buy 1</Text>
+	<Text tag="[BUY10]">Buy 10</Text>
+	<Text tag="[BUYALL]">Buy All</Text>
+	<Text tag="[BUY_CARGO]">Buy Cargo</Text>
+	<Text tag="[SELL_CARGO]">Sell Cargo</Text>
+	<Text tag="[SELECT_CARGO_TO_TRADE]">Select Cargo to Sell</Text>
+	<Text tag="[INFO]">Info</Text>
+	<Text tag="[TRADE_CARGO]">Sell Cargo</Text>
+   
+   <Text tag="[CONTRA_DETECT]">Contraband Detected!</Text>
+
+   
+   <Text tag="[REVIEW_INTEL]">Review Rumors</Text>
+   <Text tag="[YOUR_SHIPS]">Your Ships</Text>
+   <Text tag="[YOUR_CREW]">Crew</Text>
+   <Text tag="[SELECT_EQUIPMENT]">Select Equipment</Text>
+   <Text tag="[CLICK_ITEM_FOR_FITOUT]">Select a slot to outfit your ship.</Text>
+   <Text tag="[FOUND_PLANS]">Plans: %d of %d</Text>
+	<Text tag="[PLANS_]">Plans: </Text>
+   <Text tag="[REVIEW_PLANS]">Review Plans</Text>
+   <Text tag="[POINTS_AVAILABLE]">Points Available</Text>
+   <Text tag="[YOUR_CURR_SHIP]">Current Ship</Text>
+   <Text tag="[YOUR_FACTIONS]">Factions</Text>
+   <Text tag="[CLICK_FACTION_FOR_INFO]">Select a Faction for more information.</Text>
+   <Text tag="[YOUR_MISSIONS]">Missions</Text>
+   <Text tag="[CLICK_MISSION_FOR_INFO]">Select a Mission for more information.</Text>
+   <Text tag="[ABANDON]">Abandon Mission</Text>
+   <Text tag="[ABANDON_MISSION_QUERY]">Are you sure you want to abandon this Mission?</Text>
+	<Text tag="[JETTISON_CARGO]">Jettison Cargo</Text>
+	<Text tag="[JETTISON_CARGO_QUERY]">Are you sure you want to jettison all your Cargo?</Text>
+	<Text tag="[JETTISON_CARGO_TYPE_QUERY]">Are you sure you want to jettison all of this Cargo type?</Text>
+   <Text tag="[EQUIP_QUERY]">Are you sure you want to equip this item?</Text>
+	
+   <Text tag="[CRIMINAL]">Criminal</Text>
+   <Text tag="[SUSPECT]">Suspect</Text>
+   <Text tag="[NEUTRAL]">Neutral</Text>
+   <Text tag="[FRIENDLY]">Friendly</Text>
+   <Text tag="[ALLY]">Ally</Text>
+	
+   <Text tag="[EQUIP]">Equip</Text>
+   <Text tag="[UNEQUIP]">Unequip</Text>
+
+   <Text tag="[LIFE_REMAINING]">Hull Points Remaining:</Text>
+   <Text tag="[DAMAGE_DONE]">Damage Done:</Text>
+   <Text tag="[DAMAGE_TAKEN]">Damage Taken:</Text>
+   <Text tag="[LONGEST_CHAIN]">Longest Chain:</Text>
+   <Text tag="[PSI_GAINED]">Psi Points Gained:</Text>
+   <Text tag="[INTEL_GAINED]">Intel Gained:</Text>
+   <Text tag="[DURATION]">Turns:</Text>
+   
+   <Text tag="[PREPARE_FOR_BATTLE]">Prepare for Battle!</Text>
+   <Text tag="[SHIP_INFO]">Ship Info</Text>
+   
+   
+	<Text tag="[CRAFT]">Begin Assembly</Text>
+	<Text tag="[BEGIN]">Begin</Text>
+	<Text tag="[CRAFT_ITEM]">Craft Item</Text>
+    <Text tag="[DUPE_HEADING]">Duplicate Item</Text> 
+	<Text tag="[DUPE_TEXT]">You already have an identical item to this one. If you create another, you will not receive an extra item. Do you want to continue?</Text>	
+	<Text tag="[TOO_MANY_SHIPS]">You can only have 3 ships in your fleet.</Text>
+	<Text tag="[TOO_MANY_SHIPS_DS]">You have 3 ships. Remove a ship before crafting another.</Text>	
+	<Text tag="[PLANS_INSTRUCTIONS]">Plans allow you to craft Items and Ships at stations around the galaxy.</Text>
+	<Text tag="[PLANS_INSTRUCTIONS_2]">The number of Gems denotes how difficult an Item or Ship is to craft.</Text>
+	<Text tag="[CLICK_PLAN_FOR_INFO]">Select an Item for more information.</Text>
+	<Text tag="[SELECT_ITEM_TO_CRAFT]">Select an Item from the list to craft.</Text>
+	
+	<Text tag="[CREDITS_INSTRUCTION]">Spend Credits on Items or Ships around the galaxy.</Text>
+	<Text tag="[INTEL_INSTRUCTION]">Collect Intel to level up and become stronger in Battle.</Text>
+	<Text tag="[PSI_INSTRUCTION]">Use Psi points to escape hostile ships without fighting them.</Text>
+	<Text tag="[TRAIN_INSTRUCTIONS]">Spend Skill Points to train Skills after leveling up.</Text>
+	<Text tag="[REVIEW_PLANS_INSTRUCTIONS]">Plans allow you to craft Items and Ships at space stations.</Text>
+	<Text tag="[REVIEW_RUMORS_INSTRUCTIONS]">Read Rumors you have collected.</Text>
+	
+	<Text tag="[HAGGLE]">Haggle</Text>
+	<Text tag="[BARGAIN]">Haggle</Text>
+	<Text tag="[BARGAIN_HEADING]">Haggle</Text>
+	<Text tag="[BARGAIN_DESC]">Clear as many Gems as possible from the board.</Text>
+	<Text tag="[SELL]">Sell</Text>
+	<Text tag="[SALE_QUERY]">Are you sure you want to complete this sale?</Text>
+	<Text tag="[SALE_SHIP_WARN_QUERY]">WARNING: You are currently piloting this ship! Are you sure you want to complete this sale?</Text>
+	<Text tag="[SALE_ITEM_WARN_QUERY]">WARNING: You currently have this Item equipped on a ship! Are you sure you want to complete this sale?</Text>
+	<Text tag="[SALE_FAILED]">Cannot Sell</Text>
+	<Text tag="[SALE_LAST_SHIP]">You cannot sell your last ship!</Text>
+	<Text tag="[CARGO_WARNING]">You have too much Cargo for your remaining Ships. You must sell or jettison some first.</Text>
+	<Text tag="[SELLS_FOR]">Sells for</Text>
+	<Text tag="[SELL_ITEMS]">Sell Items</Text>
+	<Text tag="[BUY_ITEMS]">Buy Items</Text>
+	
+	<Text tag="[TESTLINE]">Test1 \n Test2</Text>
+	
+	<Text tag="[CARGO_GAINED]">Cargo Gained</Text>
+	<Text tag="[PLANS_ACQUIRED]">Plans Acquired</Text>
+	<Text tag="[FACTION_CHANGES]">Faction Data</Text>
+	
+	<Text tag="[LEVEL_]">Level:</Text>
+   <Text tag="[CURRENT_LEVEL_]">Current Level:</Text>
+   <Text tag="[NEXT_LEVEL_]">Next Level:</Text>
+   <Text tag="[CURRENT_RANK_]">Current Skill Level:</Text>
+   <Text tag="[NEXT_RANK_]">Next Skill Level:</Text>
+	<Text tag="[ACTIONS]">Actions</Text>
+	<Text tag="[CREDITS_]">Credits:</Text>
+	<Text tag="[GUNNERY_]">Gunnery:</Text>
+	<Text tag="[ENGINEERING_]">Engineering:</Text>
+	<Text tag="[ENGINEER_]">Engineer:</Text>
+	<Text tag="[SCIENCE_]">Science:</Text>
+	<Text tag="[PILOT_]">Pilot:</Text>
+	<Text tag="[GUNNERY]">Gunnery</Text>
+	<Text tag="[ENGINEERING]">Engineering</Text>
+	<Text tag="[ENGINEER]">Engineer</Text>
+	<Text tag="[SCIENCE]">Science</Text>
+	<Text tag="[PILOT]">Piloting</Text>
+	<Text tag="[STAT_INSTRUCTIONS]">Select a Skill to increase it by spending Skill Points.</Text>
+	<Text tag="[BUY_STATS]">Train Skills</Text>
+	<Text tag="[MAX_LEVEL_REACHED]">Maximum Hero Level</Text>
+	
+	<Text tag="[GUNNERY_BONUS_0]">Starting Red Energy</Text>
+	<Text tag="[GUNNERY_BONUS_1]">Max Red Energy</Text>
+	<Text tag="[GUNNERY_BONUS_2]">Red Energy when matching Gems</Text>
+	<Text tag="[GUNNERY_BONUS_3]">Damage when matching Mines</Text>
+	<Text tag="[GUNNERY_DESC]">Gunnery allows you to make more efficient use of weapons and weapon energy.</Text>
+	
+	<Text tag="[ENGINEER_BONUS_0]">Starting Yellow Energy</Text>
+	<Text tag="[ENGINEER_BONUS_1]">Max Yellow Energy</Text>
+	<Text tag="[ENGINEER_BONUS_2]">Yellow Energy when matching Gems</Text>
+	<Text tag="[ENGINEER_BONUS_3]">Hull Repaired per Turn</Text>
+	<Text tag="[ENGINEER_BONUS_4]">Cargo when matching Materials</Text>
+	<Text tag="[ENGINEER_DESC]">Engineering allows you to make more efficient use of engines and engine energy.</Text>
+	
+	<Text tag="[SCIENCE_BONUS_0]">Starting Green Energy</Text>
+	<Text tag="[SCIENCE_BONUS_1]">Max Green Energy</Text>
+	<Text tag="[SCIENCE_BONUS_2]">Green Energy when matching Gems</Text>
+	<Text tag="[SCIENCE_BONUS_3]">Item Cooldown Reduction</Text>
+	<Text tag="[SCIENCE_BONUS_4]">Fewer keys needed when hacking</Text>
+	<Text tag="[SCIENCE_DESC]">Science allows you to make more efficient use of computer-based technology and CPU energy.</Text>
+	
+	<Text tag="[PILOT_BONUS_0]">Starting Shield Energy</Text>
+	<Text tag="[PILOT_BONUS_1]">Max Shield Energy</Text>
+	<Text tag="[PILOT_BONUS_2]">Shield Energy when matching Gems</Text>
+	<Text tag="[PILOT_BONUS_3]">Shield Integrity Bonus</Text>
+	<Text tag="[PILOT_DESC]">Piloting skills allow you to reduce the effectiveness of enemy attacks, increasing your shield&apos;s efficiency.</Text>
+	
+	<Text tag="[USE_PSI]">Use PSI</Text>
+	
+   <Text tag="[LEVEL_UP]">Level Up!</Text>
+   <Text tag="[PLAYER_LEVELLED_]">You are now Level {1}!</Text>
+	<Text tag="[LEVEL_BONUS_HULL_]">You gain {1} additional Hull Point(s) during Battle.</Text>
+	<Text tag="[LEVEL_BONUS_DMG_]">You do {1} additional Damage when matching Mines.</Text>
+	<Text tag="[SKILL_POINTS_LEFT_]">Skill Points Remaining: {1}</Text>
+	<Text tag="[SKILL_POINTS_]">Skill Points: {1}</Text>
+	
+	<Text tag="[FIGHTER]">Fighter</Text>
+	<Text tag="[SHUTTLE]">Shuttle</Text>
+	<Text tag="[FRIGATE]">Frigate</Text>
+	<Text tag="[LIGHT_CRUISER]">Light Cruiser</Text>
+	<Text tag="[HEAVY_CRUISER]">Heavy Cruiser</Text>
+	<Text tag="[DREADNAUGHT]">Dreadnaught</Text>
+	<Text tag="[CAPITAL]">Capital</Text>
+	
+	<Text tag="[PSI_POWER1_DESC]">Allows you to avoid Shuttle-class and weaker ships</Text>
+	<Text tag="[PSI_POWER2_DESC]">Allows you to avoid Frigate-class ships.</Text>
+	<Text tag="[PSI_POWER3_DESC]">Allows you to avoid Light Cruiser class ships.</Text>
+	<Text tag="[PSI_POWER4_DESC]">Allows you to avoid Heavy Cruiser class ships.</Text>
+	<Text tag="[PSI_POWER5_DESC]">Allows you to avoid Dreadnaught-class ships.</Text>
+	<Text tag="[PSI_POWER6_DESC]">Allows you to avoid Capital ships.</Text>
+	<Text tag="[PSI_POWER7_DESC]">Decreases the chance of being detected by any hostile ship.</Text>
+	
+	
+	<!-- How to Play -->
+	<Text tag="[HTP_STORY]">Story</Text>
+	<Text tag="[HTP_STORY_HELP]">Collect Missions from highlighted locations around the galaxy. Completing Missions will give you rewards and help you progress.</Text>
+	<Text tag="[HTP_BATTLE]">Advancement</Text>
+	<Text tag="[HTP_BATTLE_HELP]">Collect Credits and Intel from Missions and Battles to allow you to upgrade your ship and fit it out with new Items.</Text>	
+	<Text tag="[HTP_PUZZLE]">Battle</Text>
+	<Text tag="[HTP_PUZZLE_HELP]">Match rows of 3 or more Gems in the main puzzle to fight enemy ships. Different Colored Gems will provide you with different effects in Battle.</Text>
+	
+	<!-- Extended How to Play To Be Localized -->
+	<Text tag="[HTP1_T]">Gems</Text>
+	<Text tag="[HTP1]">Gems fall in the same direction as the Gem you moved. \n \n Intel is gained by matching White Gems on the board. You can Level Up by gaining Intel. \n \n Psi Points are gained by matching Purple Gems. Psi Powers are special abilities that you unlock by doing specific Missions.  Each Psi Power you gain gives you the ability to avoid a Battle with specific classes of ships.</Text>		
+
+	<Text tag="[HTP2_T]">Damage</Text>
+	<Text tag="[HTP2]">If you make a move that does not make a connection of 3 or more, it is called an Invalid Move and you take 5 Damage directly to your Hull Points. \n \n The orange bar represents your Hull Points and the blue bar represents your Shields. Any Damage you receive is done to your Shields, once your Shields are depleted, Damage is dealt to your Hull Points.  \n \n  Blue Gems are Gems that recharge your Shields when you Match 3 or more together.</Text>	
+
+	<Text tag="[HTP3_T]">Bonuses</Text>
+	<Text tag="[HTP3]">You get a bonus of 2 points to each 4 of a Kind you match. \n \n If you can match 5 of a Kind you will gain an extra turn as well as a bonus of 3 points to the Gems collected. \n \n You will gain an extra turn for anything more than a 5 of a Kind and the pattern for bonuses continues up to an 8 of a Kind. \n \n Each Crew Member has an ability that can help you in your Missions.</Text>	
+
+	<Text tag="[HTP4_T]">Novas</Text>
+	<Text tag="[HTP4]">When you match Gems and the falling Gems make a match it is called a cascade. \n \n When you get 4 cascades in a row it causes a Nova giving you a X2 bonus multiplier. \n \n If you get 6 cascades in a row it causes a Supanova which gives you a X2 multiplier on top of the Nova&apos;s bonus, for a total of X3 in Battle.</Text>		
+
+	<Text tag="[HTP5_T]">Black Holes</Text>
+	<Text tag="[HTP5]">If there are no more valid moves available, a Black Hole occurs. \n \n In Battle, the board resets. \n When Mining, you finish the Mini Game and take whatever Cargo you have obtained. \n When Crafting, your contraption explodes. \n When Haggling, the Mini Game ends and you get whatever percentage you have obtained.</Text>		
+
+	<Text tag="[HTP6_T]">Items</Text>
+	<Text tag="[HTP6]">Items require specific amounts of the three types of Energy: Red, Green and Yellow, to use them in Battle. \n \n Haggling gives you a discount on Item prices when you are buying from a shop. If you Haggle before selling an Item, you can increase the amount you sell it for. \n \n If you are carrying Contraband, Factions will attack you even if they are Friendly or Neutral toward you.</Text>	
+
+	<Text tag="[HTP7_T]">Galaxy Map</Text>
+	<Text tag="[HTP7]">In the Galaxy Map you can travel to other Systems that you have unlocked by hacking LeapGates. \n \n If a System is ruled by a hostile Faction, it will be red and they will attack you when you travel through it. Friendly systems will be green and neutral systems will be blue.</Text>	
+
+	<Text tag="[HTP8_T]">Factions</Text>
+	<Text tag="[HTP8]">This is where you stand with the many Factions in the galaxy. You are either Friendly, Allied, Neutral, Suspect, or a Criminal to them. \n \n You may improve your Faction Standings by completing any Missions they have for you, or by trading Cargo with them. \n \n Fighting a ship will lower your Faction Standing with the Faction the ship belongs to.</Text>	
+	
+	<!-- DS Specific? -->
+   <Text tag="[MY_ITEMS]">My Items</Text>
+   <Text tag="[THEIR_ITEMS]">Their Items</Text>
+   <Text tag="[SHOW_INFO]">Show Info</Text>
+   <Text tag="[RESET]">Reset</Text>
+   <Text tag="[TOGGLE]">Toggle</Text>
+
+
+
+	<!-- Extra Text for Screen Res added 22Aug -->
+	<Text tag="[CONFIRM]">Confirm</Text>
+	<Text tag="[CONFIRM_RES_MESSAGE_%d]">Press CONFIRM to accept this resolution, or your previous settings will be restored in %d seconds.</Text>
+	<Text tag="[CONFIRM_RES_HEADING]">Screen Resolution</Text>
+	<Text tag="[CONFIRM_RES_MESSAGE_%d]">Press CONFIRM to accept this resolution, or your previous settings will be restored in %d seconds.</Text>
+	
+	<Text tag="[MORE_]">More &gt;&gt;</Text>
+	
+	<Text tag="[CARGO_REQ_NOT_MET]">Cargo Requirements Not Met</Text>
+	
+	<Text tag="[UNAVAILABLE]">(Unavailable)</Text>
+	<Text tag="[GATE_OFFLINE]">Gate Offline</Text>
+	
+	<Text tag="[INVALID_INPUT]">Invalid</Text>
+	<Text tag="[YOU_RECIEVED]">Received:</Text>
+	
+   <Text tag="[INSUFF_CAPCITY_MSG]">You have insufficient capacity on your ships and were forced to abandon some cargo.</Text>
+	
+	<!-- Tag added 16th Dec -->
+	<Text tag="[ITEM_USE_CANCELLED]">ITEM USE CANCELLED</Text>
+	
+	<!-- Tag added 17th Dec -->
+	<Text tag="[RESUMEGAME]">Resume Game</Text>
+	<Text tag="[SAVEGAME]">Save Game</Text>
+	<Text tag="[EXITGAME]">Exit Game</Text>
+	
+	<!-- Tag added 16th Jan -->	
+	<Text tag="[CORRUPT_SAVE]">Corrupt Save</Text>
+
+	<Text tag="[COST]">Cost</Text>	
+</TextLibrary>
+

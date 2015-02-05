@@ -1,0 +1,15 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0D4_STARTMSG]">Your first delivery is to Virgo Port.</Text>
+   <Text tag="[Q0D4_1_0_ACTN]">Deliver the Food</Text>
+   <Text tag="[Q0D4_1_0_LOG]">Travel to Virgo Port.</Text>
+   <Text tag="[Q0D4_1_0_ENDMSG]">The food has been delivered. Continue on to Ramses Station.</Text>
+   <Text tag="[Q0D4_2_0_ACTN]">Deliver the Food</Text>
+   <Text tag="[Q0D4_2_0_LOG]">Travel to Ramses Station.</Text>
+   <Text tag="[Q0D4_2_0_ENDMSG]">The food has been delivered. Continue on to Vega Station.</Text>
+   <Text tag="[Q0D4_3_0_ACTN]">Deliver the Food</Text>
+   <Text tag="[Q0D4_3_0_LOG]">Travel to Vega Station</Text>
+   <Text tag="[Q0D4_3_0_ENDMSG]">The food has been delivered. Now return to Degani Prime.</Text>
+   <Text tag="[Q0D4_4_0_ACTN]">Return to Degani</Text>
+   <Text tag="[Q0D4_4_0_LOG]">Return to Degani Prime.</Text>
+</TextLibrary>

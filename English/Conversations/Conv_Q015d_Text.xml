@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q015d_NAME1]">KEELA</Text>
+
+   <Text tag="[Conv_Q015d_0000]">Greetings, Keck Prime.</Text>
+   <Text tag="[Conv_Q015d_0001]">Greetings, Keck Prime.</Text>
+   <Text tag="[Conv_Q015d_0002]">We detect you have a Jahrwoxi on board. We ask you to leave.</Text>
+   <Text tag="[Conv_Q015d_0003]">We detect you have a Jahrwoxi on board. We ask you to leave.</Text>
+   <Text tag="[Conv_Q015d_0004]">My apologies. We were just passing through, and we were about to stop at the Keck Sigma Moon, but it&apos;s been destroyed. What happened?</Text>
+   <Text tag="[Conv_Q015d_0005]">My apologies. We were just passing through, and we were about to stop at the Keck Sigma Moon, but it&apos;s been destroyed. What happened?</Text>
+   <Text tag="[Conv_Q015d_0006]">We saw a strange ship attack there. It destroyed the moon and took all of its weapons then headed through the Cygnus LeapGate. Now we suggest that you and your pet Jahrwoxi go on your way!</Text>
+   <Text tag="[Conv_Q015d_0007]">We saw a strange ship attack there. It destroyed the moon and took all of its weapons then headed through the Cygnus LeapGate. Now we suggest that you and your pet Jahrwoxi go on your way!</Text>
+   <Text tag="[Conv_Q015d_0008]">So we are going to Cygnus?</Text>
+   <Text tag="[Conv_Q015d_0009]">So we are going to Cygnus?</Text>
+   <Text tag="[Conv_Q015d_0010]">We should visit the Emporium first. We need better weapons.</Text>
+   <Text tag="[Conv_Q015d_0011]">We should visit the Emporium first. We need better weapons.</Text>
+
+</TextLibrary>

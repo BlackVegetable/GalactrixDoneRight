@@ -1,0 +1,15 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0LE_2_0_PRE]">You must have 1500 Cr to buy the fruit.</Text>
+   <Text tag="[Q0LE_4_0_PRE]">You must have 1500 Cr to buy the fruit.</Text>
+   <Text tag="[Q0LE_1_0_ACTN]">Buy fruit (1500 Cr)</Text>
+   <Text tag="[Q0LE_1_0_LOG]">Buy fruit at Degani Prime.</Text>
+   <Text tag="[Q0LE_1_0_ENDMSG]">You have the fruit. Now return to Solis Mine.</Text>
+   <Text tag="[Q0LE_2_0_ACTN]">Return the fruit</Text>
+   <Text tag="[Q0LE_2_0_LOG]">Return to Solis Mine.</Text>
+   <Text tag="[Q0LE_3_0_ACTN]">Buy Fruit (1500 Cr)</Text>
+   <Text tag="[Q0LE_3_0_LOG]">Buy fruit at Degani Prime.</Text>
+   <Text tag="[Q0LE_3_0_ENDMSG]">You have the fruit. Now return to Solis Mine.</Text>
+   <Text tag="[Q0LE_4_0_ACTN]">Return the fruit</Text>
+   <Text tag="[Q0LE_4_0_LOG]">Return to Solis Mine.</Text>
+</TextLibrary>

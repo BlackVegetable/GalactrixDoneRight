@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q032c_NAME1]">EMPEROR</Text>
+
+   <Text tag="[Conv_Q032c_0000]">I&apos;ve done as you ask, your Majesty. The MRI is no longer my home.</Text>
+   <Text tag="[Conv_Q032c_0001]">I&apos;ve done as you ask, your Majesty. The MRI is no longer my home.</Text>
+   <Text tag="[Conv_Q032c_0002]">Good. Then you&apos;ll hand Beta Prime over to me. You have nowhere to run to now, boy.</Text>
+   <Text tag="[Conv_Q032c_0003]">Good. Then you&apos;ll hand Beta Prime over to me. You have nowhere to run to now, girl.</Text>
+   <Text tag="[Conv_Q032c_0004]">Don&apos;t you bet on it.</Text>
+   <Text tag="[Conv_Q032c_0005]">Don&apos;t you bet on it.</Text>
+
+</TextLibrary>

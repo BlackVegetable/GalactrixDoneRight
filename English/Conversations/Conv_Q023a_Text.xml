@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q023a_NAME1]">ED24</Text>
+
+   <Text tag="[Conv_Q023a_0000]">The Starhound is installed and online. You really ought to find me something more challenging to do...</Text>
+   <Text tag="[Conv_Q023a_0001]">The Starhound is installed and online. You really ought to find me something more challenging to do...</Text>
+   <Text tag="[Conv_Q023a_0002]">Let&apos;s fire it up and see what it tells us. It should track engine signatures, even very old ones.</Text>
+   <Text tag="[Conv_Q023a_0003]">Let&apos;s fire it up and see what it tells us. It should track engine signatures, even very old ones.</Text>
+
+</TextLibrary>

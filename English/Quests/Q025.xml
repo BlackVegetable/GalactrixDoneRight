@@ -1,0 +1,9 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q025_1_0_LOG]">Follow the trail to Pleione III.</Text>
+   <Text tag="[Q025_2_0_MSG]">A Soulless ship has appeared from behind Pleione III.</Text>
+   <Text tag="[Q025_2_0_ACTN]">Search for Trails</Text>
+   <Text tag="[Q025_2_0_LOG]">Search for any trails at Pleione III.</Text>
+   <Text tag="[Q025_3_0_ACTN]">Search for Trails</Text>
+   <Text tag="[Q025_3_0_LOG]">Search for any trails at Pleione III.</Text>
+</TextLibrary>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+   <Text tag="[Q0LF_1_0_ACTN]">Ask about Whips</Text>
+   <Text tag="[Q0LF_1_0_LOG]">Travel to Circinus II.</Text>
+   <Text tag="[Q0LF_2_0_ACTN]">Ambush the Vortraag</Text>
+   <Text tag="[Q0LF_2_0_LOG]">Battle the Vortraag at Circinus II.</Text>
+   <Text tag="[Q0LF_2_0_ENDMSG]">You recovered a whip from the wreckage of the Vortraag ship. Now return to Solis Mine.</Text>
+   <Text tag="[Q0LF_3_0_ACTN]">Deliver the Whip</Text>
+   <Text tag="[Q0LF_3_0_LOG]">Return to Solis Mine.</Text>
+</TextLibrary>

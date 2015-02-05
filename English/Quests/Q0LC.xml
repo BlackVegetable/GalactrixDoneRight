@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0LC_1_0_ACTN]">Ask about Marc</Text>
+   <Text tag="[Q0LC_1_0_LOG]">Ask about Marc at Solis Prison.</Text>
+   <Text tag="[Q0LC_1_0_ENDMSG]">Marc was sent to Solis Mine.</Text>
+   <Text tag="[Q0LC_2_0_ACTN]">Ask about Marc</Text>
+   <Text tag="[Q0LC_2_0_LOG]">Ask about Marc at Solis Mine.</Text>
+</TextLibrary>

@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0E2_1_0_MSG]">The grapes are used in a ritual Degani wine. They will not sell them to you.</Text>
+   <Text tag="[Q0E2_1_0_ACTN]">Get Some Grapes</Text>
+   <Text tag="[Q0E2_1_0_LOG]">Get grapes from Degani Prime.</Text>
+   <Text tag="[Q0E2_2_0_ACTN]">Take Grapes by Force</Text>
+   <Text tag="[Q0E2_2_0_LOG]">Attack the Degani to get their grapes.</Text>
+   <Text tag="[Q0E2_2_0_ENDMSG]">You have the grapes. Now return to Elysia Prime.</Text>
+   <Text tag="[Q0E2_3_0_ACTN]">Deliver the Grapes</Text>
+   <Text tag="[Q0E2_3_0_LOG]">Take the grapes to Elysia Prime</Text>
+</TextLibrary>

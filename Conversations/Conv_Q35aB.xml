@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Vortraag Enough: Talk to Sable"/>
+   <Text file="English\Conversations\Conv_Q35aB_Text.xml"/>
+   <Backdrop file="img_CONCORR"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="[img_CSAB_L]" portraitindex="0" name="[Conv_Q35aB_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_male" character="1" text="[Conv_Q35aB_0000]" />
+      <Action type="talk_female" character="1" text="[Conv_Q35aB_0001]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q35aB_0002]" />
+      <Action type="talk_female" character="0" text="[Conv_Q35aB_0003]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q35aB_0004]" />
+      <Action type="talk_female" character="1" text="[Conv_Q35aB_0005]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q35aB_0100]" />
+      <Action type="talk_female" character="0" text="[Conv_Q35aB_0101]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q35aB_0102]" />
+      <Action type="talk_female" character="1" text="[Conv_Q35aB_0103]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q35aB_0006]" />
+      <Action type="talk_female" character="0" text="[Conv_Q35aB_0007]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q35aB_0008]" />
+      <Action type="talk_female" character="1" text="[Conv_Q35aB_0009]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q35aB_0010]" />
+      <Action type="talk_female" character="0" text="[Conv_Q35aB_0011]" />
+      <Action type="wait" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

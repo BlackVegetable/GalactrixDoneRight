@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Qr04_1_0_LOG]">Destroy an MRI Mindship from Erebus II.</Text>
+   <Text tag="[Qr04_1_0_ACTN]">Attack</Text>
+   <Text tag="[Qr04_1_0_ENDMSG]">Report your success to Cepheus IX</Text>
+   <Text tag="[Qr04_2_0_LOG]">Report your success to Cepheus IX.</Text>
+   <Text tag="[Qr04_2_0_ACTN]">Report</Text>
+   <Text tag="[Qr04_2_0_ENDMSG]">You have gained favor with Quesada.</Text>
+
+</TextLibrary>

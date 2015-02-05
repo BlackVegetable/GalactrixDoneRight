@@ -1,0 +1,16 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0D2_1_0_ACTN]">Negotiate with the Keck</Text>
+   <Text tag="[Q0D2_1_0_LOG]">Negotiate at Keck Prime.</Text>
+   <Text tag="[Q0D2_1_0_ENDMSG]">The Keck refuse to negotiate.</Text>
+   <Text tag="[Q0D2_2_0_MSG]">This should teach them a lesson!</Text>
+   <Text tag="[Q0D2_2_0_ACTN]">Attack the Keck</Text>
+   <Text tag="[Q0D2_2_0_LOG]">Attack the Keck at Keck Prime.</Text>
+   <Text tag="[Q0D2_2_0_ENDMSG]">Maybe the Keck will negotiate now!</Text>
+   <Text tag="[Q0D2_3_0_ACTN]">Negotiate with the Keck</Text>
+   <Text tag="[Q0D2_3_0_LOG]">Negotiate at Keck Prime.</Text>
+   <Text tag="[Q0D2_3_0_ENDMSG]">The Keck offer to pay 100,000 Credits in reparation.</Text>
+   <Text tag="[Q0D2_4_0_ACTN]">Report the Keck Offer</Text>
+   <Text tag="[Q0D2_4_0_LOG]">Return to Degani Prime.</Text>
+   <Text tag="[Q0D2_4_0_ENDMSG]">The Degani gratefully accept the offer from the Keck.</Text>
+</TextLibrary>

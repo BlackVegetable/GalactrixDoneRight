@@ -1,0 +1,14 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0F0_1_0_ACTN]">Deliver Cytech Parts</Text>
+   <Text tag="[Q0F0_1_0_LOG]">Travel to Earth.</Text>
+   <Text tag="[Q0F0_1_0_ENDMSG]">Parts delivered! Now travel to the Emporium of Keck.</Text>
+   <Text tag="[Q0F0_2_0_ACTN]">Deliver Cytech Parts</Text>
+   <Text tag="[Q0F0_2_0_LOG]">Travel to the Emporium of Keck.</Text>
+   <Text tag="[Q0F0_2_0_ENDMSG]">Parts delivered! Now travel to Quesada Prime.</Text>
+   <Text tag="[Q0F0_3_0_ACTN]">Deliver Cytech Parts</Text>
+   <Text tag="[Q0F0_3_0_LOG]">Travel to Quesada Prime.</Text>
+   <Text tag="[Q0F0_3_0_ENDMSG]">Parts delivered! Now return to Fornax Prime.</Text>
+   <Text tag="[Q0F0_4_0_ACTN]">Return from Delivery</Text>
+   <Text tag="[Q0F0_4_0_LOG]">Return to Fornax Prime.</Text>
+</TextLibrary>

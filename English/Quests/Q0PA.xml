@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Q0PA_1_0_LOG]">Travel to Quesada Prime.</Text>
+   <Text tag="[Q0PA_1_0_ACTN]">Send Pezt to get Present</Text>
+   <Text tag="[Q0PA_1_0_MSG]">Pezt returns with a statue, unfortunately a Quesadan ship is in pursuit of him.</Text>
+   
+   <Text tag="[Q0PA_2_0_LOG]">Return to Jahrwox Prime.</Text>   
+   <Text tag="[Q0PA_2_0_ACTN]">Deliver the Statue</Text>
+
+</TextLibrary>

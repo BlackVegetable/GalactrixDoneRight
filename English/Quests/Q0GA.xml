@@ -1,0 +1,13 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0GA_1_0_ACTN]">Investigate the Moon</Text>
+   <Text tag="[Q0GA_1_0_LOG]">Travel to Krystallus Delta.</Text>
+   <Text tag="[Q0GA_2_0_ACTN]">Attack an MRI Ship</Text>
+   <Text tag="[Q0GA_2_0_LOG]">Figth the MRI on Krystallus Iota.</Text>
+   <Text tag="[Q0GA_3_0_ACTN]">Attack an MRI Ship</Text>
+   <Text tag="[Q0GA_3_0_LOG]">Figth the MRI on Krystallus Kappa.</Text>
+   <Text tag="[Q0GA_4_0_ACTN]">Attack an MRI Ship</Text>
+   <Text tag="[Q0GA_4_0_LOG]">Figth the MRI on Krystallus Lambda.</Text>
+   <Text tag="[Q0GA_5_0_ACTN]">Talk with Psylt</Text>
+   <Text tag="[Q0GA_5_0_LOG]">Return to Krystallus Delta.</Text>
+</TextLibrary>

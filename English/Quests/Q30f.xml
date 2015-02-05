@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q30f_1_0_LOG]">Prepare the workroom on Erebus Sigma Station</Text>
+   <Text tag="[Q30f_1_0_ACTN]">Prepare the workroom</Text>
+   <Text tag="[Q30f_1_0_ENDMSG]">Lydia prepares the workroom</Text>
+   <Text tag="[Q30f_2_0_ACTN]">Process the Crystals</Text>
+   <Text tag="[Q30f_2_0_ENDMSG]">Lydia finishes with the Crystals</Text>
+   <Text tag="[Q30f_2_0_LOG]">Take 30 tons of Crystals to Lydia&apos;s workroom on the Erebus Sigma Station</Text>
+   <Text tag="[Q30f_2_0_PRE]">You do not have the Crystals</Text>
+
+</TextLibrary>

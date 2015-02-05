@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+   
+   <Text tag="[Q0P2_1_0_LOG]">Get water from Elysia VI.</Text>
+   <Text tag="[Q0P2_1_0_ACTN]">Get some Water</Text>
+   
+   <Text tag="[Q0P2_2_0_PRE]">You need 2000 Credits to purchase the water.</Text>
+   <Text tag="[Q0P2_2_0_LOG]">Pay for the water at Elysia Prime.</Text>
+   <Text tag="[Q0P2_2_0_ACTN]">Pay for Water (2000 Credits)</Text>
+   <Text tag="[Q0P2_2_0_ENDMSG]">2000 Credits deducted. You may now return to Plasmia Prime with the water.</Text>
+
+   <Text tag="[Q0P2_3_0_LOG]">Deliver the water to Plasmia Prime.</Text>
+   <Text tag="[Q0P2_3_0_ACTN]">Deliver the Water</Text>
+
+</TextLibrary>

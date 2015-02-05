@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q33a_1_0_LOG]">Travel to Aquila Port as an friend of Lumina. . .</Text>
+   <Text tag="[Q33a_1_0_ACTN]">Ask about the Weapon</Text>
+   <Text tag="[Q33a_1_0_ENDMSG]">Lumina has a task for you</Text>
+
+   <Text tag="[Q33a_2_0_PRE]">You aren&apos;t liked enough by Lumina.</Text>
+   <Text tag="[Q33a_2_1_PRE]">You are too friendly with Quesada to be trusted.</Text>
+   <Text tag="[Q33a_2_0_LOG]">Accept the task at Aquila Port</Text>
+   <Text tag="[Q33a_2_0_ACTN]">Accept the task</Text>
+
+   <Text tag="[Q33a_3_0_LOG]">Have ED24 Encrypt the data on Mars</Text>
+   <Text tag="[Q33a_3_0_ACTN]">Encrypt the data</Text>
+   <Text tag="[Q33a_3_0_ENDMSG]">The next data is hidden on Earth</Text>
+
+   <Text tag="[Q33a_4_0_LOG]">Have ED24 Encrypt the data on Earth</Text>
+   <Text tag="[Q33a_4_0_ACTN]">Encrypt the data</Text>
+   <Text tag="[Q33a_4_0_ENDMSG]">The next data is hidden within the Centauri Shipyard</Text>
+
+   <Text tag="[Q33a_5_0_LOG]">Have ED24 Encrypt the data at the Centauri Shipyard</Text>
+   <Text tag="[Q33a_5_0_ACTN]">Encrypt the data</Text>
+   <Text tag="[Q33a_5_0_ENDMSG]">The next data is on Polaris Base</Text>
+
+   <Text tag="[Q33a_6_0_LOG]">Have ED24 Encrypt the data on Polaris Base</Text>
+   <Text tag="[Q33a_6_0_ACTN]">Encrypt the data</Text>
+   <Text tag="[Q33a_6_0_ENDMSG]">A Quesadan Seeker has been detected</Text>
+
+   <Text tag="[Q33a_7_0_LOG]">Eliminate the Quesadan Seeker</Text>
+   <Text tag="[Q33a_7_0_ACTN]">Attack the Seeker</Text>
+   <Text tag="[Q33a_7_0_ENDMSG]">The next data is somewhere in Beta Centauri</Text>
+
+   <Text tag="[Q33a_8_0_LOG]">Have ED24 Encrypt the data in the Beta Centauri System</Text>
+   <Text tag="[Q33a_8_0_ACTN]">Encrypt the data</Text>
+   <Text tag="[Q33a_8_0_ENDMSG]">The last data is on Ramses III</Text>
+
+   <Text tag="[Q33a_9_0_LOG]">Have ED24 Encrypt the data on Ramses III</Text>
+   <Text tag="[Q33a_9_0_ACTN]">Encrypt the data</Text>
+   <Text tag="[Q33a_9_0_ENDMSG]">A second Quesadan Seeker has been detected</Text>
+
+   <Text tag="[Q33a_10_0_LOG]">Eliminate the second Quesadan Seeker</Text>
+   <Text tag="[Q33a_10_0_ACTN]">Attack the Seeker</Text>
+   <Text tag="[Q33a_10_0_ENDMSG]">Mission Complete -- Return to Earth</Text>
+
+   <Text tag="[Q33a_11_0_LOG]">Return to Earth for your reward</Text>
+   <Text tag="[Q33a_11_0_ACTN]">Report your success</Text>
+   <Text tag="[Q33a_11_0_ENDMSG]">Lumina gives you their Psi-Weapon</Text>
+
+</TextLibrary>

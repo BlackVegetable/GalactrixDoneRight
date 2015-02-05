@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0S2_1_0_ACTN]">Attack the Pirates</Text>
+   <Text tag="[Q0S2_1_0_LOG]">Attack the Pirates on Quaris IV.</Text>
+   <Text tag="[Q0S2_1_0_ENDMSG]">Now report your success back at Serpens Prime.</Text>
+   <Text tag="[Q0S2_2_0_ACTN]">Report your Success</Text>
+   <Text tag="[Q0S2_2_0_LOG]">Return to Serpens Prime.</Text>
+</TextLibrary>

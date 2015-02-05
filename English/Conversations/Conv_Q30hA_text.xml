@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q30hA_NAME1]">Sable</Text>
+
+   <Text tag="[Conv_Q30hA_0000]">Alright, we have obtained all we need for the attunement.</Text>
+   <Text tag="[Conv_Q30hA_0001]">Alright, thanks to you, we have obtained all we need for the attunement.</Text>
+   <Text tag="[Conv_Q30hA_0002]">Can we perform the attunement here?</Text>
+   <Text tag="[Conv_Q30hA_0003]">I didn&apos;t like that last part.  Hopefully it will have been worth it.  Where do we go from here?</Text>
+   <Text tag="[Conv_Q30hA_0004]">We must head to the &quot;Holy Source&quot; to perform the attunement.</Text>
+   <Text tag="[Conv_Q30hA_0005]">We will be able to do much good once I am attuned with the device.  We must head to the &quot;Holy Source&quot; to perform the attunement.</Text>
+   <Text tag="[Conv_Q30hA_0006]">And where is that?</Text>
+   <Text tag="[Conv_Q30hA_0007]">And where is that?</Text>
+   <Text tag="[Conv_Q30hA_0008]">Set a course for Quesada Prime, home to many ancient and mystical temples.</Text>
+   <Text tag="[Conv_Q30hA_0009]">Set a course for Quesada Prime, home to many ancient and mystical temples.</Text>
+   <Text tag="[Conv_Q30hA_0010]">Right, off we go then.</Text>
+   <Text tag="[Conv_Q30hA_0011]">Alright, just remember that I&apos;m in charge here.</Text>
+
+</TextLibrary>

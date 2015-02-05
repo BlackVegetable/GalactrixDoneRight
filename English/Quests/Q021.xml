@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q021_1_0_ACTN]">Approach the Moon</Text>
+   <Text tag="[Q021_1_0_LOG]">Travel to New Aztekia in the Ramses System.</Text>
+   <Text tag="[Q021_2_0_ACTN]">Fight the Automated Defense</Text>
+   <Text tag="[Q021_2_0_LOG]">Fight the Automated Defense on the New Aztekia Moon.</Text>
+   <Text tag="[Q021_3_0_ACTN]">Retrieve the Data</Text>
+   <Text tag="[Q021_3_0_LOG]">Retrieve data from the moon of New Aztekia.</Text>
+   <Text tag="[Q021_4_0_ACTN]">Return to the Quesadans</Text>
+   <Text tag="[Q021_4_0_LOG]">Return to Quesada Prime to report your success.</Text>
+</TextLibrary>

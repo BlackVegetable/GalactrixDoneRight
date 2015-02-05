@@ -1,0 +1,7 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q031_1_0_LOG]">Travel to Vega Station.</Text>
+   <Text tag="[Q031_2_0_ACTN]">Meet with the MRI</Text>
+   <Text tag="[Q031_2_0_LOG]">Meet with the MRI at Vega Station.</Text>
+   <Text tag="[Q031_3_0_LOG]">Travel back to Earth in the Terra System.</Text>
+</TextLibrary>

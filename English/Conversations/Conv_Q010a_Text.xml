@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q010a_NAME1]">SABLE</Text>
+
+   <Text tag="[Conv_Q010a_0000]">The MRI Council has a mission for us.</Text>
+   <Text tag="[Conv_Q010a_0001]">The MRI Council has a mission for us.</Text>
+   <Text tag="[Conv_Q010a_0002]">For US?</Text>
+   <Text tag="[Conv_Q010a_0003]">For US?</Text>
+   <Text tag="[Conv_Q010a_0004]">Yes. They need us to reach the Gemini System.</Text>
+   <Text tag="[Conv_Q010a_0005]">Yes. They need us to reach the Gemini System.</Text>
+   <Text tag="[Conv_Q010a_0006]">Why?</Text>
+   <Text tag="[Conv_Q010a_0007]">Why?</Text>
+   <Text tag="[Conv_Q010a_0008]">They did not say, but I know that we are the two closest agents. Hacking the LeapGates is difficult, and the closer we are, the better. It will be best if we hack the Talus LeapGate and then the Gemini LeapGate.</Text>
+   <Text tag="[Conv_Q010a_0009]">They did not say, but I know that we are the two closest agents. Hacking the LeapGates is difficult, and the closer we are, the better. It will be best if we hack the Talus LeapGate and then the Gemini LeapGate.</Text>
+
+</TextLibrary>

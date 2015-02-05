@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q39aA_NAME1]">SABLE</Text>
+
+   <Text tag="[Conv_Q39aA_0000]">Trident has an embarrasing problem they want us to solve.  As strange as it is, some of those Plasmid creatures have stolen a Trident Ship.</Text>
+   <Text tag="[Conv_Q39aA_0001]">Trident has an embarrasing problem they want us to solve.  As strange as it is, some of those Plasmid creatures have stolen a Trident Ship.</Text>
+   <Text tag="[Conv_Q39aA_0002]">Seriously?  Plasmids?  Those gurgling puddle aliens?</Text>
+   <Text tag="[Conv_Q39aA_0003]">Seriously?  Plasmids?  Those gurgling puddle sentients?</Text>
+   <Text tag="[Conv_Q39aA_0004]">You&apos;ve got it.  Uncharacteristically, they managed to sneak onboard, snuff out the crew, and are joyriding throughout the universe.</Text>
+   <Text tag="[Conv_Q39aA_0005]">You&apos;ve got it.  Uncharacteristically, they managed to sneak onboard, snuff out the crew, and are joyriding throughout the universe.</Text>
+   <Text tag="[Conv_Q39aA_0006]">Why doesn&apos;t Trident take care of this problem themselves?  Why bother hiring us?</Text>
+   <Text tag="[Conv_Q39aA_0007]">Why doesn&apos;t Trident take care of this problem themselves?  Why bother hiring us?</Text>
+   <Text tag="[Conv_Q39aA_0008]">We&apos;ve got the reputation of being able to handle such things.  This wasn&apos;t just any ship, it was a prototype modified Trident Battlecruiser.</Text>
+   <Text tag="[Conv_Q39aA_0009]">We&apos;ve got the reputation of being able to handle such things.  This wasn&apos;t just any ship, it was a prototype modified Trident Battlecruiser.</Text>
+   <Text tag="[Conv_Q39aA_0010]">Ah, from the rumors I&apos;ve heard, Trident would stand to lose face if they let any other megacorporation know they lost an important ship to some Plasmids.</Text>
+   <Text tag="[Conv_Q39aA_0011]">Ah, from the rumors I&apos;ve heard, Trident would stand to lose face if they let any other megacorporation know they lost an important ship to some Plasmids.</Text>
+   <Text tag="[Conv_Q39aA_0012]">Exactly.  In addition to a PSI-Weapon of some power, we will be rewarded with the plans for this vessel.  Trident is abandoning the model after this incident.</Text>
+   <Text tag="[Conv_Q39aA_0013]">Exactly.  In addition to a PSI-Weapon of some power, we will be rewarded with the plans for this vessel.  Trident is abandoning the model after this incident.</Text>
+   <Text tag="[Conv_Q39aA_0014]">Nice, so where are these Plasmid Joyriders?  Let&apos;s get them.</Text>
+   <Text tag="[Conv_Q39aA_0015]">Nice, so where are these Plasmid Joyriders?  Let&apos;s handle this.</Text>
+   <Text tag="[Conv_Q39aA_0016]">It won&apos;t be so easy, I&apos;m afraid.  Trident has given us a list of planets and moons we need to go to in order to deal with the Plasmids.</Text>
+   <Text tag="[Conv_Q39aA_0017]">It won&apos;t be so easy, I&apos;m afraid.  Trident has given us a list of planets and moons we need to go to in order to deal with the Plasmids.</Text>
+   <Text tag="[Conv_Q39aA_0018]">What is the problem?  Why not go and wipe them out?</Text>
+   <Text tag="[Conv_Q39aA_0019]">What is the problem?  Why not go and destroy the ship?</Text>
+   <Text tag="[Conv_Q39aA_0020]">First, we&apos;ll need to pay someone to give us the general area where the Plasmids were last seen.  Second, they&apos;ve got an advanced cloaking device.</Text> 
+   <Text tag="[Conv_Q39aA_0021]">First, we&apos;ll need to pay someone to give us the general area where the Plasmids were last seen.  Second, they&apos;ve got an advanced cloaking device.</Text>
+   <Text tag="[Conv_Q39aA_0022]">Please don&apos;t tell me there&apos;s a &quot;third.&quot;</Text>
+   <Text tag="[Conv_Q39aA_0023]">Please don&apos;t tell me there&apos;s a &quot;third.&quot;</Text>
+   <Text tag="[Conv_Q39aA_0024]">Heh, &quot;third,&quot; they will try to use an advanced jump-engine to escape.  It is impossible to tell where they will jump to.</Text>
+   <Text tag="[Conv_Q39aA_0025]">Heh, &quot;third,&quot; they will try to use an advanced jump-engine to escape.  It is impossible to tell where they will jump to.</Text>
+   <Text tag="[Conv_Q39aA_0026]">Then how could we possibly find them?</Text>
+   <Text tag="[Conv_Q39aA_0027]">Then how could we possibly find them?</Text>
+   <Text tag="[Conv_Q39aA_0028]">To uncloak them, we will disperse some virtual marbles into space and see where they bounce off of an invisible craft.</Text>
+   <Text tag="[Conv_Q39aA_0029]">To uncloak them, we will disperse some virtual marbles into space and see where they bounce off of an invisible craft.</Text>
+   <Text tag="[Conv_Q39aA_0030]">Alright, continue.</Text>
+   <Text tag="[Conv_Q39aA_0031]">Alright, continue.</Text>
+   <Text tag="[Conv_Q39aA_0032]">Then to prevent recloaking, we will use a jamming device to prevent such a tactic.</Text>
+   <Text tag="[Conv_Q39aA_0033]">Then to prevent recloaking, we will use a jamming device to prevent such a tactic.</Text>
+   <Text tag="[Conv_Q39aA_0034]">Sounds expensive, but alright.</Text>
+   <Text tag="[Conv_Q39aA_0035]">Sounds expensive, but alright.</Text>
+   <Text tag="[Conv_Q39aA_0036]">Finally to follow them wherever they jump, we will need an improbability drive.  The odds of randomly jumping to the exact location they jumped to is very remote.</Text>
+   <Text tag="[Conv_Q39aA_0037]">Finally to follow them wherever they jump, we will need an improbability drive.  The odds of randomly jumping to the exact location they jumped to is very remote.</Text>
+   <Text tag="[Conv_Q39aA_0038]">I think I read about one of these in an ancient handheld database. . .</Text>
+   <Text tag="[Conv_Q39aA_0039]">I think I read about one of these in an ancient handheld database. . .</Text>
+   <Text tag="[Conv_Q39aA_0040]">An improbability drive would, when activated, jump to the exact location they did simply because it is so unlikely.  Then we fight them before they jump again.</Text>
+   <Text tag="[Conv_Q39aA_0041]">An improbability drive would, when activated, jump to the exact location they did simply because it is so unlikely.  Then we fight them before they jump again.</Text>
+   <Text tag="[Conv_Q39aA_0042]">Geez.  I guess we&apos;d better get going to these locations to purchase all that we&apos;ll need.  Where do we go first?</Text>
+   <Text tag="[Conv_Q39aA_0043]">Geez.  I guess we&apos;d better get going to these locations to purchase all that we&apos;ll need.  Where do we go first?</Text>
+   <Text tag="[Conv_Q39aA_0044]">Aries Sigma has the last known location.  Refer to your log if you need to know where we must go next.</Text>
+   <Text tag="[Conv_Q39aA_0045]">Aries Sigma has the last known location.  Refer to your log if you need to know where we must go next.</Text>
+
+</TextLibrary>

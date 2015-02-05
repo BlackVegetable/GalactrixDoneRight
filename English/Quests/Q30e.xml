@@ -1,0 +1,12 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q30e_1_0_LOG]">Travel to Ceti CPUs to purchase a Cobalt Magnifier</Text>
+   <Text tag="[Q30e_1_0_ACTN]">Purchase the Cobalt Magnifier</Text>
+   <Text tag="[Q30e_1_0_ENDMSG]">You negotiate the sale</Text>
+   <Text tag="[Q30e_2_0_ACTN]">Purchase the Cobalt Magnifier (2000)</Text>
+   <Text tag="[Q30e_2_0_LOG]">Obtain 2,000 Credits to purchase the Magnifier</Text>
+   <Text tag="[Q30e_2_0_ENDMSG]">You purchased the Cobalt Magnifier</Text>
+   <Text tag="[Q30e_2_0_PRE]">You do not have enough credits</Text>
+
+
+</TextLibrary>

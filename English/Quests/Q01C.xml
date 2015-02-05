@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Q01C_1_0_LOG]">Start with the nearby Asteroid PH549D.</Text>
+   <Text tag="[Q01C_1_0_ACTN]">Check for sufficient Cargo</Text>
+   <Text tag="[Q01C_1_0_MSG]">You need to mine 20 units of each; Polymers, Tech and Alloys to repair the ship.</Text>
+   <Text tag="[Q01C_2_0_PRE]">You have insufficient Crew to manage a fleet of four ships. Sell one ship before you repair the abandoned MRI ship.</Text>   
+   <Text tag="[Q01C_2_0_LOG]">Mine for supplies on PH459D in the Elea System.</Text>
+   <Text tag="[Q01C_2_0_ACTN]">Find Supplies for Repair</Text>
+   <Text tag="[Q01C_2_0_ENDMSG]">When you have 20 units of Polymers, Tech and Alloys, you will be able to repair the ship.</Text>
+
+   <Text tag="[Q01C_3_0_PRE]">You have insufficient Crew to manage a fleet of four ships. Sell one ship before you repair the abandoned MRI ship.</Text>   
+   <Text tag="[Q01C_3_0_LOG]">Repair the Ship at Elea VII.</Text>
+   <Text tag="[Q01C_3_0_ACTN]">Repair Ship</Text>
+   <Text tag="[Q01C_3_0_ENDMSG]">ED24 repairs the ship and now it is yours!</Text>
+   
+   <Text tag="[Q01C_4_0_PRE]">You need to mine 20 units of Polymers to repair the ship.</Text>
+   <Text tag="[Q01C_4_1_PRE]">You need to mine 20 units of Tech to repair the ship.</Text>
+   <Text tag="[Q01C_4_2_PRE]">You need to mine 20 units of Alloys to repair the ship.</Text>
+   
+</TextLibrary>

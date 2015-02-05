@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Q017_1_0_LOG]">Travel to Jahrwox Prime.</Text>
+
+   <Text tag="[Q017_2_0_LOG]">Visit the Silent One on Jahrwox Prime.</Text>
+   <Text tag="[Q017_2_0_ACTN]">Visit the Silent One</Text>
+
+   <Text tag="[Q017_3_0_LOG]">Talk with Pezt at Jahrwox Prime.</Text>   
+   <Text tag="[Q017_3_0_ACTN]">Talk with Pezt</Text>
+   
+   <Text tag="[Q017_4_0_LOG]">Travel to Keck Prime.</Text>   
+
+   <Text tag="[Q017_5_0_LOG]">Ask for a Keck egg on Keck Prime.</Text>  
+   <Text tag="[Q017_5_0_ACTN]">Request a Keck egg</Text>
+
+   <Text tag="[Q017_6_0_LOG]">Ask for a Keck egg at the Emporium of Keck.</Text>
+   <Text tag="[Q017_6_0_ACTN]">Request a Keck egg</Text>
+
+   <Text tag="[Q017_7_0_LOG]">Raid a Keck ship at Keck Sigma.</Text>
+   <Text tag="[Q017_7_0_ACTN]">Raid a Keck Ship</Text>
+
+   <Text tag="[Q017_8_0_LOG]">Visit the Silent One on Jahrwox Prime.</Text> 
+   <Text tag="[Q017_8_0_ACTN]">Talk with Silent One</Text>
+
+</TextLibrary>

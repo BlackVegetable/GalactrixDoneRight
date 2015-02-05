@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0T0_1_0_MSG]">You attempt to retrieve the data, but a Vortraag ship hails you and demands you turn it over!</Text>
+   <Text tag="[Q0T0_1_0_ACTN]">Access the Data</Text>
+   <Text tag="[Q0T0_1_0_LOG]">Access data at Tucana V.</Text>
+   <Text tag="[Q0T0_2_0_ACTN]">Deliver the Data</Text>
+   <Text tag="[Q0T0_2_0_LOG]">Deliver the data to Mars in the Terra System.</Text>
+</TextLibrary>

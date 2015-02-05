@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0P1_1_0_ACTN]">Request a Cure</Text>
+   <Text tag="[Q0P1_1_0_LOG]">Obtain a cure from Quesada Prime.</Text>
+   <Text tag="[Q0P1_1_0_ENDMSG]">The Quesadans tell you of a cure. You should return this news to Plasmia Prime.</Text>
+   <Text tag="[Q0P1_2_0_ACTN]">Return with News</Text>
+   <Text tag="[Q0P1_2_0_LOG]">Return to Plasmia Prime.</Text>
+</TextLibrary>

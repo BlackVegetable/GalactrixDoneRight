@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0E0_STARTMSG]">Head to Jahrwox Prime to negotiate with their leaders.</Text>
+   <Text tag="[Q0E0_1_0_ACTN]">Open Negotiations</Text>
+   <Text tag="[Q0E0_1_0_LOG]">Negotiate on Jahrwox Prime.</Text>
+   <Text tag="[Q0E0_2_0_ACTN]">Fight the Vortraag</Text>
+   <Text tag="[Q0E0_2_0_LOG]">Battle the Vortraag on Pleione Rho.</Text>
+   <Text tag="[Q0E0_3_0_ACTN]">Continue Negotiations</Text>
+   <Text tag="[Q0E0_3_0_LOG]">Return to Jahrwox Prime.</Text>
+</TextLibrary>

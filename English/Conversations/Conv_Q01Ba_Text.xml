@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q01Ba_NAME1]">KIRINE</Text>
+
+   <Text tag="[Conv_Q01Ba_0000]">There&apos;s Cargo at Gemini Labs. We should use it to make something that can help us.</Text>
+   <Text tag="[Conv_Q01Ba_0001]">There&apos;s Cargo at Gemini Labs. We should use it to make something that can help us.</Text>
+   <Text tag="[Conv_Q01Ba_0002]">I don&apos;t understand.</Text>
+   <Text tag="[Conv_Q01Ba_0003]">I don&apos;t understand.</Text>
+   <Text tag="[Conv_Q01Ba_0004]">I&apos;m a scientist. I can create things for your ship. Find the Cargo and I&apos;ll show you what I mean.</Text>
+   <Text tag="[Conv_Q01Ba_0005]">I&apos;m a scientist. I can create things for your ship. Find the Cargo and I&apos;ll show you what I mean.</Text>
+
+</TextLibrary>

@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q31a_1_0_LOG]">Travel to Jahrowx prime</Text>
+   <Text tag="[Q31a_1_0_ACTN]">Ask about the Weapon</Text>
+   <Text tag="[Q31a_1_0_ENDMSG]">They want 25 tons of Gold to answer your question</Text>
+   <Text tag="[Q31a_2_0_LOG]">Trade 25 Tons of Gold to Jahrwox</Text>
+   <Text tag="[Q31a_2_0_ACTN]">Give a Gift</Text>
+   <Text tag="[Q31a_2_0_ENDMSG]">They have the weapon and want 25 tons of Gems for it</Text>
+   <Text tag="[Q31a_3_0_PRE]">You don&apos;t have enough Gold</Text>
+
+</TextLibrary>

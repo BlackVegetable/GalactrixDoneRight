@@ -1,0 +1,9 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0V0_1_0_MSG]">The Plasmids try to stop you from taking one of their Dorimuur.</Text>
+   <Text tag="[Q0V0_1_0_ACTN]">Obtain the Dorimuur</Text>
+   <Text tag="[Q0V0_1_0_LOG]">Travel to Delphinus VIII.</Text>
+   <Text tag="[Q0V0_1_0_ENDMSG]">You have a Dorimuur. Now return to Vortraag Prime.</Text>
+   <Text tag="[Q0V0_2_0_ACTN]">Return the Dorimuur</Text>
+   <Text tag="[Q0V0_2_0_LOG]">Return to Vortraag Prime.</Text>
+</TextLibrary>

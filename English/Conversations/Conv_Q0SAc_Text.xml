@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q0SAc_NAME0]">[Conv_Q0SAc_NAME0]</Text>
+   <Text tag="[Conv_Q0SAc_NAME1]">SABLE</Text>
+
+   <Text tag="[Conv_Q0SAc_0000]">I have recovered a partial flight log. Their next destination was Pleione Rho.</Text>
+   <Text tag="[Conv_Q0SAc_0001]">I have recovered a partial flight log. Their next destination was Pleione Rho.</Text>
+   <Text tag="[Conv_Q0SAc_0002]">I wonder if they got there...</Text>
+   <Text tag="[Conv_Q0SAc_0003]">I wonder if they got there...</Text>
+
+</TextLibrary>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q30dA_NAME1]">Sable</Text>
+
+   <Text tag="[Conv_Q30dA_0000]">I&apos;ve been told we are almost ready to be trusted with their device.</Text>
+   <Text tag="[Conv_Q30dA_0001]">I&apos;ve been told we are almost ready to be trusted with their device.</Text>
+   <Text tag="[Conv_Q30dA_0002]">Almost ready?  What&apos;s next?</Text>
+   <Text tag="[Conv_Q30dA_0003]">Almost ready?  What&apos;s next?</Text>
+   <Text tag="[Conv_Q30dA_0004]">Nasty Butler wants to make sure we can get where we need to go.</Text>
+   <Text tag="[Conv_Q30dA_0005]">Nasty Butler wants to make sure we can get where we need to go.</Text>
+   <Text tag="[Conv_Q30dA_0006]">We have a ship, shouldn&apos;t we have passed this step already?</Text>
+   <Text tag="[Conv_Q30dA_0007]">Oh, I get it.  He wants us to hack a leapgate.</Text>
+   <Text tag="[Conv_Q30dA_0008]">They have uploaded a virus on the Atlia-Serpens Leapgate, and want us to prove we can hack it.</Text>
+   <Text tag="[Conv_Q30dA_0009]">Yes, specifically the Atli-Serpens Leapgate.</Text>
+   <Text tag="[Conv_Q30dA_0010]">So does this mean Nasty Butler and the MRI are behind the leapgate virus?</Text>
+   <Text tag="[Conv_Q30dA_0011]">I guess that shouldn&apos;t be too hard.</Text>
+   <Text tag="[Conv_Q30dA_0012]">Probably not.  This virus is independent of whatever has caused all of the malfunctions.  It was created just to test us.</Text>
+   <Text tag="[Conv_Q30dA_0013]">I&apos;m glad you think so.  We will be rewarded for the hacking as usual.</Text>
+   <Text tag="[Conv_Q30dA_0014]">He is shutting down traffic through a leapgate just so we can prove our capabilities?</Text>
+   <Text tag="[Conv_Q30dA_0015]">I guess that means the general population doesn&apos;t know we&apos;re hacking this one as a test.</Text>
+   <Text tag="[Conv_Q30dA_0016]">Yes, which is why we should get to hacking it A.S.A.P.</Text>
+   <Text tag="[Conv_Q30dA_0017]">Apparently not, we should get to hacking it quickly before it slows down traffic too badly.</Text>
+   <Text tag="[Conv_Q30dA_0018]">Okay, let&apos;s go then.</Text>
+   <Text tag="[Conv_Q30dA_0019]">We will head straight there.</Text>
+
+
+</TextLibrary>

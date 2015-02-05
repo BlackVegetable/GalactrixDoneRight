@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+   <Text tag="[Q0J0_1_0_ACTN]">Search for the Keck</Text>
+   <Text tag="[Q0J0_1_0_LOG]">Search for the Keck at Pleione III.</Text>
+   <Text tag="[Q0J0_1_0_ENDMSG]">You have found a Keck Raider.</Text>
+   <Text tag="[Q0J0_2_0_ACTN]">Fight the Keck</Text>
+   <Text tag="[Q0J0_2_0_LOG]">Fight the Keck at Pleione III.</Text>
+   <Text tag="[Q0J0_2_0_ENDMSG]">Now return to Jahrwox Prime for your reward.</Text>
+   <Text tag="[Q0J0_3_0_ACTN]">Receive your Reward</Text>
+   <Text tag="[Q0J0_3_0_LOG]">Return to Jahrwox Prime.</Text>
+</TextLibrary>

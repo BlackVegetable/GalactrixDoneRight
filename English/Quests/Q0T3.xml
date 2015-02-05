@@ -1,0 +1,13 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0T3_1_0_ACTN]">Acquire the Data</Text>
+   <Text tag="[Q0T3_1_0_LOG]">Get the data from Mars.</Text>
+   <Text tag="[Q0T3_1_0_ENDMSG]">You now have the data and must proceed to Vortraag Prime and sell it.</Text>
+   <Text tag="[Q0T3_2_0_MSG]">You have been ambushed by the Vortraag again!</Text>
+   <Text tag="[Q0T3_2_0_ACTN]">Sell the Data</Text>
+   <Text tag="[Q0T3_2_0_LOG]">Sell the data on Vortraag Prime.</Text>
+   <Text tag="[Q0T3_3_0_ACTN]">Sell the Data</Text>
+   <Text tag="[Q0T3_3_0_LOG]">Sell the data on Vortraag Prime.</Text>
+   <Text tag="[Q0T3_4_0_ACTN]">Report your Success</Text>
+   <Text tag="[Q0T3_4_0_LOG]">Return to Earth and report your success.</Text>
+</TextLibrary>

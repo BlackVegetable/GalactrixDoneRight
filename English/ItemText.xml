@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+	<Text tag="[I001_NAME]">Disruption Field</Text>
+	<Text tag="[I001_DESC]">Prevents your opponents Shields from regenerating for 6 turns.</Text>
+
+	<Text tag="[I002_NAME]">Gravflux Array</Text>
+	<Text tag="[I002_DESC]">Reverses Gravity for 6 turns.</Text>
+
+	<Text tag="[I003_NAME]">Booster Drive</Text>
+	<Text tag="[I003_DESC]">Gives you the Boost effect (doubles all Yellow Energy) for 6 turns.</Text>
+
+	<Text tag="[I004_NAME]">Power Laser</Text>
+	<Text tag="[I004_DESC]">Does 5 points of damage to your opponent.</Text>
+
+	<Text tag="[I005_NAME]">Orbital Array</Text>
+	<Text tag="[I005_DESC]">Opponents Gravity rotates constantly for 6 turns.</Text>
+
+	<Text tag="[I006_NAME]">Multiphase Thruster</Text>
+	<Text tag="[I006_DESC]">Destroys all Gems of matching color to the one chosen. You gain full effect for all Gems destroyed.</Text>
+
+	<Text tag="[I007_NAME]">Auxiliary Plating</Text>
+	<Text tag="[I007_DESC]">Gives you the Auxiliary Armor effect (causing each non-damage match to reinforce your Shields but award -1 less of that Gem Type) for 6 turns.</Text>
+
+	<Text tag="[I008_NAME]">Mine Sweeper</Text>
+	<Text tag="[I008_DESC]">Removes every Mine on the board. You gain no effect for Gems destroyed.</Text>
+
+	<Text tag="[I009_NAME]">Targeting HUD</Text>
+	<Text tag="[I009_DESC]">Gives you the Targeting effect (+3 to all Damage done) for 5 turns, +1 turn for every 5 points of Red Energy you have.</Text>
+
+	<Text tag="[I010_NAME]">Destabilization Field</Text>
+	<Text tag="[I010_DESC]">Inflicts the Destabilization effect on your opponent (allowing their Shields to let up to 5 points of damage through) for 6 turns.</Text>
+
+	<Text tag="[I011_NAME]">Shield Matrix</Text>
+	<Text tag="[I011_DESC]">Adds +5 to your Shield Energy. Does not end your turn.</Text>
+
+	<Text tag="[I012_NAME]">Weapons Matrix</Text>
+	<Text tag="[I012_DESC]">Adds +5 to your Red Energy. Does not end your turn.</Text>
+
+	<Text tag="[I013_NAME]">Repair Bot</Text>
+	<Text tag="[I013_DESC]">Repairs +5 damage, +1 more for every 8 points of Green Energy you have.</Text>
+
+	<Text tag="[I014_NAME]">Cobalt Sensor</Text>
+	<Text tag="[I014_DESC]">Adds 8 to Shield Energy, +1 more for every 8 points of Red Energy your opponent has.</Text>
+
+	<Text tag="[I015_NAME]">Basic Laser</Text>
+	<Text tag="[I015_DESC]">Does 4 damage to your opponent, +1 more for every 5 points of Red Energy you have.</Text>
+
+	<Text tag="[I016_NAME]">Military Laser</Text>
+	<Text tag="[I016_DESC]">Does 8 damage to your opponent, +1 more for every 3 points of Red Energy you have.</Text>
+
+	<Text tag="[I017_NAME]">Wasp Missiles</Text>
+	<Text tag="[I017_DESC]">Does 2 damage to your opponent, +1 more for every Yellow Gem on the board.</Text>
+
+	<Text tag="[I018_NAME]">Basic Thruster</Text>
+	<Text tag="[I018_DESC]">Destroys a single Gem of your choice on the board. You gain full effect for the Gem destroyed.</Text>
+
+	<Text tag="[I019_NAME]">Military Sweeper</Text>
+	<Text tag="[I019_DESC]">Removes all Mines on the board. Adds +1 Red Energy for each Mine removed and drains that amount from your opponent.</Text>
+
+	<Text tag="[I020_NAME]">Shield Wave</Text>
+	<Text tag="[I020_DESC]">Removes all Blue Gems on the board. Adds +1 to your Shield for every 2 Gems removed.</Text>
+
+	<Text tag="[I021_NAME]">Auto-Repair Scanner</Text>
+	<Text tag="[I021_DESC]">Repairs 8 damage, +1 more for every 4 Green Gems on the board. Drains your Green Energy.</Text>
+
+	<Text tag="[I022_NAME]">Degausser</Text>
+	<Text tag="[I022_DESC]">Removes all Status Effects on your ship.</Text>
+
+	<Text tag="[I023_NAME]">Environmental Degausser</Text>
+	<Text tag="[I023_DESC]">Removes all Status Effects on the board. Does not end your turn.</Text>
+
+	<Text tag="[I024_NAME]">Ultra Degausser</Text>
+	<Text tag="[I024_DESC]">Removes all Status Effects in play.</Text>
+
+	<Text tag="[I025_NAME]">Reflec Armor</Text>
+	<Text tag="[I025_DESC]">Does 1 point of damage to your opponent for every 2 points in your Shield. Drains your Shield to half.</Text>
+
+	<Text tag="[I026_NAME]">Psi Amplifier</Text>
+	<Text tag="[I026_DESC]">Drains 1-10 Psi points randomly from your Psi total, doing 1 point of damage to the opponent for every point drained.</Text>
+
+	<Text tag="[I027_NAME]">Shield Synapse</Text>
+	<Text tag="[I027_DESC]">Destroys all Purple Gems on the board and adds +1 to your Shield for every 2 Gems destroyed.</Text>
+
+	<Text tag="[I028_NAME]">Psi Transformer</Text>
+	<Text tag="[I028_DESC]">Select a Gem. Changes all Gems of matching color into Purple Gems.</Text>
+
+	<Text tag="[I029_NAME]">Prismatic Beam</Text>
+	<Text tag="[I029_DESC]">Does 5 points of damage to your opponent, +2 for every 15 points in your Gunnery Skill (Max: +24)</Text>
+
+	<Text tag="[I030_NAME]">Platinum Transformer</Text>
+	<Text tag="[I030_DESC]">Converts all Yellow Gems into Red Gems.</Text>
+
+	<Text tag="[I031_NAME]">A.I. Transformer</Text>
+	<Text tag="[I031_DESC]">Converts all Yellow Gems into Green Gems.</Text>
+
+	<Text tag="[I032_NAME]">Shield Virus</Text>
+	<Text tag="[I032_DESC]">Reduces the opponents Shield to 0.</Text>
+
+	<Text tag="[I033_NAME]">Adrenal Implant</Text>
+	<Text tag="[I033_DESC]">Passive, Adds 15 to maximum Red Energy + 1 for each 30 points of Gunnery you have.</Text>
+
+	<Text tag="[I034_NAME]">Landing Rockets</Text>
+	<Text tag="[I034_DESC]">Randomly adds 4 Yellow Gems to the board, +1 more for every 15 points of Engineering Skill you have (maximum of +10).</Text>
+
+	<Text tag="[I035_NAME]">Data Regulator</Text>
+	<Text tag="[I035_DESC]">Destroys all White Gems on the board. You gain +1 Intel for every 2 Gems destroyed.</Text>
+
+	<Text tag="[I036_NAME]">Targeting Node</Text>
+	<Text tag="[I036_DESC]">Adds +10 to your maximum Red Energy for the remainder of this Battle and reduces the Red Energy of your opponent to 0.</Text>
+
+	<Text tag="[I037_NAME]">Control Implant</Text>
+	<Text tag="[I037_DESC]">Passive, Adds 10 to maximum Yellow Energy, +1 more for every 30 points of Engineer you have.</Text>
+
+	<Text tag="[I038_NAME]">Data Implant</Text>
+	<Text tag="[I038_DESC]">Passively adds 10 points of Shields +1 more for every 30 points of Pilot Skill you have.</Text>
+
+	<Text tag="[I039_NAME]">Helm Implant</Text>
+	<Text tag="[I039_DESC]">Passively adds 10 points of Shields +1 more for every 8 levels you have.</Text>
+
+	<Text tag="[I040_NAME]">Targeting Jack</Text>
+	<Text tag="[I040_DESC]">Passively increases your maximum Red Energy by 25 +1 more for every 40 Points of Gunnery Skill you have.</Text>
+
+	<Text tag="[I041_NAME]">Control Jack</Text>
+	<Text tag="[I041_DESC]">Passively increases your maximum Yellow and Green Energy by 10 +1 more for every 40 points of Engineer you have.</Text>
+
+	<Text tag="[I042_NAME]">Data Jack</Text>
+	<Text tag="[I042_DESC]">Passively increases your maximum Green Energy by 15 + 1 more for every 40 points of Science you have.</Text>
+
+	<Text tag="[I043_NAME]">Helm Jack</Text>
+	<Text tag="[I043_DESC]">Passively increases your maximum Shields by 5 + 1 more for every 40 points of Pilot you have.</Text>
+
+	<Text tag="[I044_NAME]">Cloaking Module</Text>
+	<Text tag="[I044_DESC]">Cloaks your ship for 10 turns so you take no damage. The cloak ends if you damage your opponent.</Text>
+
+	<Text tag="[I045_NAME]">Spectral Analyzer</Text>
+	<Text tag="[I045_DESC]">Passively increases your maximum Red, Yellow and Green Energy by 15 + 1 for every 250 PSI you have (max +10.)</Text>
+
+	<Text tag="[I046_NAME]">Flightpath Analyzer</Text>
+	<Text tag="[I046_DESC]">Increases your maximum Shield Energy by 20 and increases your Shield by 10.</Text>
+
+	<Text tag="[I047_NAME]">Threat Analyzer</Text>
+	<Text tag="[I047_DESC]">Passively increases your maximum Red Energy and Green Energy by 20 +1 more for every 250 PSI you have (max +10.)</Text>
+
+	<Text tag="[I048_NAME]">Network Analyzer</Text>
+	<Text tag="[I048_DESC]">Passively increases your maximum Red and Yellow Energy by 10 +1 more for every 20 points of Science you have.</Text>
+
+	<Text tag="[I049_NAME]">Newtonian Array</Text>
+	<Text tag="[I049_DESC]">Applies Gravity to the board for 8 turns (causing Gems to fall downwards). Does not end your turn.</Text>
+
+	<Text tag="[I050_NAME]">Anti-Grav Array</Text>
+	<Text tag="[I050_DESC]">Applies Anti-Gravity to the board for 5 turns (causing Gems to fall upwards). Does not end your turn. </Text>
+
+	<Text tag="[I051_NAME]">Mersenne Array</Text>
+	<Text tag="[I051_DESC]">Applies the Grav-Flux effect to the board for 5 turns (causing Gems to fall from random directions). Does not end your turn.</Text>
+
+	<Text tag="[I052_NAME]">Nebula Array</Text>
+	<Text tag="[I052_DESC]">Applies the Gas Nebula effect to the board for 8 turns (causing all Energy matches to double in effect). Does not end your turn.</Text>
+
+	<Text tag="[I053_NAME]">Mine Array</Text>
+	<Text tag="[I053_DESC]">Applies the Minefield effect to the board for 8 turns (causing all damage Gems to double in effect). Does not end your turn.</Text>
+
+	<Text tag="[I054_NAME]">Damage Assimilator</Text>
+	<Text tag="[I054_DESC]">Destroys all Mines on the board. For each Mine destroyed, it adds +2 to maximum Red Energy (for the rest of this Battle).</Text>
+
+	<Text tag="[I055_NAME]">Language Assimilator</Text>
+	<Text tag="[I055_DESC]">Destroys all White Gems on the board. For each Gem destroyed, it adds 1 to your Green Energy.</Text>
+
+	<Text tag="[I056_NAME]">Synaptic Assimilator</Text>
+	<Text tag="[I056_DESC]">Destroys all Purple Gems on the board. For every Gem destroyed, it adds +1 to your Psi points.</Text>
+
+	<Text tag="[I057_NAME]">Tractor Beam</Text>
+	<Text tag="[I057_DESC]">Drains up to 8 points of Yellow Energy from your opponent, adding them to your own.</Text>
+
+	<Text tag="[I058_NAME]">Cobalt Beam</Text>
+	<Text tag="[I058_DESC]">Drains up to 10 Shield Energy from your opponent, adding them to your own Shield Energy.</Text>
+
+	<Text tag="[I059_NAME]">Multiphasic Beam</Text>
+	<Text tag="[I059_DESC]">Halves all of your opponents Energy (Excluding Shields).</Text>
+
+	<Text tag="[I060_NAME]">Darkmatter Beam</Text>
+	<Text tag="[I060_DESC]">All of your opponents Energy is reduced to 0 (Shields reduced by half).</Text>
+
+	<Text tag="[I061_NAME]">EM Beam</Text>
+	<Text tag="[I061_DESC]">Halves the Green Energy of your opponent.</Text>
+
+	<Text tag="[I062_NAME]">Space Bomb</Text>
+	<Text tag="[I062_DESC]">Explodes a random Gem. All Gems surrounding it are destroyed. You gain full effect for every Gem destroyed.</Text>
+
+	<Text tag="[I063_NAME]">Cluster Bomb</Text>
+	<Text tag="[I063_DESC]">All +10 Mines on the board explode, destroying the surrounding Gems. You gain full effect for every Gem destroyed.</Text>
+
+	<Text tag="[I064_NAME]">Mini Cluster Bomb</Text>
+	<Text tag="[I064_DESC]">All +1 Mines on the board explode destroying the surrounding Gems. You gain full effect for every Gem destroyed.</Text>
+
+	<Text tag="[I065_NAME]">EM Bomb</Text>
+	<Text tag="[I065_DESC]">All Green Gems on the board explode, destroying the surrounding Gems. You gain full effect for every Gem destroyed.</Text>
+
+	<Text tag="[I066_NAME]">Smart Bomb</Text>
+	<Text tag="[I066_DESC]">Select a Gem. The chosen Gem and all Gems surrounding it are destroyed. You gain full effect for every Gem destroyed.</Text>
+
+	<Text tag="[I067_NAME]">Shield Drone</Text>
+	<Text tag="[I067_DESC]">Activates a Shield Drone on your ship for 5 turns (causing your Shield to regenerate 4 points at the start of each turn).</Text>
+
+	<Text tag="[I068_NAME]">Interceptor Drone</Text>
+	<Text tag="[I068_DESC]">Activates an Interceptor Drone on your ship for 5 turns (causing all incoming damage of +3 or greater to be reduced by 5 points).</Text>
+
+	<Text tag="[I069_NAME]">Chronotron Drone</Text>
+	<Text tag="[I069_DESC]">Activates a Chronotron Drone on your ship for 5 turns (causing any Time Warp effects that make you miss a turn to be deleted automatically).</Text>
+
+	<Text tag="[I070_NAME]">Guardian Drone</Text>
+	<Text tag="[I070_DESC]">Activates a Guardian Drone on your ship for 5 turns (causing all damage to be halved if your Shield Energy is greater than 0).</Text>
+
+	<Text tag="[I071_NAME]">Ferrite Capacitor</Text>
+	<Text tag="[I071_DESC]">Passively increases your maximum Red and Green Energy by 10, +1 more for every 20 points of Engineer you have.</Text>
+
+	<Text tag="[I072_NAME]">Duplex Node</Text>
+	<Text tag="[I072_DESC]">Increases your maxmium Yellow Energy for this battle by 5 + 1 more for every 4 Yellow Energy you have.</Text>
+
+	<Text tag="[I073_NAME]">Modified Capacitor</Text>
+	<Text tag="[I073_DESC]">Passively increases your maximum Yellow Energy by 15, + 1 more for every 40 points of Engineer you have.</Text>
+
+	<Text tag="[I074_NAME]">Multiphase Node</Text>
+	<Text tag="[I074_DESC]">Increases all maximum Energy (except Shield Energy) by +3. Does not end your turn.</Text>
+
+	<Text tag="[I075_NAME]">Shield Capacitor</Text>
+	<Text tag="[I075_DESC]">Increases your maximum Shield Energy by 20, +1 more for every 3 Blue Gems on the board. Destroys all Blue Gems in play.</Text>
+
+	<Text tag="[I076_NAME]">Basic Disruptor</Text>
+	<Text tag="[I076_DESC]">Adds 4 turns to the Recharge Time of a random opponent Item.</Text>
+
+	<Text tag="[I077_NAME]">EM Disruptor</Text>
+	<Text tag="[I077_DESC]">Adds 2 turns to the Recharge Time of all opponent Items, +1 more for every 10 points of Yellow Energy you have.</Text>
+
+	<Text tag="[I078_NAME]">Power Disruptor</Text>
+	<Text tag="[I078_DESC]">Adds 3 turns to the Recharge Time of the most powerful Item on the opponents ship (Item with the highest Energy cost).</Text>
+
+	<Text tag="[I079_NAME]">Burst Disruptor</Text>
+	<Text tag="[I079_DESC]">Adds 2 turns to the Recharge Time of a random opponent Item. Does not end your turn.</Text>
+
+	<Text tag="[I080_NAME]">Point Disruptor</Text>
+	<Text tag="[I080_DESC]">Adds 4 turns to the Recharge Time of a random opponent Item. Adds 1 more Item for every 50 points in your Gunnery Skill.</Text>
+
+	<Text tag="[I081_NAME]">Cargo Probe</Text>
+	<Text tag="[I081_DESC]">Causes the opponent to lose 10% of their Cargo.</Text>
+
+	<Text tag="[I082_NAME]">Temporal Probe</Text>
+	<Text tag="[I082_DESC]">Inflicts the Time Warp effect on the opponent (causing them to miss turns) for 2 turns, +1 turn for every 10 Yellow Energy you have.</Text>
+
+	<Text tag="[I083_NAME]">Defense Probe</Text>
+	<Text tag="[I083_DESC]">Inflicts the Shield Drain effect on your opponent (causing their Shield to lose 4 points each turn) for 4 turns, +1 turn for every 5 points of Yellow Energy you have.</Text>
+
+	<Text tag="[I084_NAME]">Weapon Probe</Text>
+	<Text tag="[I084_DESC]">Inflicts the Weapon Drain effect on the opponent (causing their Red Energy to lose 3 points each turn) for 5 turns, +1 turn for every 6 points of Yellow Energy you have.</Text>
+
+	<Text tag="[I085_NAME]">Data Probe</Text>
+	<Text tag="[I085_DESC]">Inflicts the CPU Drain effect on your opponent (causing their Green Energy to lose 3 points each turn) for 5 turns, +1 turn for every 6 points of Yellow Energy you have.</Text>
+
+	<Text tag="[I086_NAME]">Mass Drive</Text>
+	<Text tag="[I086_DESC]">Gives you the Mass Driver effect (adds +1 Mine damage for every 2 Yellow Gems in play) for 6 turns.</Text>
+
+	<Text tag="[I087_NAME]">Temporal Drive</Text>
+	<Text tag="[I087_DESC]">Gives you the Time Loop effect (25% chance of an extra turn) for 4 turns, +1 more turn for every 8 points of Yellow Energy you have.</Text>
+
+	<Text tag="[I088_NAME]">Solar Drive</Text>
+	<Text tag="[I088_DESC]">Gives you the Solar Flare effect (matching Red, Green or Blue Gems gives you +2 Yellow Energy) for 5 turns.</Text>
+
+	<Text tag="[I089_NAME]">Nova Drive</Text>
+	<Text tag="[I089_DESC]">Gives you the Nova effect (any Nova fills up your Energy bars) for 5 turns, +1 more turn for every 4 points of Yellow Energy you have.</Text>
+
+	<Text tag="[I090_NAME]">Sub-Light Drive</Text>
+	<Text tag="[I090_DESC]">Gives you the Sub-Light effect (adds +2 to all generated Energy) for 5 turns, +1 more turn for every 5 points of Yellow Energy you have.</Text>
+
+	<Text tag="[I091_NAME]">Anti-Psi Drone</Text>
+	<Text tag="[I091_DESC]">Drains 20 Psi points from the opponent.</Text>
+
+	<Text tag="[I092_NAME]">Worm Drone</Text>
+	<Text tag="[I092_DESC]">Drains 20 Intel Points from the opponent.</Text>
+
+	<Text tag="[I093_NAME]">Needle Drone</Text>
+	<Text tag="[I093_DESC]">Reduces the opponents Shield by 1 point for every 2 points of Red Energy they have.</Text>
+
+	<Text tag="[I094_NAME]">Sabotage Drone</Text>
+	<Text tag="[I094_DESC]">Randomly switches your opponents Energy totals. Does not end your turn.</Text>
+
+	<Text tag="[I095_NAME]">Vampyre Drone</Text>
+	<Text tag="[I095_DESC]">Reduces opponent Shield by 10, +1 point for each 5 levels the opponent has. Adds those points to your own Shield.</Text>
+
+	<Text tag="[I096_NAME]">Temporal Field</Text>
+	<Text tag="[I096_DESC]">Inflicts the Time Warp effect on the opponent (causing them to miss turns) for 2 turns, +1 turn for every 20 points of Shield Energy you have.</Text>
+
+	<Text tag="[I097_NAME]">Memory Field</Text>
+	<Text tag="[I097_DESC]">Inflicts the Confusion effect on the opponent (halving their Skills) for 5 turns, +1 turn for every 3 Blue Gems in play.</Text>
+
+	<Text tag="[I098_NAME]">Mining Laser</Text>
+	<Text tag="[I098_DESC]">Does 3 damage to your opponent, +1 more for every 6 points of Yellow Energy you have.</Text>
+
+	<Text tag="[I099_NAME]">Mining Scoop</Text>
+	<Text tag="[I099_DESC]">Destroys 6 random Gems.</Text>
+
+	<Text tag="[I100_NAME]">ADV Laser</Text>
+	<Text tag="[I100_DESC]">Does 6 damage to your opponent, +1 more for every 4 points of Red Energy you have.</Text>
+
+	<Text tag="[I101_NAME]">Regulon Field</Text>
+	<Text tag="[I101_DESC]">Halves the opponents Shield.</Text>
+
+	<Text tag="[I102_NAME]">Siphon Field</Text>
+	<Text tag="[I102_DESC]">Destroys all Blue Gems in play. Drains 2 points from the opponents Shields for every Gem destroyed.</Text>
+
+	<Text tag="[I103_NAME]">Telekinetic Generator</Text>
+	<Text tag="[I103_DESC]">Destroys all Purple Gems, giving you 1 point of Yellow Energy for every Gem destroyed.</Text>
+
+	<Text tag="[I104_NAME]">Data Generator</Text>
+	<Text tag="[I104_DESC]">Destroys all White Gems, giving you 1 point of Green Energy for every Gem destroyed.</Text>
+
+	<Text tag="[I105_NAME]">Laser Generator</Text>
+	<Text tag="[I105_DESC]">Destroys all Mines on the board, giving you 1 point of Red Energy for every Mine destroyed.</Text>
+
+	<Text tag="[I106_NAME]">Psi-Shield Generator</Text>
+	<Text tag="[I106_DESC]">Destroys all Purple Gems, adding 1 point to your Shields for every Gem destroyed.</Text>
+
+	<Text tag="[I107_NAME]">Data Matrix</Text>
+	<Text tag="[I107_DESC]">Adds +5 to Green Energy. Does not end your turn.</Text>
+
+	<Text tag="[I108_NAME]">Engine Matrix</Text>
+	<Text tag="[I108_DESC]">Adds +5 to Yellow Energy. Does not end your turn.</Text>
+
+	<Text tag="[I109_NAME]">Robotic Minelayer</Text>
+	<Text tag="[I109_DESC]">Turns all Yellow Gems into +1 Mines.</Text>
+
+	<Text tag="[I110_NAME]">Spectral Minelayer</Text>
+	<Text tag="[I110_DESC]">Creates 4 random +1 Mines on the board.</Text>
+
+	<Text tag="[I111_NAME]">Shielded Minelayer</Text>
+	<Text tag="[I111_DESC]">Turns all Blue Gems into +1 Mines.</Text>
+
+	<Text tag="[I112_NAME]">Shock Minelayer</Text>
+	<Text tag="[I112_DESC]">Randomly places a single +10 Mine on the board. Does not end your turn.</Text>
+
+	<Text tag="[I113_NAME]">Ultra Minelayer</Text>
+	<Text tag="[I113_DESC]">Turns all lesser Mines into +3 Mines.</Text>
+
+	<Text tag="[I114_NAME]">Mega Minelayer</Text>
+	<Text tag="[I114_DESC]">Turns all lesser Mines into +5 Mines.</Text>
+
+	<Text tag="[I115_NAME]">Giga Minelayer</Text>
+	<Text tag="[I115_DESC]">Turns all Mines into +10 Mines.</Text>
+
+	<Text tag="[I116_NAME]">Trident Missiles</Text>
+	<Text tag="[I116_DESC]">Does 3 damage to your opponent, +1 damage for every Red Gem on the board.</Text>
+
+	<Text tag="[I117_NAME]">Needle Missiles</Text>
+	<Text tag="[I117_DESC]">Does 3 damage to your opponent, +1 damage for every 2 Green Gems on the board.</Text>
+
+	<Text tag="[I118_NAME]">Counter Missiles</Text>
+	<Text tag="[I118_DESC]">Does 5 damage to your opponent and turns all Red Gems to Blue Gems.</Text>
+
+	<Text tag="[I119_NAME]">Cluster Missiles</Text>
+	<Text tag="[I119_DESC]">Does 4 damage to your opponent and destroys 3 random Gems on the board.</Text>
+
+	<Text tag="[I120_NAME]">Supanova Module</Text>
+	<Text tag="[I120_DESC]">Gives you the Nova effect (any Nova fills up your Energy bars) for 5 turns, +1 more for every 3 Green Gems in play.</Text>
+
+	<Text tag="[I121_NAME]">Shield Multiplexor</Text>
+	<Text tag="[I121_DESC]">Drains your Shield but fills your Red Energy. Does not end your turn.</Text>
+
+	<Text tag="[I122_NAME]">EM Net</Text>
+	<Text tag="[I122_DESC]">Inflicts your opponent with the Time Warp effect (causing them to miss their turn) for 2 turns.</Text>
+
+	<Text tag="[I123_NAME]">Shock Net</Text>
+	<Text tag="[I123_DESC]">Inflicts your opponent with the Time Warp effect (causing them to miss their turn) for 2 turns, +1 more for every 10 points of Red Energy you have.</Text>
+
+	<Text tag="[I124_NAME]">Adaptive Plating</Text>
+	<Text tag="[I124_DESC]">Gives you the Adaptive Armor effect (20% chance to reduce incoming damage to 1 point) for 4 turns, +1 more for every 5 points of Green Energy you have.</Text>
+
+	<Text tag="[I125_NAME]">Conductive Plating</Text>
+	<Text tag="[I125_DESC]">Gives you the Conductive Armor effect (+1 to Red, Yellow, and Green Energy when taking damage) for 4 turns, +1 more for every 5 points of Yellow Energy you have.</Text>
+
+	<Text tag="[I126_NAME]">Vortraag Laser</Text>
+	<Text tag="[I126_DESC]">Does 10 damage to your opponent, +1 more for every 5 levels you have.</Text>
+
+	<Text tag="[I127_NAME]">Basilisk Net</Text>
+	<Text tag="[I127_DESC]">Inflicts your opponent with the Time Warp effect (causing them to miss their turn) for 2 turns, +1 more turns for every 8 points of Red Energy they have.</Text>
+
+	<Text tag="[I128_NAME]">Seeker Torpedoes</Text>
+	<Text tag="[I128_DESC]">Does 6 damage to your opponent, +1 more for every 8 points of Yellow Energy they have.</Text>
+
+	<Text tag="[I129_NAME]">Vortraag Matrix</Text>
+	<Text tag="[I129_DESC]">Adds +8 to your Red Energy.</Text>
+
+	<Text tag="[I130_NAME]">Trident Laser</Text>
+	<Text tag="[I130_DESC]">Does 9 points of damage to your opponent, +1 more for every 4 points of Red Energy you have. Your turn does not end.</Text>
+
+	<Text tag="[I131_NAME]">A.I. Missiles</Text>
+	<Text tag="[I131_DESC]">Does 1 point of damage to your opponent for every 2 points of your Green Energy.</Text>
+
+	<Text tag="[I132_NAME]">Dark Laser</Text>
+	<Text tag="[I132_DESC]">Does 19 damage to your opponent, +1 more for every 2 points of Green Energy you have.</Text>
+
+	<Text tag="[I133_NAME]">Data Synapse</Text>
+	<Text tag="[I133_DESC]">Destroys all Purple Gems. Adds +1 to Intel for every 2 Gems destroyed.</Text>
+
+	<Text tag="[I134_NAME]">Red-Eye Torpedoes</Text>
+	<Text tag="[I134_DESC]">Does 1 point of damage to your opponent for every 2 points of Red Energy they have.</Text>
+
+	<Text tag="[I135_NAME]">Yellowfin Torpedoes</Text>
+	<Text tag="[I135_DESC]">Does 1 point of damage to your opponent for every 2 points of Yellow Energy they have.</Text>
+
+	<Text tag="[I136_NAME]">Weapons Uplink</Text>
+	<Text tag="[I136_DESC]">Converts all Green Gems into Red Gems.</Text>
+
+	<Text tag="[I137_NAME]">Engine Uplink</Text>
+	<Text tag="[I137_DESC]">Converts all Green Gems into Yellow Gems.</Text>
+
+	<Text tag="[I138_NAME]">Photonic Transformer</Text>
+	<Text tag="[I138_DESC]">Select a Gem. Changes all Gems of matching color into White Gems.</Text>
+
+	<Text tag="[I139_NAME]">Mersenne Transformer</Text>
+	<Text tag="[I139_DESC]">Changes all Gems of a random color into Purple Gems.</Text>
+
+	<Text tag="[I140_NAME]">Fireball Thruster</Text>
+	<Text tag="[I140_DESC]">Destroys a selected Gem plus all of the Gems around it. Full effect is given for every Gem destroyed.</Text>
+
+	<Text tag="[I141_NAME]">Weapons Bot</Text>
+	<Text tag="[I141_DESC]">Drains all of your Red Energy and doubles all of your Green Energy.</Text>
+
+	<Text tag="[I142_NAME]">Engine Bot</Text>
+	<Text tag="[I142_DESC]">Drains all of your Yellow Energy and doubles all of your Green Energy.</Text>
+
+	<Text tag="[I143_NAME]">Laser Blaster</Text>
+	<Text tag="[I143_DESC]">Does 6 points of damage to your opponent, ignoring Shields, +1 more for every 5 Red Energy you have.</Text>
+
+	<Text tag="[I144_NAME]">Molecular Blaster</Text>
+	<Text tag="[I144_DESC]">Does 10 points of damage to your opponent, ignoring Shields, +1 more for every 4 points of Red Energy you have.</Text>
+
+	<Text tag="[I145_NAME]">Null Wave</Text>
+	<Text tag="[I145_DESC]">Destroys all Blue Gems in play. You gain no effect from the Gems. Does not end your turn.</Text>
+
+	<Text tag="[I146_NAME]">Shock Wave</Text>
+	<Text tag="[I146_DESC]">Destroys all Blue Gems in play. Adds +1 to your Red Energy for every 2 Gems destroyed.</Text>
+
+	<Text tag="[I147_NAME]">Linear Thruster</Text>
+	<Text tag="[I147_DESC]">Destroys the selected column of Gems. You gain full effect for every Gem destroyed.</Text>
+
+	<Text tag="[I148_NAME]">Multi-Thrusters</Text>
+	<Text tag="[I148_DESC]">Destroys the selected column of Gems and one column on either side. You gain full effect for every Gem destroyed.</Text>
+
+	<Text tag="[I149_NAME]">Doomsday Bomb</Text>
+	<Text tag="[I149_DESC]">All Gems on the board are removed and new Gems fall in to replace them.</Text>
+
+	<Text tag="[I150_NAME]">Threat Scanner</Text>
+	<Text tag="[I150_DESC]">Adds +1 point of Red Energy for every Mine on the board.</Text>
+	
+	<Text tag="[I151_NAME]">Psi-clone Missiles</Text>
+	<Text tag="[I151_DESC]">Does 5 points of Damage to the opponent, +1 point for every 2 Purple Gems in play.</Text>
+	
+	<Text tag="[I152_NAME]">Cytech Assimilator</Text>
+	<Text tag="[I152_DESC]">Changes all Green and Red Gems into Yellow Gems.</Text>
+	
+	<Text tag="[I153_NAME]">Neptune Cannon</Text>
+	<Text tag="[I153_DESC]">Removes all Blue and Red Gems from play, doing 1 point of Damage to the enemy for every 2 Gems removed.</Text>
+	
+	<Text tag="[I154_NAME]">Luminary Shield</Text>
+	<Text tag="[I154_DESC]">Removes all White Gems from play and increases your Shield by 4 points for every White Gem removed up to 75% of your shields.</Text>
+	
+	<Text tag="[I155_NAME]">Quesadan Relic</Text>
+	<Text tag="[I155_DESC]">Removes all White Gems from play, adding +1 to Shields and Hull for every 2 Gems removed.</Text>
+	
+	<Text tag="[I156_NAME]">Modified Laser</Text>
+	<Text tag="[I156_DESC]">Does 15 points of damage to the enemy.</Text>
+
+	<Text tag="[I157_NAME]">Bola Mines</Text>
+	<Text tag="[I157_DESC]">Doubles the number of mines in play. (Max = 8)</Text>
+	
+	<Text tag="[I158_NAME]">Zapper</Text>
+	<Text tag="[I158_DESC]">Leeches a random Energy type from your enemy and adds it to your ship.</Text>
+	
+	<Text tag="[I159_NAME]">Vortraag Death Ray</Text>
+	<Text tag="[I159_DESC]">Halves your enemys Hull points, ignoring Shields.</Text>
+	
+	<Text tag="[I160_NAME]">Elysian Pacifier</Text>
+	<Text tag="[I160_DESC]">Removes all Mines from play, repairing your ship by 1 point for each Mine removed.</Text>
+	
+	<Text tag="[I161_NAME]">Keck Shell</Text>
+	<Text tag="[I161_DESC]">Removes all Blue Gems from play and increases all Energy reserves to 8 below maximum levels.</Text>
+	
+	<Text tag="[I300_NAME]">Psi Micro-Charge Cannon</Text>
+	<Text tag="[I300_DESC]">Does 3 Damage to both Shields and Hull.  Costs 3 PSI.</Text>
+
+	<Text tag="[I301_NAME]">Psi Dual-Core</Text>
+	<Text tag="[I301_DESC]">Gives 2 CPU Energy and 10% of Shields (min: 3) each turn for 6 Turns Costs 6 PSI.</Text>
+
+	<Text tag="[I302_NAME]">Psi Mega-Charge Cannon</Text>
+	<Text tag="[I302_DESC]">Does 5 Damage to both Shields and Hull.  Costs 6 PSI.</Text>
+
+	<Text tag="[I303_NAME]">Psi Giga-Charge Cannon</Text>
+	<Text tag="[I303_DESC]">Does 9 Damage to both Shields and Hull.  Costs 10 PSI.</Text>
+
+	<Text tag="[I304_NAME]">Psi Entropy Field</Text>
+	<Text tag="[I304_DESC]">Causes any player matching purple gems to take Hull and Shield damage.  Costs 5 PSI.</Text>
+
+	<Text tag="[I305_NAME]">Psi Aggression Drone</Text>
+	<Text tag="[I305_DESC]">Deals 3 Hull and Shield Damage per turn for 6 Turns.  Costs 11 PSI.</Text>
+
+	<Text tag="[I306_NAME]">Psi Havoc Drone</Text>
+	<Text tag="[I306_DESC]">Deals 1 Hull and Shield Damage per turn, lowers stats by 20% for 7 Turns.  Costs 12 PSI. Does not end your turn.</Text>
+
+	<Text tag="[I307_NAME]">Psi Sacrifice Cannon</Text>
+	<Text tag="[I307_DESC]">Deals 5 Hp/Sp to user, 14 Hp/Sp to enemy and destroys purple gems.  Costs 42 PSI.</Text>
+
+	<Text tag="[I308_NAME]">Psi Endurance Matrix</Text>
+	<Text tag="[I308_DESC]">Increases all max energy by 8 points.  Costs 20 PSI.</Text>
+
+	<Text tag="[I309_NAME]">Psi Shield Emancipator</Text>
+	<Text tag="[I309_DESC]">Lowers enemy maximum shields by 15%.  Costs 10 PSI.</Text>
+
+	<Text tag="[I310_NAME]">*Contingency Tool</Text>
+	<Text tag="[I310_DESC]">Enemy takes 10~30 hull damage whenever it makes a nova for 6 + 1 turns per 8 Engine.</Text>
+
+	<Text tag="[I311_NAME]">*Reverse-Engineering Probe</Text>
+	<Text tag="[I311_DESC]">Reverses the effect of enemy auto-repair for 5 turns, unless discovered. (Max: -7)</Text>
+
+	<Text tag="[I312_NAME]">*Angst Machine</Text>
+	<Text tag="[I312_DESC]">Sets both ships' auto-repair to 0 for 5 turns + 1 per 5 CPU.</Text>
+
+	<Text tag="[I313_NAME]">*Heat Ray</Text>
+	<Text tag="[I313_DESC]">Overheats enemy weapon systems, lowering gunnery to 10% but will slowly recover. Does not end your turn.</Text>
+
+	<Text tag="[I314_NAME]">*Paralyzation Emitter</Text>
+	<Text tag="[I314_DESC]">Lowers enemy Engineer by 65% for 5 Turns - Also may cause high levels of fuel to leak.</Text>
+
+	<Text tag="[I315_NAME]">*Precision Rockets</Text>
+	<Text tag="[I315_DESC]">Hits enemy 1~3 Times based on ship size.  Deals 6 Damage and 6 Energy loss per hit.</Text>
+
+	<Text tag="[I316_NAME]">*Manual Control Chip</Text>
+	<Text tag="[I316_DESC]">Increases Pilot by ~50%, Decreases Science by ~50% for 10 turns.  Affected by Ship Size.</Text>
+
+	<Text tag="[I317_NAME]">*Optimal Position CPU</Text>
+	<Text tag="[I317_DESC]">Increases damage when matching mines by 2~9 based on ship size for 3~4T. Cancels with hull damage. Your turn does not end.</Text>
+
+	<Text tag="[I318_NAME]">*Advanced Position CPU</Text>
+	<Text tag="[I318_DESC]">Increases damage when matching mines by 5~12 based on ship size for 5T. Cancels with hull damage.</Text>
+
+	<Text tag="[I319_NAME]">*Critical Trajectory Processor</Text>
+	<Text tag="[I319_DESC]">Gives a chance for small ships to deal 150% damage. Lasts 5T + 1 per 5 CPU which it drains.</Text>
+
+	<Text tag="[I320_NAME]">*Mobility Core</Text>
+	<Text tag="[I320_DESC]">Reduce incoming damage by 75% on small ships ~30% of the time for ~7 Turns.
+
+	<Text tag="[I321_NAME]">*Density Field</Text>
+	<Text tag="[I321_DESC]">Increases the engine gained by small ships and decreases it for large ones for 8 Turns.</Text>
+
+	<Text tag="[I322_NAME]">*Impervious Shielding</Text>
+	<Text tag="[I322_DESC]">Grants temporary invincibility to small ships.  Exhausts shields.</Text>
+
+	<Text tag="[I323_NAME]">Basic Ion Laser</Text>
+	<Text tag="[I323_DESC]">Deals 5 Ion Damage to your enemy + 1 for every 5 Red Energy that you have.</Text>
+
+	<Text tag="[I324_NAME]">Adv Ion Laser</Text>
+	<Text tag="[I324_DESC]">Deals 7 Ion Damage to your enemy + 1 for every 4 Red Energy that you have.</Text>
+
+	<Text tag="[I325_NAME]">Military Ion Laser</Text>
+	<Text tag="[I325_DESC]">Deals 9 Ion Damage to your enemy + 1 for every 3 Red Energy that you have.</Text>
+
+	<Text tag="[I326_NAME]">Ion Beam Cannon</Text>
+	<Text tag="[I326_DESC]">Deals 17 Ion Damage to your enemy + 1 for every 4 Red or Green Energy that you have.</Text>
+
+	<Text tag="[I327_NAME]">*Molecular Spasm</Text>
+	<Text tag="[I327_DESC]">Causes energy loss to both ships, deals damage to enemy.  Effects are mitigated by high levels of Science.</Text>
+
+	<Text tag="[I328_NAME]">Hull Patch</Text>
+	<Text tag="[I328_DESC]">Passively Adds 5 to Hull.</Text>
+
+	<Text tag="[I329_NAME]">Layered Armor</Text>
+	<Text tag="[I329_DESC]">Passively Adds 15 to Hull.</Text>
+
+	<Text tag="[I330_NAME]">Reinforced Armor</Text>
+	<Text tag="[I330_DESC]">Passively Adds 20 to Hull.</Text>
+
+	<Text tag="[I331_NAME]">Digital Armor</Text>
+	<Text tag="[I331_DESC]">Passively Adds 20 to Hull + 1 per 20 Points of Science you have.  Only fits size 3~4 Ships.</Text>
+
+	<Text tag="[I332_NAME]">Fission Armor</Text>
+	<Text tag="[I332_DESC]">Passively Adds 25 to Hull + 1 per 20 Points of Engineer you have.  Only fits size 3~4 Ships.</Text>
+
+	<Text tag="[I333_NAME]">PSI Augmenter</Text>
+	<Text tag="[I333_DESC]">Passively Increases the PSI you gain per Purple Match by 1.</Text>
+
+	<Text tag="[ENERGY_MATCHES_DOUBLED]">Energy Matches Doubled</Text>
+	<Text tag="[MINE_DAMAGE_DOUBLED]">Mine Damage Doubled</Text>
+	
+</TextLibrary>

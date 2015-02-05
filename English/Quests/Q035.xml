@@ -1,0 +1,15 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q035_1_0_LOG]">Travel to Fornax Prime.</Text>
+   <Text tag="[Q035_2_0_ACTN]">Contact Fornax Prime</Text>
+   <Text tag="[Q035_2_0_LOG]">Make contact with Fornax Prime.</Text>
+   <Text tag="[Q035_3_0_ACTN]">Submit a Meeting Request</Text>
+   <Text tag="[Q035_3_0_LOG]">Contact Fornax Prime again.</Text>
+   <Text tag="[Q035_4_0_ACTN]">Contact Fornax Prime Again</Text>
+   <Text tag="[Q035_4_0_LOG]">Contact Fornax Prime again.</Text>
+   <Text tag="[Q035_5_0_ACTN]">Ambush the Soulless</Text>
+   <Text tag="[Q035_5_0_LOG]">Attack the Soulless at Taurus I.</Text>
+   <Text tag="[Q035_5_0_ENDMSG]">Return with the Soulless&apos; body to Fornax Prime.</Text>
+   <Text tag="[Q035_6_0_ACTN]">Submit a Meeting Request</Text>
+   <Text tag="[Q035_6_0_LOG]">Contact Fornax Prime again.</Text>
+</TextLibrary>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q031a_NAME1]">SABLE</Text>
+
+   <Text tag="[Conv_Q031a_0000]">I just received a message from the MRI. They want me to return to Serpens Prime.</Text>
+   <Text tag="[Conv_Q031a_0001]">I just received a message from the MRI. They want me to return to Serpens Prime.</Text>
+   <Text tag="[Conv_Q031a_0002]">We can take you there.</Text>
+   <Text tag="[Conv_Q031a_0003]">We can take you there.</Text>
+   <Text tag="[Conv_Q031a_0004]">I have a bad feeling about this. I told them to meet me at Vega Station.</Text>
+   <Text tag="[Conv_Q031a_0005]">I have a bad feeling about this. I told them to meet me at Vega Station.</Text>
+   <Text tag="[Conv_Q031a_0006]">What&apos;s the problem?</Text>
+   <Text tag="[Conv_Q031a_0007]">What&apos;s the problem?</Text>
+   <Text tag="[Conv_Q031a_0008]">I think they know we have Beta Prime. They&apos;ll try to capture her. If we meet them in the Vega System, I think we can get away.</Text>
+   <Text tag="[Conv_Q031a_0009]">I think they know we have Beta Prime. They&apos;ll try to capture her. If we meet them in the Vega System, I think we can get away.</Text>
+
+</TextLibrary>

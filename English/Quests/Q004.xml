@@ -1,0 +1,12 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q004_1_0_ACTN]">Check Sable&apos;s Message</Text>
+   <Text tag="[Q004_1_0_LOG]">Fly to the Ceti Jumpgate.</Text>
+   <Text tag="[Q004_2_0_ACTN]">Hack LeapGate</Text>
+   <Text tag="[Q004_2_0_LOG]">Hack the Ceti LeapGate.</Text>
+   <Text tag="[Q004_3_0_ACTN]">Get the Engineering Drone</Text>
+   <Text tag="[Q004_3_0_LOG]">Fly to Erebus Sigma Station to get an Engineering Drone.</Text>
+   <Text tag="[Q004_3_0_ENDMSG]">ED24 is now on-board your ship.</Text>
+   <Text tag="[Q004_4_0_ACTN]">Hack LeapGate</Text>
+   <Text tag="[Q004_4_0_LOG]">Hack the Ceti LeapGate.</Text>
+</TextLibrary>

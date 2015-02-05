@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q013b_NAME1]">PEZT</Text>
+
+   <Text tag="[Conv_Q013b_0000]">We received your distress call. Please identify yourself.</Text>
+   <Text tag="[Conv_Q013b_0001]">We received your distress call. Please identify yourself.</Text>
+   <Text tag="[Conv_Q013b_0002]">I am Pezt of Jahrwox. Pirates not far behind. Please help. I will pay... well.</Text>
+   <Text tag="[Conv_Q013b_0003]">I am Pezt of Jahrwox. Pirates not far behind. Please help. I will pay... well.</Text>
+   <Text tag="[Conv_Q013b_0004]">Not a Jahrwoxi, kid. You help those little rats at your own peril.</Text>
+   <Text tag="[Conv_Q013b_0005]">Not a Jahrwoxi, kid. You help those little rats at your own peril.</Text>
+   <Text tag="[Conv_Q013b_0006]">We can&apos;t very well leave him to be shot down...</Text>
+   <Text tag="[Conv_Q013b_0007]">We can&apos;t very well leave him to be shot down...</Text>
+   <Text tag="[Conv_Q013b_0008]">It&apos;s on your head, kid. At least see what you can get from him. He&apos;s a Jahrwoxi, he&apos;d feel cheated if there was no haggling involved.</Text>
+   <Text tag="[Conv_Q013b_0009]">It&apos;s on your head, kid. At least see what you can get from him. He&apos;s a Jahrwoxi, he&apos;d feel cheated if there was no haggling involved.</Text>
+   <Text tag="[Conv_Q013b_0010]">Very well, what&apos;s it worth to you, Pezt?</Text>
+   <Text tag="[Conv_Q013b_0011]">Very well, what&apos;s it worth to you, Pezt?</Text>
+   <Text tag="[Conv_Q013b_0012]">Pezt give you 500 Credit. It is all Pezt owns.</Text>
+   <Text tag="[Conv_Q013b_0013]">Pezt give you 500 Credit. It is all Pezt owns.</Text>
+   <Text tag="[Conv_Q013b_0014]">Apart from your ship...</Text>
+   <Text tag="[Conv_Q013b_0015]">Apart from your ship...</Text>
+   <Text tag="[Conv_Q013b_0016]">Look at Pezt ship. Not worth much.</Text>
+   <Text tag="[Conv_Q013b_0017]">Look at Pezt ship. Not worth much.</Text>
+   <Text tag="[Conv_Q013b_0018]">What do you know about a battle between a Trident ship and a shuttle a few days ago?</Text>
+   <Text tag="[Conv_Q013b_0019]">What do you know about a battle between a Trident ship and a shuttle a few days ago?</Text>
+   <Text tag="[Conv_Q013b_0020]">You help Pezt. Pezt tell you all about the battle.</Text>
+   <Text tag="[Conv_Q013b_0021]">You help Pezt. Pezt tell you all about the battle.</Text>
+   <Text tag="[Conv_Q013b_0022]">Done!</Text>
+   <Text tag="[Conv_Q013b_0023]">Done!</Text>
+
+</TextLibrary>

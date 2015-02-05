@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0Q2_1_0_ACTN]">Renew the Statue</Text>
+   <Text tag="[Q0Q2_1_0_LOG]">Travel to the Cradle of Quesada in the Theseus System.</Text>
+   <Text tag="[Q0Q2_1_0_ENDMSG]">Now you must travel to Plasmia Prime.</Text>
+   <Text tag="[Q0Q2_2_0_ACTN]">Renew the Statue</Text>
+   <Text tag="[Q0Q2_2_0_LOG]">Travel to Plasmia Prime.</Text>
+   <Text tag="[Q0Q2_2_0_ENDMSG]">The statue has been renewed. Return to Quesada Prime.</Text>
+   <Text tag="[Q0Q2_3_0_ACTN]">Return the Statue</Text>
+   <Text tag="[Q0Q2_3_0_LOG]">Return to Quesada Prime.</Text>
+</TextLibrary>

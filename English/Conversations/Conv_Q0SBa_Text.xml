@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q0SBa_NAME1]">SABLE</Text>
+
+   <Text tag="[Conv_Q0SBa_0000]">You talked to one of the traitors?</Text>
+   <Text tag="[Conv_Q0SBa_0001]">You talked to one of the traitors?</Text>
+   <Text tag="[Conv_Q0SBa_0002]">Yes, but I&apos;m not sure they are traitors. This one seemed to have a moral objection to something about the MRI.</Text>
+   <Text tag="[Conv_Q0SBa_0003]">Yes, but I&apos;m not sure they are traitors. This one seemed to have a moral objection to something about the MRI.</Text>
+   <Text tag="[Conv_Q0SBa_0004]">How did they escape from Atlia?</Text>
+   <Text tag="[Conv_Q0SBa_0005]">How did they escape from Atlia?</Text>
+   <Text tag="[Conv_Q0SBa_0006]">They used a Psionic power to confuse their pursuers. They taught it to me. We can now avoid encounters with small Shuttle Class ships.</Text>
+   <Text tag="[Conv_Q0SBa_0007]">They used a Psionic power to confuse their pursuers. They taught it to me. We can now avoid encounters with small Shuttle Class ships.</Text>
+
+</TextLibrary>

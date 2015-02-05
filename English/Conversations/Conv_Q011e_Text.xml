@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q011e_NAME1]">KIRINE</Text>
+
+   <Text tag="[Conv_Q011e_0000]">So you&apos;re the lucky one. What&apos;s your name?</Text>
+   <Text tag="[Conv_Q011e_0001]">So you&apos;re the lucky one. What&apos;s your name?</Text>
+   <Text tag="[Conv_Q011e_0002]">Kirine. Kirine Thwaites. And what do you mean &apos;lucky ONE&apos;?</Text>
+   <Text tag="[Conv_Q011e_0003]">Kirine. Kirine Thwaites. And what do you mean &apos;lucky ONE&apos;?</Text>
+   <Text tag="[Conv_Q011e_0004]">You&apos;re the only survivor we&apos;ve found. What happened here?</Text>
+   <Text tag="[Conv_Q011e_0005]">You&apos;re the only survivor we&apos;ve found. What happened here?</Text>
+   <Text tag="[Conv_Q011e_0006]">I... I have no idea...</Text>
+   <Text tag="[Conv_Q011e_0007]">I... I have no idea...</Text>
+   <Text tag="[Conv_Q011e_0008]">What? You mean you can&apos;t remember?</Text>
+   <Text tag="[Conv_Q011e_0009]">What? You mean you can&apos;t remember?</Text>
+   <Text tag="[Conv_Q011e_0010]">No... I remember. But... well... it was just chaos. People were running everywhere. There was shooting. I headed for the escape pod.</Text>
+   <Text tag="[Conv_Q011e_0011]">No... I remember. But... well... it was just chaos. People were running everywhere. There was shooting. I headed for the escape pod.</Text>
+   <Text tag="[Conv_Q011e_0012]">It looks like something broke loose. What were you keeping in here?</Text>
+   <Text tag="[Conv_Q011e_0013]">It looks like something broke loose. What were you keeping in here?</Text>
+   <Text tag="[Conv_Q011e_0014]">I don&apos;t know.</Text>
+   <Text tag="[Conv_Q011e_0015]">I don&apos;t know.</Text>
+   <Text tag="[Conv_Q011e_0016]">You don&apos;t KNOW? How could you not know? You worked here, didn&apos;t you?</Text>
+   <Text tag="[Conv_Q011e_0017]">You don&apos;t KNOW? How could you not know? You worked here, didn&apos;t you?</Text>
+   <Text tag="[Conv_Q011e_0018]">I did, but I worked in the tech-division. I wasn&apos;t allowed to know what the bio-division was up to.</Text>
+   <Text tag="[Conv_Q011e_0019]">I did, but I worked in the tech-division. I wasn&apos;t allowed to know what the bio-division was up to.</Text>
+   <Text tag="[Conv_Q011e_0020]">Hrmmm... well you&apos;d best come with us for now. We&apos;ll try to get you back to Serpens Prime eventually. Not that it seems you have anything to tell them.</Text>
+   <Text tag="[Conv_Q011e_0021]">Hrmmm... well you&apos;d best come with us for now. We&apos;ll try to get you back to Serpens Prime eventually. Not that it seems you have anything to tell them.</Text>
+
+</TextLibrary>

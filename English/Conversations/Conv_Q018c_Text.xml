@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q018c_NAME1]">KIRINE</Text>
+
+   <Text tag="[Conv_Q018c_0000]">Yawwwnnnn... Wait! I have an energy spike on the console!</Text>
+   <Text tag="[Conv_Q018c_0001]">Yawwwnnnn... Wait! I have an energy spike on the console!</Text>
+   <Text tag="[Conv_Q018c_0002]">Incoming! We might finally get to see what this creature looks like.</Text>
+   <Text tag="[Conv_Q018c_0003]">Incoming! We might finally get to see what this creature looks like.</Text>
+   <Text tag="[Conv_Q018c_0004]">Deploying the Mag-Net...</Text>
+   <Text tag="[Conv_Q018c_0005]">Deploying the Mag-Net...</Text>
+   <Text tag="[Conv_Q018c_0006]">We have him!</Text>
+   <Text tag="[Conv_Q018c_0007]">We have him!</Text>
+   <Text tag="[Conv_Q018c_0008]">Now the fight is on!</Text>
+   <Text tag="[Conv_Q018c_0009]">Now the fight is on!</Text>
+
+</TextLibrary>

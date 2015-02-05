@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Q0D1_1_0_LOG]">Travel to Keck Sigma.</Text>
+   <Text tag="[Q0D1_1_0_ENDMSG]">This looks like a good place to hide and monitor transmissions.</Text>
+
+   <Text tag="[Q0D1_2_0_LOG]">Monitor transmissions at Keck Sigma.</Text>
+   <Text tag="[Q0D1_2_0_ACTN]">Monitor Transmissions</Text>
+   <Text tag="[Q0D1_2_0_ENDMSG]">You discover nothing. Keep trying!</Text>
+
+   <Text tag="[Q0D1_3_0_LOG]">Monitor transmissions at Keck Sigma.</Text>
+   <Text tag="[Q0D1_3_0_ACTN]">Monitor Transmissions</Text>
+   <Text tag="[Q0D1_3_0_MSG]">You have been spotted by the Keck. Prepare for battle.</Text>
+   <Text tag="[Q0D1_3_0_ENDMSG]">Monitor transmissions again.</Text>
+   
+   <Text tag="[Q0D1_4_0_LOG]">Monitor transmissions at Keck Sigma.</Text>
+   <Text tag="[Q0D1_4_0_ACTN]">Monitor Transmissions</Text>   
+   <Text tag="[Q0D1_4_0_MSG]">You have intercepted a transmission to a Keck Pirate.</Text>
+   <Text tag="[Q0D1_4_0_ENDMSG]">Return to Degani Prime with the transmission.</Text>
+
+   <Text tag="[Q0D1_5_0_LOG]">Report back to Degani Prime.</Text>
+   <Text tag="[Q0D1_5_0_ACTN]">Report on the Keck</Text>
+   
+</TextLibrary>

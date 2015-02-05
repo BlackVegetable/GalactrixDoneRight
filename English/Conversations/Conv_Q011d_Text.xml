@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q011d_NAME1]">SABLE</Text>
+
+   <Text tag="[Conv_Q011d_0000]">What is this place? It looks as if they were attacked. Pirates, perhaps?</Text>
+   <Text tag="[Conv_Q011d_0001]">What is this place? It looks as if they were attacked. Pirates, perhaps?</Text>
+   <Text tag="[Conv_Q011d_0002]">It is one of our research laboratories.</Text>
+   <Text tag="[Conv_Q011d_0003]">It is one of our research laboratories.</Text>
+   <Text tag="[Conv_Q011d_0004]">Researching what?</Text>
+   <Text tag="[Conv_Q011d_0005]">Researching what?</Text>
+   <Text tag="[Conv_Q011d_0006]">I have no idea. We should split up and search; we&apos;ll cover more ground that way.</Text>
+   <Text tag="[Conv_Q011d_0007]">I have no idea. We should split up and search; we&apos;ll cover more ground that way.</Text>
+   <Text tag="[Conv_Q011d_0008]">What a mess. There&apos;s stuff broken everywhere.</Text>
+   <Text tag="[Conv_Q011d_0009]">What a mess. There&apos;s stuff broken everywhere.</Text>
+   <Text tag="[Conv_Q011d_0010]">People shot... running away from something... they look like they were terrified...</Text>
+   <Text tag="[Conv_Q011d_0011]">People shot... running away from something... they look like they were terrified...</Text>
+   <Text tag="[Conv_Q011d_0012]">Hmmm... I don&apos;t think they were attacked by Pirates... It looks like something broke OUT of here...</Text>
+   <Text tag="[Conv_Q011d_0013]">Hmmm... I don&apos;t think they were attacked by Pirates... It looks like something broke OUT of here...</Text>
+   <Text tag="[Conv_Q011d_0014]">Sable?</Text>
+   <Text tag="[Conv_Q011d_0015]">Sable?</Text>
+   <Text tag="[Conv_Q011d_0016]">I&apos;ve located the distress beacon. It&apos;s coming from an escape pod over near Gemini I.</Text>
+   <Text tag="[Conv_Q011d_0017]">I&apos;ve located the distress beacon. It&apos;s coming from an escape pod over near Gemini I.</Text>
+
+</TextLibrary>

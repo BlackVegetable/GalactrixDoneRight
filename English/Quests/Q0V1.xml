@@ -1,0 +1,9 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0V1_1_0_MSG]">The Degani send a ship to stop you!</Text>
+   <Text tag="[Q0V1_1_0_ACTN]">Obtain a Tybbar</Text>
+   <Text tag="[Q0V1_1_0_LOG]">Travel to Lepus VII.</Text>
+   <Text tag="[Q0V1_1_0_ENDMSG]">You have a Tybbar. Now return to Vortraag Prime.</Text>
+   <Text tag="[Q0V1_2_0_ACTN]">Return the Tybbar</Text>
+   <Text tag="[Q0V1_2_0_LOG]">Return to Vortraag Prime.</Text>
+</TextLibrary>

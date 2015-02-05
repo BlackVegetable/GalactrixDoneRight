@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+
+<TextLibrary>
+
+   <Text tag="[Q045_1_0_LOG]">Travel to Gorgon III.</Text>
+
+   <Text tag="[Q045_2_0_ACTN]">Use the Krystalli heart</Text>
+   <Text tag="[Q045_2_0_LOG]">Use the Krystalli heart at Gorgon III.</Text>
+
+   <Text tag="[Q045_3_0_ACTN]">Use the heart Again</Text>
+   <Text tag="[Q045_3_0_LOG]">Use the Krystalli heart at Gorgon III again.</Text>
+   
+</TextLibrary>

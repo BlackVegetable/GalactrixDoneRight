@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q012e_NAME0]">[Conv_Q012e_NAME0]</Text>
+   <Text tag="[Conv_Q012e_NAME1]">ED24</Text>
+
+   <Text tag="[Conv_Q012e_0000]">This ship&apos;s in pretty bad condition, ED.</Text>
+   <Text tag="[Conv_Q012e_0001]">This ship&apos;s in pretty bad condition, ED.</Text>
+   <Text tag="[Conv_Q012e_0002]">Logs indicate that it was in a battle with a Trident Warship and sustained heavy damage. There is no record of anything else.</Text>
+   <Text tag="[Conv_Q012e_0003]">Logs indicate that it was in a battle with a Trident Warship and sustained heavy damage. There is no record of anything else.</Text>
+   <Text tag="[Conv_Q012e_0004]">Maybe Trident captured or killed this thing, but if it somehow got on board the Trident ship, then it just got ten times as dangerous.</Text>
+   <Text tag="[Conv_Q012e_0005]">Maybe Trident captured or killed this thing, but if it somehow got on board the Trident ship, then it just got ten times as dangerous.</Text>
+
+</TextLibrary>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q012a_NAME1]">SABLE</Text>
+
+   <Text tag="[Conv_Q012a_0000]">We should follow whatever it is that has escaped this lab.</Text>
+   <Text tag="[Conv_Q012a_0001]">We should follow whatever it is that has escaped this lab.</Text>
+   <Text tag="[Conv_Q012a_0002]">Very well. How do we track it?</Text>
+   <Text tag="[Conv_Q012a_0003]">Very well. How do we track it?</Text>
+   <Text tag="[Conv_Q012a_0004]">It must have taken a shuttle. It has a few days on us, but your ship is fast, we can follow its engine trail and try to overtake it.</Text>
+   <Text tag="[Conv_Q012a_0005]">It must have taken a shuttle. It has a few days on us, but your ship is fast, we can follow its engine trail and try to overtake it.</Text>
+
+</TextLibrary>

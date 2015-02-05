@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0Q0_1_0_MSG]">The statue is on-board a Jahrwoxi ship.</Text>
+   <Text tag="[Q0Q0_1_0_ACTN]">Take Back Statue</Text>
+   <Text tag="[Q0Q0_1_0_LOG]">Get the statue from Corvus IV.</Text>
+   <Text tag="[Q0Q0_2_0_ACTN]">Return the Statue</Text>
+   <Text tag="[Q0Q0_2_0_LOG]">Return the statue to Quesada Prime.</Text>
+</TextLibrary>

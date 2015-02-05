@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q35aC_NAME1]">SABLE</Text>
+
+   <Text tag="[Conv_Q35aC_0000]">That was a good fight.  Only two rounds to go.</Text>
+   <Text tag="[Conv_Q35aC_0001]">That was a good fight.  Only two rounds to go.</Text>
+   <Text tag="[Conv_Q35aC_0002]">Tell me about my next opponent.</Text>
+   <Text tag="[Conv_Q35aC_0003]">Tell me about my next opponent.</Text>
+   <Text tag="[Conv_Q35aC_0004]">He is known as &quot;Shotgun Jimmy&quot;.  He likes to fly small ships and dance circles around his foes.</Text>
+   <Text tag="[Conv_Q35aC_0005]">He is known as &quot;Shotgun Jimmy&quot;.  He likes to fly small ships and dance circles around his foes.</Text>
+   <Text tag="[Conv_Q35aC_0006]">I know how to deal with small ships.  I&apos;ll go to the third round now.</Text>
+   <Text tag="[Conv_Q35aC_0007]">I can handle small ships.  I&apos;ll go to the third round now.</Text>
+
+</TextLibrary>

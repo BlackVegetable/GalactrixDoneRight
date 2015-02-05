@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Qr03_1_0_LOG]">Destroy a Trident Battleship from Libra VII.</Text>
+   <Text tag="[Qr03_1_0_ACTN]">Attack</Text>
+   <Text tag="[Qr03_1_0_ENDMSG]">Report your success to Auriga X</Text>
+   <Text tag="[Qr03_2_0_LOG]">Report your success to Auriga X.</Text>
+   <Text tag="[Qr03_2_0_ACTN]">Report</Text>
+   <Text tag="[Qr03_2_0_ENDMSG]">You have gained favor with Cytech.</Text>
+
+</TextLibrary>

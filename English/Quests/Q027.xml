@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Q027_1_0_LOG]">Search for the Archive in the Icarus, Navi and Degani Systems.</Text>
+   <Text tag="[Q027_1_0_ACTN]">Inquire about the Archive</Text>
+
+   <Text tag="[Q027_1_3_LOG]">Search for the Archive in the Icarus, Navi and Degani Systems.</Text>
+   <Text tag="[Q027_1_1_ACTN]">Inquire about the Archive</Text>
+   <Text tag="[Q027_1_2_ACTN]">Inquire about the Archive</Text>
+   <Text tag="[Q027_1_3_ACTN]">Inquire about the Archive</Text>
+
+   <Text tag="[Q027_2_0_PRE]">You must have 2000 Credits to purchase information about the Luminary Archive. Return when you have it.</Text>
+   <Text tag="[Q027_2_0_LOG]">Pay for information about the Luminary Archive on Degani VII.</Text>
+   <Text tag="[Q027_2_0_ACTN]">Pay for Information</Text>   
+   <Text tag="[Q027_2_0_ENDMSG]">2000 Credits subtracted. You now have the information.</Text>
+
+</TextLibrary>

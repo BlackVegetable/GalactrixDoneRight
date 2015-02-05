@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q017a_NAME1]">PEZT</Text>
+
+   <Text tag="[Conv_Q017a_0000]">We travel to Jahrwox Prime. Tell my people of this... this...</Text>
+   <Text tag="[Conv_Q017a_0001]">We travel to Jahrwox Prime. Tell my people of this... this...</Text>
+   
+   <Text tag="[Conv_Q017a_0002]">We will, Pezt. Can your people help us track it? There is nobody left alive in this system who saw it leave.</Text>
+   <Text tag="[Conv_Q017a_0003]">We will, Pezt. Can your people help us track it? There is nobody left alive in this system who saw it leave.</Text>
+   
+   <Text tag="[Conv_Q017a_0004]">I take you to our Elder, the Silent One. He tell us what to do.</Text>
+   <Text tag="[Conv_Q017a_0005]">I take you to our Elder, the Silent One. He tell us what to do.</Text>
+
+</TextLibrary>

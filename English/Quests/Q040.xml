@@ -1,0 +1,13 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q040_1_0_LOG]">Travel to Plasmia Prime.</Text>
+   <Text tag="[Q040_2_0_ACTN]">Contact Trident</Text>
+   <Text tag="[Q040_2_0_LOG]">Contact Trident at Plasmia Prime.</Text>
+   <Text tag="[Q040_3_0_ACTN]">Engage the Soulless</Text>
+   <Text tag="[Q040_3_0_LOG]">Engage the Soulless at Plasmia Prime.</Text>
+   <Text tag="[Q040_4_0_ACTN]">Engage the Soulless</Text>
+   <Text tag="[Q040_4_0_LOG]">Engage the Soulless at Plasmia Prime.</Text>
+   <Text tag="[Q040_4_0_ENDMSG]">That was the last of the Soulless ships.</Text>
+   <Text tag="[Q040_5_0_ACTN]">Report to Trident</Text>
+   <Text tag="[Q040_5_0_LOG]">Contact Trident at Plasmia Prime.</Text>
+</TextLibrary>

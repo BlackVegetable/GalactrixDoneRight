@@ -1,0 +1,9 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0SD_1_0_ACTN]">Scan for The Lost</Text>
+   <Text tag="[Q0SD_1_0_LOG]">Travel to Leo Epsilon.</Text>
+   <Text tag="[Q0SD_1_0_ENDMSG]">You have found one of The Lost.</Text>
+   <Text tag="[Q0SD_2_0_ACTN]">Send Sable to the Surface</Text>
+   <Text tag="[Q0SD_2_0_LOG]">Meet The Lost on Leo Epsilon.</Text>
+   <Text tag="[Q0SD_2_0_ENDMSG]">You have gained the third Psi Power.</Text>
+</TextLibrary>

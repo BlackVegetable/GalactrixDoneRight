@@ -1,0 +1,16 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q30c_1_0_LOG]">Travel to Serpens Station to meet with your contact</Text>
+   <Text tag="[Q30c_1_0_ACTN]">Send Sable to the Contact</Text>
+   <Text tag="[Q30c_1_0_ENDMSG]">Sable reports back to you</Text>
+   <Text tag="[Q30c_2_0_ACTN]">Attack the first Pirate</Text>
+   <Text tag="[Q30c_2_0_LOG]">Travel to the Apus System and Defeat both Pirates</Text>
+   <Text tag="[Q30c_2_0_ENDMSG]">One Pirate Down, One to Go</Text>
+   <Text tag="[Q30c_3_0_ACTN]">Battle the second Pirate</Text>
+   <Text tag="[Q30c_3_0_LOG]">Battle the second Pirate in the Apus System</Text>
+   <Text tag="[Q30c_3_0_ENDMSG]">Good job, report back to Serpens III</Text>
+   <Text tag="[Q30c_4_0_ACTN]">Report</Text>
+   <Text tag="[Q30c_4_0_LOG]">Report back to Serpens III for your next mission</Text>
+
+
+</TextLibrary>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q013a_NAME1]">SABLE</Text>
+
+   <Text tag="[Conv_Q013a_0000]">We have received a distress call from a ship. They say they are being attacked by Pirates.</Text>
+   <Text tag="[Conv_Q013a_0001]">We have received a distress call from a ship. They say they are being attacked by Pirates.</Text>
+   <Text tag="[Conv_Q013a_0002]">We should go help them. Maybe they know something about this creature we&apos;re tracking. Where are they?</Text>
+   <Text tag="[Conv_Q013a_0003]">We should go help them. Maybe they know something about this creature we&apos;re tracking. Where are they?</Text>
+   <Text tag="[Conv_Q013a_0004]">They are in orbit around Asteroid SR758W.</Text>
+   <Text tag="[Conv_Q013a_0005]">They are in orbit around Asteroid SR758W.</Text>
+
+</TextLibrary>

@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q30i_1_0_LOG]">Travel to the Talosian station to find your weapon</Text>
+   <Text tag="[Q30i_1_0_ACTN]">Ask about the Weapon</Text>
+   <Text tag="[Q30i_1_0_ENDMSG]">A weapons dealer will sell you the weapon</Text>
+   <Text tag="[Q30i_2_0_LOG]">Purchase the weapon at the Talosian station</Text>
+   <Text tag="[Q30i_2_0_ACTN]">Purchase the weapon(450 credits)</Text>
+   <Text tag="[Q30i_2_0_ENDMSG]">You have obtained the first Psi-Weapon</Text>
+   <Text tag="[Q30i_2_0_PRE]">You don&apos;t have enough money</Text>
+
+</TextLibrary>

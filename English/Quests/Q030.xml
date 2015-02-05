@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+
+<TextLibrary>
+
+   <Text tag="[Q030_1_0_LOG]">Travel to Mars in the Terra System.</Text>
+   <Text tag="[Q030_2_0_ACTN]">Search Mars Archive</Text>
+   <Text tag="[Q030_2_0_LOG]">Search the Archive on Mars in the Terra System.</Text>
+   <Text tag="[Q030_2_0_ENDMSG]">You find nothing of value in the Archive.</Text>
+   <Text tag="[Q030_3_0_LOG]">Travel to Earth in the Terra System.</Text>
+   <Text tag="[Q030_4_0_ACTN]">Search Earth Archive</Text>
+   <Text tag="[Q030_4_0_LOG]">Search the Archive on Earth in the Terra System.</Text>
+   <Text tag="[Q030_4_0_ENDMSG]">You find nothing of value in the Archive.</Text>
+   
+</TextLibrary>

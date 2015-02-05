@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Information War: Sable Informs"/>
+   <Text file="English\Conversations\Conv_Q33aA_Text.xml"/>
+   <Backdrop file=""/>
+   <Character index="0" type="npc" portrait="[img_CSAB_LS]" portraitindex="0" name="[Conv_Q33aA_NAME0]"/>
+
+   <Actions>
+      <Action type="removechar" character="0" time="0" />
+      <Action type="addchar" character="0" time="500" file="[img_CSAB_LS]" />      
+      <Action type="talk_male" character="0" text="[Conv_Q33aA_0000]" />
+      <Action type="talk_female" character="0" text="[Conv_Q33aA_0001]" />
+      <Action type="removechar" character="0" time="500" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

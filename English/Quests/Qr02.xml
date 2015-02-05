@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Qr02_1_0_LOG]">Destroy a Pirate Battlecruiser from Icarus IX.</Text>
+   <Text tag="[Qr02_1_0_ACTN]">Attack</Text>
+   <Text tag="[Qr02_1_0_ENDMSG]">Report your success to Degani VII</Text>
+   <Text tag="[Qr02_2_0_LOG]">Report your success to Degani VII.</Text>
+   <Text tag="[Qr02_2_0_ACTN]">Report</Text>
+   <Text tag="[Qr02_2_0_ENDMSG]">You have gained favor with the Degani.</Text>
+
+</TextLibrary>

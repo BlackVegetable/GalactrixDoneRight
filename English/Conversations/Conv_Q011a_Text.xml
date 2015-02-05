@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q011a_NAME1]">SABLE</Text>
+
+   <Text tag="[Conv_Q011a_0000]">The MRI&apos;s purpose becomes clear.</Text>
+   <Text tag="[Conv_Q011a_0001]">The MRI&apos;s purpose becomes clear.</Text>
+   <Text tag="[Conv_Q011a_0002]">It does?</Text>
+   <Text tag="[Conv_Q011a_0003]">It does?</Text>
+   <Text tag="[Conv_Q011a_0004]">There is a distress call coming from the Gemini Labs. There must be something important there. We should investigate.</Text>
+   <Text tag="[Conv_Q011a_0005]">There is a distress call coming from the Gemini Labs. There must be something important there. We should investigate.</Text>
+
+</TextLibrary>

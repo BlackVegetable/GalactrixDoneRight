@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q010_1_0_ACTN]">Hack LeapGate</Text>
+   <Text tag="[Q010_1_0_LOG]">Hack the Erebus-Talus LeapGate.</Text>
+   <Text tag="[Q010_2_0_LOG]">Travel to the Talus-Gemini LeapGate.</Text>
+   <Text tag="[Q010_3_0_ACTN]">Hack LeapGate</Text>
+   <Text tag="[Q010_3_0_LOG]">Hack the Talus-Gemini LeapGate.</Text>
+</TextLibrary>

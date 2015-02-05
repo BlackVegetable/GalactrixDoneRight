@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q032b_NAME1]">EMPEROR</Text>
+
+   <Text tag="[Conv_Q032b_0000]">Your Imperial Majesty, it is an honor to meet you.</Text>
+   <Text tag="[Conv_Q032b_0001]">Your Imperial Majesty, it is an honor to meet you.</Text>
+   <Text tag="[Conv_Q032b_0002]">So you are the boy from MRI who found Beta Prime, yes?</Text>
+   <Text tag="[Conv_Q032b_0003]">So you are the girl from MRI who found Beta Prime, yes?</Text>
+   <Text tag="[Conv_Q032b_0004]">She is aboard my ship, off this planet, Majesty.</Text>
+   <Text tag="[Conv_Q032b_0005]">She is aboard my ship, off this planet, Majesty.</Text>
+   <Text tag="[Conv_Q032b_0006]">Are you reading my mind, boy?</Text>
+   <Text tag="[Conv_Q032b_0007]">Are you reading my mind, girl?</Text>
+   <Text tag="[Conv_Q032b_0008]">No, Majesty. I&apos;ve come to seek the help of Lumina in tracking these creatures you may have seen recently. We call them the Soulless.</Text>
+   <Text tag="[Conv_Q032b_0009]">No, Majesty. I&apos;ve come to seek the help of Lumina in tracking these creatures you may have seen recently. We call them the Soulless.</Text>
+   <Text tag="[Conv_Q032b_0010]">Prove to me this is not an MRI trap. Shoot down the three MRI ships that patrol the Vega System and return. Then we will talk.</Text>
+   <Text tag="[Conv_Q032b_0011]">Prove to me this is not an MRI trap. Shoot down the three MRI ships that patrol the Vega System and return. Then we will talk.</Text>
+
+</TextLibrary>

@@ -1,0 +1,20 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q32a_1_0_LOG]">Travel to Quesada Prime</Text>
+   <Text tag="[Q32a_1_0_ACTN]">Ask about the Weapon</Text>
+   <Text tag="[Q32a_1_0_ENDMSG]">The weapon is on Quesada Tau</Text>
+   <Text tag="[Q32a_2_0_PRE]">The Quesadans don&apos;t like you enough to tell you anything about the weapon</Text>
+   <Text tag="[Q32a_2_0_LOG]">Negotiate for the Weapon on Quesadan Tau</Text>
+   <Text tag="[Q32a_2_0_ACTN]">Negotiate for the Weapon</Text>
+   <Text tag="[Q32a_2_0_ENDMSG]">They accept your offer</Text>
+   <Text tag="[Q32a_3_0_LOG]">Destroy the Vagabond near Quesada Tau</Text>
+   <Text tag="[Q32a_3_0_ACTN]">Attack the Vagabond</Text>
+   <Text tag="[Q32a_3_0_ENDMSG]">One down, One to go</Text>
+   <Text tag="[Q32a_4_0_LOG]">Destroy the Vagabond near Quesada Base</Text>
+   <Text tag="[Q32a_4_0_ACTN]">Attack the Vagabond</Text>
+   <Text tag="[Q32a_4_0_ENDMSG]">Report your success to Quesada Prime</Text>
+   <Text tag="[Q32a_5_0_LOG]">Report your success to Quesada Prime</Text>
+   <Text tag="[Q32a_5_0_ACTN]">Report</Text>
+   <Text tag="[Q32a_5_0_ENDMSG]">The Quesadans give you the Weapon with their blessing</Text>
+
+</TextLibrary>

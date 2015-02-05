@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q018d_NAME1]">CLONE SOULESS</Text>
+
+   <Text tag="[Conv_Q018d_0000]">Enemy ship, please stand down. We have you at a disadvantage.</Text>
+   <Text tag="[Conv_Q018d_0001]">Enemy ship, please stand down. We have you at a disadvantage.</Text>
+   <Text tag="[Conv_Q018d_0002]">Standing down is not in my programming. We are infinite. I will be replaced.</Text>
+   <Text tag="[Conv_Q018d_0003]">Standing down is not in my programming. We are infinite. I will be replaced.</Text>
+   <Text tag="[Conv_Q018d_0004]">I&apos;ve seen his kind before. He&apos;s a clone.</Text>
+   <Text tag="[Conv_Q018d_0005]">I&apos;ve seen his kind before. He&apos;s a clone.</Text>
+   <Text tag="[Conv_Q018d_0006]">I thought MRI had stopped its breeding programs long ago. I didn&apos;t think we made clones any longer.</Text>
+   <Text tag="[Conv_Q018d_0007]">I thought MRI had stopped its breeding programs long ago. I didn&apos;t think we made clones any longer.</Text>
+   <Text tag="[Conv_Q018d_0008]">The MRI does whatever the MRI wants. What will you do?</Text>
+   <Text tag="[Conv_Q018d_0009]">The MRI does whatever the MRI wants. What will you do?</Text>
+   <Text tag="[Conv_Q018d_0010]">If you don&apos;t stand down, I&apos;ll be forced to fire!</Text>
+   <Text tag="[Conv_Q018d_0011]">If you don&apos;t stand down, I&apos;ll be forced to fire!</Text>
+   <Text tag="[Conv_Q018d_0012]">Then fire away.</Text>
+   <Text tag="[Conv_Q018d_0013]">Then fire away.</Text>
+
+</TextLibrary>

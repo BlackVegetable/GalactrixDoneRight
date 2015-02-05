@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q023_1_0_ACTN]">Use the Starhound</Text>
+   <Text tag="[Q023_1_0_LOG]">Use the Starhound at the Emporium of Keck to  track the ships.</Text>
+   <Text tag="[Q023_2_0_ACTN]">Use the Starhound</Text>
+   <Text tag="[Q023_2_0_LOG]">Use the Starhound at Tucana V to  track the ships.</Text>
+   <Text tag="[Q023_3_0_ACTN]">Use the Starhound</Text>
+   <Text tag="[Q023_3_0_LOG]">Use the Starhound at Virgo V to  track the ships.</Text>
+   <Text tag="[Q023_4_0_ACTN]">Use the Starhound Again</Text>
+   <Text tag="[Q023_4_0_LOG]">Use the Starhound at Virgo V to  track the ships.</Text>
+</TextLibrary>

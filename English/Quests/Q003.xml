@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+   <Text tag="[Q003_1_0_LOG]">Fly to the Asteroid  E3CF36J.</Text>
+   <Text tag="[Q003_2_0_LOG]">Mine the Asteroid E3CF36J.</Text>
+   <Text tag="[Q003_2_0_ACTN]">Mine the Asteroid</Text>
+   <Text tag="[Q003_3_0_LOG]">Return to Erebus Sigma Station.</Text>
+</TextLibrary>

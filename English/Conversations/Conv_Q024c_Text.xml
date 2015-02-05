@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q024c_NAME0]">[Conv_Q024c_NAME0]</Text>
+   <Text tag="[Conv_Q024c_NAME1]">ED24</Text>
+
+   <Text tag="[Conv_Q024c_0000]">No sign of any survivors.</Text>
+   <Text tag="[Conv_Q024c_0001]">No sign of any survivors.</Text>
+   <Text tag="[Conv_Q024c_0002]">Human or mechanical.</Text>
+   <Text tag="[Conv_Q024c_0003]">Human or mechanical.</Text>
+   <Text tag="[Conv_Q024c_0004]">What are you talking about, ED?</Text>
+   <Text tag="[Conv_Q024c_0005]">What are you talking about, ED?</Text>
+   <Text tag="[Conv_Q024c_0006]">Ships, Lydia. They took all the ships. Trident ships. Battleships.</Text>
+   <Text tag="[Conv_Q024c_0007]">Ships, Lydia. They took all the ships. Trident ships. Battleships.</Text>
+   <Text tag="[Conv_Q024c_0008]">Oh yeah... that&apos;s not good.</Text>
+   <Text tag="[Conv_Q024c_0009]">Oh yeah... that&apos;s not good.</Text>
+
+</TextLibrary>

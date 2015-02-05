@@ -1,0 +1,9 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0LD_2_0_PRE]">You must have 2000 Credits to purchase the Brandy.</Text>
+   <Text tag="[Q0LD_1_0_ACTN]">Buy brandy (2000 Cr)</Text>
+   <Text tag="[Q0LD_1_0_LOG]">Buy brandy at Pegasus VI.</Text>
+   <Text tag="[Q0LD_1_0_ENDMSG]">2000 Credits subtracted. You have the brandy. Now return to Solis Mine.</Text>
+   <Text tag="[Q0LD_2_0_ACTN]">Return the brandy</Text>
+   <Text tag="[Q0LD_2_0_LOG]">Return to Solis Mine.</Text>
+</TextLibrary>

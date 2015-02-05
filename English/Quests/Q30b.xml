@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q30b_1_0_LOG]">Travel to Serpens Station to meet with your contact</Text>
+   <Text tag="[Q30b_1_0_ACTN]">Send Sable to the Contact</Text>
+   <Text tag="[Q30b_1_0_ENDMSG]">Sable reports back to you</Text>
+   <Text tag="[Q30b_2_0_ACTN]">Deliver the Alloys</Text>
+   <Text tag="[Q30b_2_0_LOG]">Gather 20 Alloys and deliver them to Serpens III</Text>
+   <Text tag="[Q30b_2_0_ENDMSG]">You delivered the Alloys</Text>
+   <Text tag="[Q30b_3_0_PRE]">You do not have the required Alloys</Text>
+
+</TextLibrary>

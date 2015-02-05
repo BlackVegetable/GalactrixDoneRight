@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+
+   <Text tag="[Q0P0_2_0_PRE]">You must have 500 Credits to purchase the Translator.</Text>
+   <Text tag="[Q0P0_1_0_ACTN]">Purchase a Translator (500 Cr.)</Text>
+   <Text tag="[Q0P0_1_0_LOG]">Purchase a Translator at the Emporium of Keck.</Text>
+   <Text tag="[Q0P0_1_0_ENDMSG]">500 Credits subtracted. You now have a Translator! Return to Plasmia Prime.</Text>
+   <Text tag="[Q0P0_2_0_ACTN]">Deliver the Translator</Text>
+   <Text tag="[Q0P0_2_0_LOG]">Return to Plasmia Prime.</Text>
+  
+</TextLibrary>

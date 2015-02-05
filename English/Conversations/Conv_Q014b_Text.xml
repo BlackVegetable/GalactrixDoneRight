@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q014b_NAME1]">ELYSIAN OPERATOR</Text>
+
+   <Text tag="[Conv_Q014b_0000]">Port of Elysia, we are seeking the whereabouts of a Trident Military ship that may have passed through this way a day or so ago.</Text>
+   <Text tag="[Conv_Q014b_0001]">Port of Elysia, we are seeking the whereabouts of a Trident Military ship that may have passed through this way a day or so ago.</Text>
+   
+   <Text tag="[Conv_Q014b_0002]">Greetings, MRI ship. We would be happy to be of service to you, if YOU would first be of service to us.</Text>
+   <Text tag="[Conv_Q014b_0003]">Greetings, MRI Ship. We would be happy to be of service to you, if YOU would first be of service to us.</Text>
+   
+   <Text tag="[Conv_Q014b_0004]">Okay... What do you need, Port of Elysia?</Text>
+   <Text tag="[Conv_Q014b_0005]">Okay... What do you need, Port of Elysia?</Text>
+   
+   <Text tag="[Conv_Q014b_0006]">We have no military presence here at this moment, MRI ship. If you dispatch 2 Pirate ships that have been attacking us, we will happily provide you with directions to the ship you are seeking.</Text>
+   <Text tag="[Conv_Q014b_0007]">We have no military presence here at this moment, MRI ship. If you dispatch 2 Pirate ships that have been attacking us, we will happily provide you with directions to the ship you are seeking.</Text>
+   
+   <Text tag="[Conv_Q014b_0008]">Very well. I&apos;ll be back.</Text>
+   <Text tag="[Conv_Q014b_0009]">Very well. I&apos;ll be back.</Text>
+
+</TextLibrary>
