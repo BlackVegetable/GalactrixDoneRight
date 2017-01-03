@@ -173,7 +173,7 @@ This item grants your ship a "critical hit" style bonus to your damage. That is,
 | :---: | :---: | :---: |
 | 3 Slots | +50% | 50% |
 | 4 Slots | +50% | 35% |
-| 3 Slots | +50% | 20% |
+| 5 Slots | +50% | 20% |
 
 ### Mobility Core
 
@@ -255,9 +255,34 @@ These are passive items that grant maximum hull points in return for taking up a
 
 ## PSI Items (TODO)
 
+# Small Ship Bonuses
 
+Other than new-item-related bonuses, smaller ships gain a few other perks to make them attractive even in the late game:
 
+- Small ships take a percentage less damage from blaster weapons.
+- Small ships take a reduced amount of damage from the Vortraag Death Ray.
+- Small ships gain bonus duration to armor buffing abilities.
+- Small ships gain bonus duration to engine buffing abilities.
+- Small ships gain a bonus from the "Flightpath Analyzer" vanilla item to both current and maximum shields.
+- Small ships deal bonus damage with missiles.
+- Small ships deal bonus damage with torpedoes.
 
-# To be continued
+These are summarized in the following table:
 
-The rest of this document will be written at a later date.
+| Benefit Type | 3 Slot Ship | 4 Slot Ship | 5 Slot Ship |
+| :---: | :---: | :---: | :---: |
+| Blaster Defense | 30% reduction | 20% reduction | 10% reduction |
+| Death Ray Defense | -8 damage | -5 damage | -2 damage |
+| Armor Buff Duration | +2 Turns | +1 Turn | No bonus |
+| Engine Buff Duration | +3 Turns | +2 Turns | +1 Turn |
+| Flightpath Analyzer | +15 Max/+10 Current Shields | +10 Max/+5 Current Shields | No bonus |
+| Missile Damage Bonus | +3 damage | +2 damage | +1 damage |
+| Torpedoes Damage Bonus | +5 damage | +3 damage | +1 damage |
+
+# Encounters and the 7th PSI Power
+
+TODO
+
+# Reputation Quests
+
+TODO
