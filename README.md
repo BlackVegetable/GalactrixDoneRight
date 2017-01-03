@@ -15,7 +15,7 @@ Shields now grant much more benefit per point of pilot skill. The AI is now much
 
 ## Gunnery
 
-Gunnery was easily the most powerful statistic in vanilla Galactrix. Now, gunnery grants up to +5 bonus damage when matching mines, with one point granted per 49 points of the skill. Note that the damage of mines bonus from your level has been reduced from 1 per 5 levels to 1 per 10 levels, effectively splitting the bonus evenly between the gunnery skill and your level (as the maximum player level is still 50.)
+Gunnery was easily the most powerful statistic in vanilla Galactrix. Now, gunnery grants up to +5 bonus damage when matching mines, with one point granted per 49 points of the skill. Note that the damage of mines bonus from your level has been reduced from 1 per 5 levels to 1 per 10 levels, effectively splitting the bonus evenly between the gunnery skill and your level (as the maximum player level is still 50.) Additionally, the bonus damage to mine matches are also applied to *laser*, *blaster*, and *ion* weapons.
 
 ## Science
 
@@ -99,6 +99,43 @@ A higher *rumor level* will unlock more quests than a lower one.
 | Level 3 | 12 |
 | Level 4 | 15 |
 | Level 5 | 20 |
+
+# Item Changes
+
+## Balance Tweaks
+
+A number of existing in-game items that were overly powerful have been tweaked to be less powerful. These tweaks are both numerous and minor and will not be enumerated. However, many items have been added to the game to make the game strategy more interesting and to counter some existing items. Additionally, many items interact with smaller ships (ships with fewer item slots) differently than with larger ships. This will be discussed elsewhere.
+
+## New Weapons
+
+### Ion Weapons
+
+Ion weapons are similar to your basic laser weapons but have an important difference. While they can deal normal damage against shields, their damage is halved against ship hulls. If they deal any damage to a ship's hull, it will can temporarily add turns to the cooldowns of various items on the impacted ship. Every 4 points of ion damage to hull will ensure a 2 turn delay hits a random item. (As mentioned eariler, ion weapons gain the bonus damage from the gunnery skill.)
+
+### Precision Rockets
+
+These rockets deal damage to enemy ships and reduce the energy of a random subsystem (Weapons/Engines/CPU) at the same time. Three rockets are fired per use but the probability of a rocket hitting the opponent is far higher when fired from a smaller ship than a larger one.
+
+| Ship Size (in slots) | Probability of 3 hits | Probability of 2 hits | Probability of 1 hit |
+| :---: | :---: | :---: | :---: |
+| 3 Slots | 80% | 15% | 5% |
+| 4 Slots | 50% | 35% | 15% |
+| 5 Slots | 10% | 70% | 20% |
+| 6+ Slots | 1% | 4% | 95% |
+
+### Manual Control Chip
+
+Allows captains to temporarily trade some of their science skill for additional pilot skill. The amount of pilot skill gained is better for smaller ships. The amount of science lost is smaller for smaller ships. Overall, this makes the most sense to use when you are either in a tiny ship or when you have little to no science skill anyway.
+
+| Ship Size (in slots) | Pilot Skill Gain | Science Skill Loss |
+| :---: | :---: | :---: |
+| 3 Slots | +80% | -30% |
+| 4 Slots | +65% | -40% |
+| 5+ Slots | +50% | -50% |
+
+### More TODO
+
+
 
 # To be continued
 
