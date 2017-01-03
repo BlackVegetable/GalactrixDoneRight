@@ -9,9 +9,9 @@ Below is the game manual in a web-viewable format:
 
 # Attribute (Levelup skills) Changes
 
-## Shields
+## Pilot (Shields)
 
-Shields now grant much more benefit per point of pilot skill. The AI is now much more resilient as it has been changed to prefer blue gems more than before. More importantly, shielding prevents nearly all status ailments from targeting your ship! Keeping your shields intact at even 1 point will prevent many nasty effects. Once a status ailment is on your ship, however, it will remain there even if you later restore shields. 
+Shields now grant much more benefit per point of pilot skill. The AI is now much more resilient as it has been changed to prefer blue gems more than before. More importantly, shielding prevents nearly all status ailments from targeting your ship! Keeping your shields intact at even 1 point will prevent many nasty effects. Once a status ailment is on your ship, however, it will remain there even if you later restore shields. Piloting also contributes 3 points per point of piloting to *initiative*.
 
 ## Gunnery
 
@@ -29,6 +29,8 @@ The engineering skill also grants both an in-combat bonus and a non-combat bonus
 
 This skill also makes you better at the mining mini-game, giving you bonuses to resource collection per match. This bonus becomes available when you have 40 engineering points. Each additional 50 points from there grants the next level of bonus.
 
+Engineering also contributed 2 points per point of engineering to *initiative*.
+
 ### Battle Fatigue
 
 When a battle has drawn on for a long period of time, both you and your opponent's crew are unable to perform optimally. Specifically, the ability of crews to repair either ship is diminished. This feature comes in three stages:
@@ -40,6 +42,10 @@ When a battle has drawn on for a long period of time, both you and your opponent
 ### Intermediate Points
 
 Whenever you have skill points in engineering, gunnery, or science that don't quite add up to a new level of benefits, your points are not wasted. Rather, they add to the probability that you will be getting benefits from the next level of benefits instead of the previous one. This probability is proportional to how close you are to the next level of benefits.
+
+### Initiative
+
+If you and your opponent are both using ships with equal speed, determining which ship gets the first turn falls to the players' initiatives. Initiative is defined as `Initiative = 3 * Pilot + 2 * Engineering`. If initiative happens to also be matched, there are many other rules that dictate this secondary tiebreaker but the situation is rare enough to not be worth detailing.
 
 # Hacking Rewards
 
@@ -65,9 +71,9 @@ Winning a battle now rewards you with not only the intel (white gems) you gather
 | :---: | :---: |
 | 1 to 10 | +8 |
 | 11 to 20 | +16 |
-| 21-30 | +24 |
-| 31-40 | +32 |
-| 41-49 | +40 |
+| 21 to 30 | +24 |
+| 31 to 40 | +32 |
+| 41 to 49 | +40 |
 | 50 | +45 |
 
 # Rumor Experience
