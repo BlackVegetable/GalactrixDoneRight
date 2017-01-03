@@ -29,7 +29,7 @@ The engineering skill also grants both an in-combat bonus and a non-combat bonus
 
 This skill also makes you better at the mining mini-game, giving you bonuses to resource collection per match. This bonus becomes available when you have 40 engineering points. Each additional 50 points from there grants the next level of bonus.
 
-Engineering also contributed 2 points per point of engineering to *initiative*.
+Engineering also contributes 2 points per point of engineering to *initiative*.
 
 ### Battle Fatigue
 
