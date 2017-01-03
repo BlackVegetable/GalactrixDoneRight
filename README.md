@@ -133,7 +133,128 @@ Allows captains to temporarily trade some of their science skill for additional 
 | 4 Slots | +65% | -40% |
 | 5+ Slots | +50% | -50% |
 
-### More TODO
+### Optimal Position CPU
+
+Allows you to enter the blindspot of opponents, effectively giving a "backstab"-like damage bonus to all of your attacks. Smaller ships gain a far larger damage bonus than larger ships. Your science skill helps determine how long this effect lasts (up to 1 extra turn.) One large advantage of this item is that it does not end your turn to activate, allowing you to wait until the board is full of mines to use it.
+
+| Ship Size (in slots) | Damage Bonus per hit |
+| :---: | :---: |
+| 3 Slots | +9 |
+| 4 Slots | +5 |
+| 5 Slots | +3 |
+| 6+ Slots | +2 |
+
+The normal duration for this item is 3 turns. There is a chance of getting an extra turn from having a high science skill as follows:
+
+| Science Skill | Probability of 1 Extra Turn Duration |
+| :---: | :---: |
+| 1 to 49 | 50% |
+| 50 to 99 | 60% |
+| 100 to 149 | 70% |
+| 150 to 199 | 80% |
+| 200+ | 90% |
+
+### Advanced Position CPU
+
+Grants a very similar bonus to the Optimal Position CPU. However, this item ends your turn when used. In return, it always lasts 5 turns (instead of 3 or 4) and grants a higher "backstab" bonus:
+
+| Ship Size (in slots) | Damage Bonus per hit |
+| :---: | :---: |
+| 3 Slots | +12 |
+| 4 Slots | +8 |
+| 5 Slots | +6 |
+| 6+ Slots | +5 |
+
+### Critical Trajectory Processor
+
+This item grants your ship a "critical hit" style bonus to your damage. That is, it activates some of the time, and grants +50% to any damage dealt when it does. It can only be used on ships of size 3, 4, or 5. One downside of this item is that, upon item use, all remaining CPU (Green) energy will be lost.
+
+| Ship Size (in slots) | Percent Damage Bonus | Probability of Activation |
+| :---: | :---: | :---: |
+| 3 Slots | +50% | 50% |
+| 4 Slots | +50% | 35% |
+| 3 Slots | +50% | 20% |
+
+### Mobility Core
+
+This item allows you a chance to "dodge" 75% of damage while your ship is under its effect. The higher a captain's piloting skill, the longer it will last and the higher your chance to dodge. This effect is hard-countered by any time warp effect which will then disable the benefits of the mobility core's effect while you are frozen in time. Ships of size 6+ are unable to use this item.
+
+The probability of dodging is your modified pilot skill divided by 210. The following charts will explain:
+
+| Ship Size | Duration | Modified Pilot Skill |
+| :---: | :---: | :---: |
+| 3 Slots | 8 Turns | Pilot x 2 |
+| 4 Slots | 7 Turns | Pilot x 1.5 |
+| 5 Slots | 6 Turns | Pilot x 1 |
+
+Examples:
+
+| Modified Pilot Skill | Dodge Chance |
+| :---: | :---: |
+| 240 | 75% (maximum) |
+| 210 | 75% (maximum) |
+| 158 | 75% (maximum) |
+| 110 | 52% |
+| 70 | 33% |
+| 35 | 17% |
+| 21 | 10% (minimum) |
+| 1 | 10% (minimum) |
+
+(Thus, if a 3 slot ship is used by a captain with 79 piloting, it will reach the maximum dodge chance of 75% but the same level of piloting by someone in a 5 slot ship would only have a 38% chance to dodge.)
+
+### Density Field
+
+This is an environmental effect that increases the gain of engine energy (yellow) for smaller ships, and reduce the same energy gain for larger ships.
+
+| Ship Size | Change to Yellow Energy Gained |
+| :---: | :---: |
+| 3 Slots | +200% Energy |
+| 4 Slots | +100% Energy |
+| 5 Slots | +1 Energy |
+| 6 Slots | -1 Energy |
+| 7 Slots | -50% Energy |
+| 8 Slots | -67% Energy |
+
+### Impervious Shielding
+
+This item grants total invulnerability for a short time but can only be used once per battle. Also, once its effects expire, all shields are lost from the ship that used it. It cannot be used on ships with more than 5 slots. It lasts longer for smaller ships.
+
+| Ship Size | Duration |
+| :---: | :---: |
+| 3 Slots | 6 Turns |
+| 4 Slots | 4 Turns |
+| 5 Slots | 2 Turns |
+
+### Contingency Tool
+
+This item applies a debuff to the opposing vessel (supposing their shields are down) for a time. If the opponent gets a Nova, they take 10 points of damage. If they get a supernova, they take an additional 20 points of damage.
+
+### Reverse-Engineering Probe
+
+This item turns a crew's auto-repair skill against itself. This debuff will cause the auto-repair to deal damage instead of hull repair each turn, but will be capped at 7 points of damage/turn, even if they would normally repair more than that. There is a 10% chance per turn of damage that the probe will be discovered by the affected crew and removed.
+
+### Angst Machine
+
+This item causes an environmental effect that causes the auto-repair of both ships to be set to 0 while it is active.
+
+### Heat Ray
+
+The heat ray lowers the enemy's gunnery skill to 10% of its maximum value. Each turn the gunnery skill will slowly recover, and it will be instantly restored by a degausser. If used repeatedly on the same target, it can lower the gunnery skill even lower than 10%.
+
+### Paralyzation Emitter
+
+This item lowers the opposing ship's crew's engineering skill by 35%. Additionally, every turn the opposing ship holds onto 7 or more yellow energy there is a 20% chance they will lose all of it via an "engine leak".
+
+### PSI Augmenter
+
+This is a passive item that increases your PSI points gained by matching purple gems.
+
+### Hull Patches
+
+These are passive items that grant maximum hull points in return for taking up a slot on a ship.
+
+## PSI Items (TODO)
+
 
 
 
