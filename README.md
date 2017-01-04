@@ -291,7 +291,7 @@ These are summarized in the following table:
 
 In vanilla Galactrix, the 7th and final PSI power removed all "encounters" from the game. This rendered the importance of faction standings, contraband smuggling, all six of the previous PSI powers, and overall immersion in the Galactrix world moot. Instead of this unsatsifying behavior, the 7th PSI power now simply lowers the probability of an encounter by 20%. Note that the base chance for encoutners in the CBM is already lower than in vanilla Galactrix. The chance of being stopped in an encounter is relative to how disliked you are. The maximum/minimums are given:
 
-| Game | 7th PSI Power? | Minimum "Suspect" Chance | Maximum "Suspect" Chance | Contraband Chance |
+| Game | 7th PSI Power? | Minimum "Suspect" Chance | Maximum "Criminal" Chance | Contraband Chance |
 | :---: | :---: | :---: | :---: | :---: |
 | Vanilla | No | 9% | 90% | 30% (always) |
 | Vanilla | Yes | 0% | 0% | 0% |
