@@ -61,7 +61,15 @@ If a gate closes again, you are eligible to open it again and gain another rewar
 
 # Time Warp Mechanics
 
-TO DO
+The way that time warps (stuns) interact with status effects has been tweaked. The following are the rules that are followed with an effort to make them as strategically intuitive as possible (even if the rules themselves appear complex when spelled out.)
+
+- Draining Effects are frozen in place.
+- Effects that can grant you some benefit or harm even while stunned will not be frozen with you.
+- Evasive Action is a special case and will not be frozen, nor will it aid you (it is hard-countered by stuns.)
+- Everything else is frozen in place.
+- No items "cool down" while either player is stunned.
+
+Once a player is released from a time warp, all status effects that were froen will resume their effects and countdown on their remaining duration.
 
 # Combat Experience
 
