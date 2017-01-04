@@ -289,8 +289,27 @@ These are summarized in the following table:
 
 # Encounters and the 7th PSI Power
 
-TODO
+In vanilla Galactrix, the 7th and final PSI power removed all "encounters" from the game. This rendered the importance of faction standings, contraband smuggling, all six of the previous PSI powers, and overall immersion in the Galactrix world moot. Instead of this unsatsifying behavior, the 7th PSI power now simply lowers the probability of an encounter by 20%. Note that the base chance for encoutners in the CBM is already lower than in vanilla Galactrix. The chance of being stopped in an encounter is relative to how disliked you are. The maximum/minimums are given:
+
+| Game | 7th PSI Power? | Minimum "Suspect" Chance | Maximum "Suspect" Chance | Contraband Chance |
+| :---: | :---: | :---: | :---: | :---: |
+| Vanilla | No | 9% | 90% | 30% (always) |
+| Vanilla | Yes | 0% | 0% | 0% |
+| CBM | No | 6% | 60% | at least 30% |
+| CBM | Yes | 5% | 48% | at least 24% |
+
+Note: In vanilla Galactrix, if you held onto contraband, you could actually be stopped **less** often in territories where you were hated. This has been fixed in the CBM.
 
 # Reputation Quests
 
-TODO
+The CBM includes some repeatable quests designed to alter your reputation with factions. These currently come in two flavors: *harassment* and *smuggling*. Both types are repeatable for reuptation changes but only give a single point of intel. Altering your reputation may be required to unlock certain quests. Some quests will request you have a high reputation with one or more factions while others will actually require a low reputation with one or more factions.
+
+## Harassment Quests
+
+The system these quests are given in will dictate the faction with which you **gain** reuptation. The title, such as "Harassment: MRI" will tell you which faction you will **lose** reputation with. This is the title dictates which faction's ships you will be attacking. The reputation changes for these quests are +15 with the quest giver, +10 with the in-game enemy of the harassed faction, and -30 with the harassed faction.
+
+## Smuggling Quests
+
+The title of the smuggling quests will tell you who you will **lose** reputation with. Smuggling quests can potentially be completed without any combat. The first leg of a smuggling quest is to take 120 tons of gold to a given location. You will need to come up with the gold yourself. This will be exchanged for 60 contraband. The second leg of the quest is to safely transport the contraband to another given location. The reputation changes for these quests are -15 with the smuggling faction and +15 with pirates. Additionally you will be paid 4,500 credits.
+
+
