@@ -261,7 +261,49 @@ This is a passive item that increases your PSI points gained by matching purple 
 
 These are passive items that grant maximum hull points in return for taking up a slot on a ship.
 
-## PSI Items (TODO)
+## PSI Items
+
+An additional set of quest lines added by the CBM include rewards of PSI weapons/items. These will use your PSI points as a resource as well as your energy levels in combat. The permanent resource cost that will add up quickly for the more powerful PSI items.
+
+### Psi Micro-Charge Cannon
+
+Deals a modest amount of damage to both shields and hull. Because the hull is auto-repaired in the CBM, this skill shouldn't be used until the hull has already been damaged a bit as the hull damage will likely be wasted otherwise.
+
+### Psionic Dual-Core
+
+Regenerates 10% of total shields (or 3, whichever is higher) and 2 points of CPU (Green) energy per turn for several turns.
+
+### Psi Mega-Charge Cannon
+
+Similar to the micro-charge cannon but deals slightly more damage.
+
+### Psi Giga-Charge Cannon
+
+Similar to the micro-charge cannon but deals significantly more damage.
+
+### Psi Entropy Field
+
+Causes ships to take a small amount of damage to both hull and shields every time they match purple gems. Useful against the AI when no "good" matches are readily available as they will still match purple gems despite the danger.
+
+### Psi Aggression Drone
+
+Deals a small amount of damage to both enemy hull and shields over time. Cannot completely destroy enemy ships by itself.
+
+### Psi Havoc Drone
+
+Deals a tiny amount of damage to both enemy hull and shields over time and also reduces your enemy's skills by 20% for the duration. Also cannot completely destroy enemy ships by itself.
+
+### Psi Sacrifice Cannon
+
+Deals moderate shield and hull damage to the user but massive damage to the enemy and destroys all purple gems on the board.
+
+### Psi Endurance Matrix
+
+Increases all maximum energy levels by 8. May be used multiple times in a battle.
+
+### Psi Shield Emancipator
+
+Reduces enemy shield capacity (maximum shields) by 15% for the remainder of the battle.
 
 # Small Ship Bonuses
 
