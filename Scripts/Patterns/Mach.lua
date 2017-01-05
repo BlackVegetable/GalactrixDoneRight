@@ -142,7 +142,7 @@ function Mach:OnEventAward(event)
 			LOG("Total modified by stat: +" .. tostring(player.matchBonus[effect]))
 		end
 		--Add Match Length Bonus - then multiply by Board/Nova/SupaNova Multiplier
-		total = (total  + self:GetAttribute("bonus")) * battleGround.multiplier
+		total = math.floor((total  + self:GetAttribute("bonus")) * battleGround.multiplier)
 
 		local numEffects = battleGround:NumAttributes("Effects")
 		if numEffects > 0 then
