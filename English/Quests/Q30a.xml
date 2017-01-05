@@ -1,0 +1,16 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q300a_1_0_LOG]">Travel to Serpens Station to meet with your contact</Text>
+   <Text tag="[Q300a_1_0_ACTN]">Search Serpens Station for your contact location</Text>
+   <Text tag="[Q300a_1_0_ENDMSG]">The MRI Contact wishes to meet with Sable</Text>
+   <Text tag="[Q300a_2_0_ACTN]">Send Sable to the meet with the Contact</Text>
+   <Text tag="[Q300a_2_0_LOG]">Send Sable to meet with the Contact</Text>
+   <Text tag="[Q300a_2_0_ENDMSG]">Sable reports back to you</Text>
+   <Text tag="[Q300a_3_0_ACTN]">Attack the convict</Text>
+   <Text tag="[Q300a_3_0_LOG]">Hunt down an escaped pirate in the Erebus System</Text>
+   <Text tag="[Q300a_3_0_ENDMSG]">You eliminated the desired target</Text>
+   <Text tag="[Q300a_4_0_MSG]">You have proven your combat expertise</Text>
+   <Text tag="[Q300a_4_0_LOG]">Return to Serpens III for further tasks</Text>
+
+
+</TextLibrary>

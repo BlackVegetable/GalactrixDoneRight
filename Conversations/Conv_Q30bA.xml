@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="PROVING GROUNDS: Talk to Sable"/>
+   <Text file="English\Conversations\Conv_Q30bA_Text.xml"/>
+   <Backdrop file="img_CONCORR"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="[img_CSAB_L]" portraitindex="0" name="[Conv_Q30bA_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_male" character="1" text="[Conv_Q30bA_0000]" />
+      <Action type="talk_female" character="1" text="[Conv_Q30bA_0001]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q30bA_0002]" />
+      <Action type="talk_female" character="0" text="[Conv_Q30bA_0003]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q30bA_0004]" />
+      <Action type="talk_female" character="1" text="[Conv_Q30bA_0005]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q30bA_0006]" />
+      <Action type="talk_female" character="0" text="[Conv_Q30bA_0007]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q30bA_0008]" />
+      <Action type="talk_female" character="1" text="[Conv_Q30bA_0009]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q30bA_0010]" />
+      <Action type="talk_female" character="0" text="[Conv_Q30bA_0011]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q30bA_0012]" />
+      <Action type="talk_female" character="1" text="[Conv_Q30bA_0013]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q30bA_0014]" />
+      <Action type="talk_female" character="0" text="[Conv_Q30bA_0015]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q30bA_0016]" />
+      <Action type="talk_female" character="1" text="[Conv_Q30bA_0017]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q30bA_0018]" />
+      <Action type="talk_female" character="0" text="[Conv_Q30bA_0019]" />
+      <Action type="wait" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q017c_NAME0]">[Conv_Q017c_NAME0]</Text>
+   <Text tag="[Conv_Q017c_NAME1]">SILENT ONE</Text>
+
+   <Text tag="[Conv_Q017c_0000]">Greetings, Silent One.</Text>
+   <Text tag="[Conv_Q017c_0001]">Greetings, Silent One.</Text>
+   <Text tag="[Conv_Q017c_0002]">...</Text>
+   <Text tag="[Conv_Q017c_0003]">...</Text>
+   <Text tag="[Conv_Q017c_0004]">I bring news. Grave news.</Text>
+   <Text tag="[Conv_Q017c_0005]">I bring news. Grave news.</Text>
+   <Text tag="[Conv_Q017c_0006]">What?</Text>
+   <Text tag="[Conv_Q017c_0007]">What?</Text>
+   <Text tag="[Conv_Q017c_0008]">All Jahrwoxis on Cygnus II dead or captured. Planet dead too.</Text>
+   <Text tag="[Conv_Q017c_0009]">All Jahrwoxis on Cygnus II dead or captured. Planet dead too.</Text>
+   <Text tag="[Conv_Q017c_0010]">How?</Text>
+   <Text tag="[Conv_Q017c_0011]">How?</Text>
+   <Text tag="[Conv_Q017c_0012]">We track creature - or creatures - not sure which. Escape from humans. Crazy killing things.</Text>
+   <Text tag="[Conv_Q017c_0013]">We track creature - or creatures - not sure which. Escape from humans. Crazy killing things.</Text>
+   <Text tag="[Conv_Q017c_0014]">And?</Text>
+   <Text tag="[Conv_Q017c_0015]">And?</Text>
+   <Text tag="[Conv_Q017c_0016]">I want track it down. Hurt it. But need help finding or capturing.</Text>
+   <Text tag="[Conv_Q017c_0017]">I want track it down. Hurt it. But need help finding or capturing.</Text>
+   <Text tag="[Conv_Q017c_0018]">...</Text>
+   <Text tag="[Conv_Q017c_0019]">...</Text>
+   <Text tag="[Conv_Q017c_0020]">Many thanks, Silent One.</Text>
+   <Text tag="[Conv_Q017c_0021]">Many thanks, Silent One.</Text>
+
+</TextLibrary>

@@ -1,0 +1,13 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q30d_1_0_LOG]">Travel to Serpens Station to meet with your contact</Text>
+   <Text tag="[Q30d_1_0_ACTN]">Send Sable to the Contact</Text>
+   <Text tag="[Q30d_1_0_ENDMSG]">Sable reports back to you</Text>
+   <Text tag="[Q30d_2_0_ACTN]">Hack the Leapgate</Text>
+   <Text tag="[Q30d_2_0_LOG]">Hack the Serpens-Atlia Leapgate</Text>
+   <Text tag="[Q30d_2_0_ENDMSG]">You&apos;ve hacked the leapgate</Text>
+   <Text tag="[Q30d_3_0_LOG]">Report back to Serpens III</Text>
+   <Text tag="[Q30d_3_0_ACTN]">Report</Text>
+
+
+</TextLibrary>

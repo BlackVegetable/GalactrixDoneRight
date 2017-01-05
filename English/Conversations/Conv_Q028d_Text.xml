@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q028d_NAME0]">[Conv_Q028d_NAME0]</Text>
+   <Text tag="[Conv_Q028d_NAME1]">ED24</Text>
+
+   <Text tag="[Conv_Q028d_0000]">Wait a moment. Something else shot at that Pirate ship while we were fighting it. Direct your scanners over that way.</Text>
+   <Text tag="[Conv_Q028d_0001]">Wait a moment. Something else shot at that Pirate ship while we were fighting it. Direct your scanners over that way.</Text>
+   <Text tag="[Conv_Q028d_0002]">Scan this, scan that. I feel so challenged by my workplace that I...</Text>
+   <Text tag="[Conv_Q028d_0003]">Scan this, scan that. I feel so challenged by my workplace that I...</Text>
+   <Text tag="[Conv_Q028d_0004]">You found something?</Text>
+   <Text tag="[Conv_Q028d_0005]">You found something?</Text>
+   <Text tag="[Conv_Q028d_0006]">...processing...</Text>
+   <Text tag="[Conv_Q028d_0007]">...processing...</Text>
+   <Text tag="[Conv_Q028d_0008]">ED?</Text>
+   <Text tag="[Conv_Q028d_0009]">ED?</Text>
+   <Text tag="[Conv_Q028d_0010]">One repository of all human knowledge coming right up.</Text>
+   <Text tag="[Conv_Q028d_0011]">One repository of all human knowledge coming right up.</Text>
+
+</TextLibrary>

@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q01D_STARTMSG]">The ship has drifted over near Lyra VII. You must board it and recover it.</Text>
+   <Text tag="[Q01D_1_0_MSG]">The ship is protected by another strange Automated Defense.</Text>
+   <Text tag="[Q01D_1_0_ACTN]">Board the ship</Text>
+   <Text tag="[Q01D_1_0_LOG]">Board the ship at Lyra VII.</Text>
+   <Text tag="[Q01D_2_0_MSG]">You have successfully captured the ship, but most of the modifications are broken.</Text>
+   <Text tag="[Q01D_2_0_ACTN]">Board the Ship</Text>
+   <Text tag="[Q01D_2_0_LOG]">Board the ship at Lyra VII.</Text>
+   <Text tag="[Q01D_2_0_PRE]">You have insufficient Crew to manage a fleet of four ships.</Text>   
+</TextLibrary>

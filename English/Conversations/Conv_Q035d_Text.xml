@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q035d_NAME0]">[Conv_0000_NAME0]</Text>
+
+   <Text tag="[Conv_Q035d_0000]">Meeting denied. Insufficient data to evaluate meeting parameters. Thank you. Have a nice day.</Text>
+   <Text tag="[Conv_Q035d_0001]">Meeting denied. Insufficient data to evaluate meeting parameters. Thank you. Have a nice day.</Text>
+
+</TextLibrary>

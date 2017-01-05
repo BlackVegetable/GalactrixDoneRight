@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q034_1_0_LOG]">Travel to Vortraag VIII.</Text>
+   <Text tag="[Q034_2_0_ACTN]">Fight the Vortraag Ambush</Text>
+   <Text tag="[Q034_2_0_LOG]">Defend yourself against the ambush at Vortraag VIII.</Text>
+   <Text tag="[Q034_3_0_ACTN]">Finish the Vortraag Ambush</Text>
+   <Text tag="[Q034_3_0_LOG]">Defend yourself against the ambush at Vortraag VIII.</Text>
+   <Text tag="[Q034_4_0_ACTN]">Contact Trident</Text>
+   <Text tag="[Q034_4_0_LOG]">Contact Trident at Vortraag VIII.</Text>
+</TextLibrary>

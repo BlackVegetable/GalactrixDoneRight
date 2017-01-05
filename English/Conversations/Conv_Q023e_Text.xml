@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q023e_NAME1]">KIRINE</Text>
+
+   <Text tag="[Conv_Q023e_0000]">What&apos;s wrong?</Text>
+   <Text tag="[Conv_Q023e_0001]">What&apos;s wrong?</Text>
+   <Text tag="[Conv_Q023e_0002]">They... must have done something to their ships here... The trail is confusing. I&apos;m reading paths going through all 4 LeapGates.</Text>
+   <Text tag="[Conv_Q023e_0003]">They... must have done something to their ships here... The trail is confusing. I&apos;m reading paths going through all 4 LeapGates.</Text>
+   <Text tag="[Conv_Q023e_0004]">So they&apos;ve either been very busy, or they&apos;ve got a lot of ships from somewhere.</Text>
+   <Text tag="[Conv_Q023e_0005]">So they&apos;ve either been very busy, or they&apos;ve got a lot of ships from somewhere.</Text>
+   <Text tag="[Conv_Q023e_0006]">I don&apos;t know. We&apos;ll need to investigate further.</Text>
+   <Text tag="[Conv_Q023e_0007]">I don&apos;t know. We&apos;ll need to investigate further.</Text>
+
+</TextLibrary>

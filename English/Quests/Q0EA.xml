@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Q0EA_2_0_PRE]">You must have 2500 Credits to purchase the part for ED24.</Text>
+   <Text tag="[Q0EA_1_0_LOG]">Travel to the Emporium of Keck.</Text>
+   <Text tag="[Q0EA_1_0_ACTN]">Buy ED24&apos;s Part (2500 Cr)</Text>
+   <Text tag="[Q0EA_1_0_ENDMSG]">2500 Credits deducted. ED24 can now upgrade.</Text>
+
+</TextLibrary>

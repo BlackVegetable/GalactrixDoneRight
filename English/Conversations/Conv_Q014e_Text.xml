@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q014e_NAME1]">ED24</Text>
+
+   <Text tag="[Conv_Q014e_0000]">Whoa. That was a tough battle.</Text>
+   <Text tag="[Conv_Q014e_0001]">Whoa. That was a tough battle.</Text>
+   <Text tag="[Conv_Q014e_0002]">Not that any of you probably care, but they had modified that ship. It was unlike any Trident ship in my databanks.</Text>
+   <Text tag="[Conv_Q014e_0003]">Not that any of you probably care, but they had modified that ship. It was unlike any Trident ship in my databanks.</Text>
+   <Text tag="[Conv_Q014e_0004]">We should still continue after the larger ship. I want to find out more about them.</Text>
+   <Text tag="[Conv_Q014e_0005]">We should still continue after the larger ship. I want to find out more about them.</Text>
+
+</TextLibrary>

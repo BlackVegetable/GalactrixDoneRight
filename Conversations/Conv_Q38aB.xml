@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Libertarian: Talk to ED24"/>
+   <Text file="English\Conversations\Conv_Q38aB_Text.xml"/>
+   <Backdrop file="img_CONCORR"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="[img_CED24_L]" portraitindex="0" name="[Conv_Q38aB_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_male" character="1" text="[Conv_Q38aB_0000]" />
+      <Action type="talk_female" character="1" text="[Conv_Q38aB_0001]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q38aB_0002]" />
+      <Action type="talk_female" character="0" text="[Conv_Q38aB_0003]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q38aB_0004]" />
+      <Action type="talk_female" character="1" text="[Conv_Q38aB_0005]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q38aB_0006]" />
+      <Action type="talk_female" character="0" text="[Conv_Q38aB_0007]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q38aB_0008]" />
+      <Action type="talk_female" character="1" text="[Conv_Q38aB_0009]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q38aB_0010]" />
+      <Action type="talk_female" character="0" text="[Conv_Q38aB_0011]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q38aB_0012]" />
+      <Action type="talk_female" character="1" text="[Conv_Q38aB_0013]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q38aB_0014]" />
+      <Action type="talk_female" character="0" text="[Conv_Q38aB_0015]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q38aB_0016]" />
+      <Action type="talk_female" character="1" text="[Conv_Q38aB_0017]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q38aB_0018]" />
+      <Action type="talk_female" character="0" text="[Conv_Q38aB_0019]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q38aB_0020]" />
+      <Action type="talk_female" character="1" text="[Conv_Q38aB_0021]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q38aB_0022]" />
+      <Action type="talk_female" character="0" text="[Conv_Q38aB_0023]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q38aB_0024]" />
+      <Action type="talk_female" character="1" text="[Conv_Q38aB_0025]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q38aB_0026]" />
+      <Action type="talk_female" character="0" text="[Conv_Q38aB_0027]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q38aB_0028]" />
+      <Action type="talk_female" character="1" text="[Conv_Q38aB_0029]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q38aB_0030]" />
+      <Action type="talk_female" character="0" text="[Conv_Q38aB_0031]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q38aB_0032]" />
+      <Action type="talk_female" character="1" text="[Conv_Q38aB_0033]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q38aB_0034]" />
+      <Action type="talk_female" character="0" text="[Conv_Q38aB_0035]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q38aB_0036]" />
+      <Action type="talk_female" character="1" text="[Conv_Q38aB_0037]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q38aB_0038]" />
+      <Action type="talk_female" character="0" text="[Conv_Q38aB_0039]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q38aB_0040]" />
+      <Action type="talk_female" character="1" text="[Conv_Q38aB_0041]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q38aB_0042]" />
+      <Action type="talk_female" character="0" text="[Conv_Q38aB_0043]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q38aB_0044]" />
+      <Action type="talk_female" character="1" text="[Conv_Q38aB_0045]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q38aB_0046]" />
+      <Action type="talk_female" character="0" text="[Conv_Q38aB_0047]" />
+      <Action type="wait" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

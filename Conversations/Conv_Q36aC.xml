@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Two Turrets: ED Reports"/>
+   <Text file="English\Conversations\Conv_Q36aC_Text.xml"/>
+   <Backdrop file=""/>
+   <Character index="0" type="npc" portrait="[img_CED24_LS]" portraitindex="0" name="[Conv_Q36aC_NAME0]"/>
+
+   <Actions>
+      <Action type="removechar" character="0" time="0" />
+      <Action type="addchar" character="0" time="500" file="[img_CED24_LS]" />      
+      <Action type="talk_male" character="0" text="[Conv_Q36aC_0000]" />
+      <Action type="talk_female" character="0" text="[Conv_Q36aC_0001]" />
+      <Action type="removechar" character="0" time="500" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

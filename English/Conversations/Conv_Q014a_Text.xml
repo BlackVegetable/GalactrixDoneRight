@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q014a_NAME1]">PEZT</Text>
+
+   <Text tag="[Conv_Q014a_0000]">Okay, Pezt, which way did he go?</Text>
+   <Text tag="[Conv_Q014a_0001]">Okay, Pezt, which way did he go?</Text>
+   <Text tag="[Conv_Q014a_0002]">Went through Elysian LeapGate.</Text>
+   <Text tag="[Conv_Q014a_0003]">Went through Elysian LeapGate.</Text>
+   <Text tag="[Conv_Q014a_0004]">Then so will we. How will we find him when we get there?</Text>
+   <Text tag="[Conv_Q014a_0005]">Then so will we. How will we find him when we get there?</Text>
+   <Text tag="[Conv_Q014a_0006]">Elysia. Very busy port. Ask there.</Text>
+   <Text tag="[Conv_Q014a_0007]">Elysia. Very busy port. Ask there.</Text>
+
+</TextLibrary>

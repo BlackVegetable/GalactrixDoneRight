@@ -1,0 +1,12 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q30g_1_0_LOG]">Travel to a good vantage point in the Vega Station to search for the MRI vessel</Text>
+   <Text tag="[Q30g_1_0_ACTN]">Send ED to the Mainframe</Text>
+   <Text tag="[Q30g_1_0_ENDMSG]">ED located the MRI Blade somewhere near Vega VIII</Text>
+   <Text tag="[Q30g_2_0_LOG]">Search Vega VIII for the MRI Blade</Text>
+   <Text tag="[Q30g_2_0_ACTN]">Scan the Ships in Orbit</Text>
+   <Text tag="[Q30g_2_0_ENDMSG]">You located the MRI Blade</Text>
+   <Text tag="[Q30g_3_0_LOG]">Ambush the MRI Blade to recover the component</Text>
+   <Text tag="[Q30g_3_0_ACTN]">Ambush the MRI Blade</Text>
+   <Text tag="[Q30g_3_0_ENDMSG]">You recovered the critical component</Text>
+</TextLibrary>

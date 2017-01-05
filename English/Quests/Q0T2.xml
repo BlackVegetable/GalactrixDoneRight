@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0T2_1_0_MSG]">You almost retrieve the data but a Vortraag ship hails you and demands you turn it over!</Text>
+   <Text tag="[Q0T2_1_0_ACTN]">Download the Data</Text>
+   <Text tag="[Q0T2_1_0_LOG]">Travel to the Emporium of Keck to collect the data.</Text>
+   <Text tag="[Q0T2_2_0_ACTN]">Deliver the Data</Text>
+   <Text tag="[Q0T2_2_0_LOG]">Return the data to Mars.</Text>
+</TextLibrary>

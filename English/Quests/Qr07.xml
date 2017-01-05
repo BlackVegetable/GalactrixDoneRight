@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Qr07_1_0_LOG]">Trade 120 tons of Gold at Hydra VIII for Contraband.</Text>
+   <Text tag="[Qr07_1_0_ACTN]">Trade Gold</Text>
+   <Text tag="[Qr07_1_0_ENDMSG]">Smuggle Contraband to Plasmia Prime</Text>
+   <Text tag="[Qr07_2_0_LOG]">Smuggle Contraband to Plasmia Prime.</Text>
+   <Text tag="[Qr07_2_0_ACTN]">Sell Contraband</Text>
+   <Text tag="[Qr07_2_0_ENDMSG]">You have undermined Plasmid law and pleased the lawless.</Text>
+
+</TextLibrary>

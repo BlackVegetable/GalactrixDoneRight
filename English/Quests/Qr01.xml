@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Qr01_1_0_LOG]">Destroy a Quesadan Lightship from Theseus IV.</Text>
+   <Text tag="[Qr01_1_0_ACTN]">Attack</Text>
+   <Text tag="[Qr01_1_0_ENDMSG]">Report your success to Ramses III</Text>
+   <Text tag="[Qr01_2_0_LOG]">Report your success to Ramses III.</Text>
+   <Text tag="[Qr01_2_0_ACTN]">Report</Text>
+   <Text tag="[Qr01_2_0_ENDMSG]">You have gained favor with Lumina.</Text>
+
+</TextLibrary>

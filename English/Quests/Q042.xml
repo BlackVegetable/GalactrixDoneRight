@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q042_1_0_LOG]">Travel to Acheron Prime.</Text>
+   <Text tag="[Q042_2_0_ACTN]">Scan the Planet</Text>
+   <Text tag="[Q042_2_0_LOG]">Scan Acheron Prime.</Text>
+   <Text tag="[Q042_3_0_ACTN]">Fight the Ship</Text>
+   <Text tag="[Q042_3_0_LOG]">Defeat the ship at Acheron Prime.</Text>
+   <Text tag="[Q042_3_0_ENDMSG]">The ship vanishes into thin air.</Text>
+   <Text tag="[Q042_4_0_ACTN]">Contact the Planet</Text>
+   <Text tag="[Q042_4_0_LOG]">Contact Acheron Prime.</Text>
+</TextLibrary>

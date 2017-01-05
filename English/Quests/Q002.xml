@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q002_1_0_LOG]">Travel to Erebus II.</Text>
+   <Text tag="[Q002_1_0_ENDMSG]">You&apos;ve found the second Pirate ship.</Text>
+   <Text tag="[Q002_2_0_ACTN]">Attack the Pirate Ship</Text>
+   <Text tag="[Q002_2_0_LOG]">You must defeat the Pirate on Erebus II.</Text>
+   <Text tag="[Q002_3_0_LOG]">Travel to Erebus Sigma Station.</Text>
+</TextLibrary>

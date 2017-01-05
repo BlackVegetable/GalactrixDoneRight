@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Qr06_1_0_LOG]">Trade 120 tons of Gold at Lupus VII for Contraband.</Text>
+   <Text tag="[Qr06_1_0_ACTN]">Trade Gold</Text>
+   <Text tag="[Qr06_1_0_ENDMSG]">Smuggle Contraband to Polaris Base</Text>
+   <Text tag="[Qr06_2_0_LOG]">Smuggle Contraband to Polaris Base.</Text>
+   <Text tag="[Qr06_2_0_ACTN]">Sell Contraband</Text>
+   <Text tag="[Qr06_2_0_ENDMSG]">You have undermined Lumina&apos;s laws and pleased the lawless.</Text>
+
+</TextLibrary>

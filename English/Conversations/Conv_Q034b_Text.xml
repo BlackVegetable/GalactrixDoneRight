@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q034b_NAME1]">ED24</Text>
+
+   <Text tag="[Conv_Q034b_0000]">Sensors do not detect any Trident ships.</Text>
+   <Text tag="[Conv_Q034b_0001]">Sensors do not detect any Trident ships.</Text>
+   <Text tag="[Conv_Q034b_0002]">That&apos;s odd.</Text>
+   <Text tag="[Conv_Q034b_0003]">That&apos;s odd.</Text>
+   <Text tag="[Conv_Q034b_0004]">They do however detect two Vortraag Destroyers closing on our position.</Text>
+   <Text tag="[Conv_Q034b_0005]">They do however detect two Vortraag Destroyers closing on our position.</Text>
+   <Text tag="[Conv_Q034b_0006]">Vortraag...</Text>
+   <Text tag="[Conv_Q034b_0007]">Vortraag...</Text>
+   <Text tag="[Conv_Q034b_0008]">You did not see this coming? Humans... humans... humans...</Text>
+   <Text tag="[Conv_Q034b_0009]">You did not see this coming? Humans... humans... humans...</Text>
+
+</TextLibrary>

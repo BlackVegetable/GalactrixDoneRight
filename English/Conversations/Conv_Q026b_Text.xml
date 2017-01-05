@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q026b_NAME0]">[Conv_Q026b_NAME0]</Text>
+   <Text tag="[Conv_Q026b_NAME1]">ELGARA</Text>
+
+   <Text tag="[Conv_Q026b_0000]">There&apos;s no sign of the Archive. Maybe we should talk to the local settlers.</Text>
+   <Text tag="[Conv_Q026b_0001]">There&apos;s no sign of the Archive. Maybe we should talk to the local settlers.</Text>
+   <Text tag="[Conv_Q026b_0002]">This system is home to Degani farmers. They are not likely to know very much.</Text>
+   <Text tag="[Conv_Q026b_0003]">This system is home to Degani farmers. They are not likely to know very much.</Text>
+   <Text tag="[Conv_Q026b_0004]">Then perhaps we should just continue our search along the rim.</Text>
+   <Text tag="[Conv_Q026b_0005]">Then perhaps we should just continue our search along the rim.</Text>
+
+</TextLibrary>

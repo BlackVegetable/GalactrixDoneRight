@@ -1,0 +1,34 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q39a_1_0_LOG]">Travel to Aries Prime to meet with Trident.</Text>
+   <Text tag="[Q39a_1_0_ACTN]">Send Sable to meet with Trident</Text>
+
+   <Text tag="[Q39a_2_0_PRE]">You must be at least Friendly with Trident. </Text>
+   <Text tag="[Q39a_2_1_PRE]">You must be at most Neutral with the Plasmids. </Text>
+   <Text tag="[Q39a_2_0_LOG]">Travel to Aries Sigma to purchase vague coordinates.</Text>
+   <Text tag="[Q39a_2_0_ACTN]">Buy Coordinates (3000 Credits)</Text>
+   <Text tag="[Q39a_2_0_ENDMSG]">You have the Coordinates</Text>
+
+   <Text tag="[Q39a_3_0_LOG]">Travel to Taurus I to purchase Virtual Marbles.</Text>
+   <Text tag="[Q39a_3_0_ACTN]">Buy Marbles (1500 Credits)</Text>
+   <Text tag="[Q39a_3_0_ENDMSG]">You purchased the Marbles</Text>
+
+   <Text tag="[Q39a_4_0_LOG]">Travel to the Eporium of Keck to purchase Jamming Device.</Text>
+   <Text tag="[Q39a_4_0_ACTN]">Buy Jamming Device (8000 Credits)</Text>
+   <Text tag="[Q39a_4_0_ENDMSG]">You bought the Jamming Device</Text>
+
+   <Text tag="[Q39a_5_0_LOG]">Travel to Hydra VIII to purchase an Improbability Drive.</Text>
+   <Text tag="[Q39a_5_0_ACTN]">Buy Improbability Drive (20000 Credits)</Text>
+   <Text tag="[Q39a_5_0_ENDMSG]">You have all you need to engage the Joyriders on Pegasus Kappa</Text>
+   <Text tag="[Q39a_5_0_PRE]">You must be at least Neutral with the Keck.</Text>
+
+   <Text tag="[Q39a_6_0_LOG]">Attack the Plasmid Joyriders at Pegasus Kappa.</Text>
+   <Text tag="[Q39a_6_0_ACTN]">Attack the Plasmids</Text>
+   <Text tag="[Q39a_6_0_ENDMSG]">Success -- Return to Aries Prime for your reward</Text>
+   <Text tag="[Q39a_6_0_PRE]">You must be at least Neutral with the Plasmids.</Text>
+
+   <Text tag="[Q39a_7_0_LOG]">Return to Aries Prime for your reward.</Text>
+   <Text tag="[Q39a_7_0_ACTN]">Report</Text>
+   <Text tag="[Q39a_7_0_ENDMSG]">Trident rewards your service</Text>
+
+</TextLibrary>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q037a_NAME1]">LYDIA</Text>
+
+   <Text tag="[Conv_Q037a_0000]">Hey, kid, we&apos;ve got that dirtbag, Tarn, on the line again.</Text>
+   <Text tag="[Conv_Q037a_0001]">Hey, kid, we&apos;ve got that dirtbag, Tarn, on the line again.</Text>
+   
+   <Text tag="[Conv_Q037a_0002]">Put him through then.</Text>
+   <Text tag="[Conv_Q037a_0003]">Put him through then.</Text>
+   
+   <Text tag="[Conv_Q037a_0004]">Greetings, young man.</Text>
+   <Text tag="[Conv_Q037a_0005]">Greetings, young lady.</Text>
+   
+   <Text tag="[Conv_Q037a_0006]">How did you find us?</Text>
+   <Text tag="[Conv_Q037a_0007]">How did you find us?</Text>
+   
+   <Text tag="[Conv_Q037a_0008]">It doesn&apos;t matter. We need to talk.</Text>
+   <Text tag="[Conv_Q037a_0009]">It doesn&apos;t matter. We need to talk.</Text>
+
+   <Text tag="[Conv_Q037a_0010]">No. You need to talk. I need to run.</Text>
+   <Text tag="[Conv_Q037a_0011]">No. You need to talk. I need to run.</Text>
+
+   <Text tag="[Conv_Q037a_0012]">You are more correct than you realize. Right now, a fleet of MRI ships is bearing down on your position; we&apos;ve been following them. Hiding in the Krystallus System was inspiring. It will take them some time to locate you in the debris. They will find you eventually though.</Text>
+   <Text tag="[Conv_Q037a_0013]">You are more correct than you realize. Right now, a fleet of MRI ships is bearing down on your position; we&apos;ve been following them. Hiding in the Krystallus System was inspiring. It will take them some time to locate you in the debris. They will find you eventually though.</Text>
+
+   <Text tag="[Conv_Q037a_0014]">What are you offering?</Text>
+   <Text tag="[Conv_Q037a_0015]">What are you offering?</Text>
+
+   <Text tag="[Conv_Q037a_0016]">We are on Krystallus Delta. Join us. We&apos;ll be waiting here when you decide to stand and fight. General Tarn out.</Text>
+   <Text tag="[Conv_Q037a_0017]">We are on Krystallus Delta. Join us. We&apos;ll be waiting here when you decide to stand and fight. General Tarn out.</Text>
+
+</TextLibrary>

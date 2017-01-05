@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+   <Text tag="[Q029_1_0_ACTN]">Scan the Luminary Archive</Text>
+   <Text tag="[Q029_1_0_LOG]">You must scan the Luminary Archive at Icarus Alpha.</Text>
+   
+   <Text tag="[Q029_2_0_ACTN]">Fight the Automated Defense</Text>
+   <Text tag="[Q029_2_0_LOG]">Fight the Automated Defense at Icarus Alpha to reach the Luminary Archive.</Text>
+   <Text tag="[Q029_2_0_ENDMSG]">The Automated Defense is down, now for the Gun Turrets!</Text>
+   
+   <Text tag="[Q029_3_0_ACTN]">Fight the Gun Turrets</Text>
+   <Text tag="[Q029_3_0_LOG]">Fight the Gun Turrets at Icarus Alpha to reach the Luminary Archive.</Text>
+   <Text tag="[Q029_3_0_ENDMSG]">The Gun Turrets are down, now for the Luminary Archive itself!</Text>
+   
+   <Text tag="[Q029_4_0_ACTN]">Fight the Luminary Archive</Text>
+   <Text tag="[Q029_4_0_LOG]">Fight the Luminary Archive at Icarus Alpha.</Text>
+   
+   <Text tag="[Q029_5_0_ACTN]">Search the Luminary Archive</Text>
+   <Text tag="[Q029_5_0_LOG]">Search the Luminary Archive at Icarus Alpha.</Text>
+</TextLibrary>

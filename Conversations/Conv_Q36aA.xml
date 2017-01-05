@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="The Two Turrets: Talk to Sable"/>
+   <Text file="English\Conversations\Conv_Q36aA_Text.xml"/>
+   <Backdrop file="img_CONCORR"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="[img_CSAB_L]" portraitindex="0" name="[Conv_Q36aA_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_male" character="1" text="[Conv_Q36aA_0000]" />
+      <Action type="talk_female" character="1" text="[Conv_Q36aA_0001]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q36aA_0002]" />
+      <Action type="talk_female" character="0" text="[Conv_Q36aA_0003]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q36aA_0004]" />
+      <Action type="talk_female" character="1" text="[Conv_Q36aA_0005]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q36aA_0006]" />
+      <Action type="talk_female" character="0" text="[Conv_Q36aA_0007]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q36aA_0008]" />
+      <Action type="talk_female" character="1" text="[Conv_Q36aA_0009]" />
+      <Action type="wait" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

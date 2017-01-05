@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q041e_NAME0]">[Conv_Q041e_NAME0]</Text>
+   <Text tag="[Conv_Q041e_NAME1]">PEZT</Text>
+
+   <Text tag="[Conv_Q041e_0000]">The Solenite? Excellent, my little friend, you&apos;ve done well.</Text>
+   <Text tag="[Conv_Q041e_0001]">The Solenite? Excellent, my little friend, you&apos;ve done well.</Text>
+   
+   <Text tag="[Conv_Q041e_0002]">Yes! Now you answer our questions.</Text>
+   <Text tag="[Conv_Q041e_0003]">Yes! Now you answer our questions.</Text>
+   
+   <Text tag="[Conv_Q041e_0004]">Of course.</Text>
+   <Text tag="[Conv_Q041e_0005]">Of course.</Text>
+   
+   <Text tag="[Conv_Q041e_0006]">Where do Soulless Ones come from? Where do they hide? What system? Tell us!</Text>
+   <Text tag="[Conv_Q041e_0007]">Where do Soulless Ones come from? Where do they hide? What system? Tell us!</Text>
+   
+   <Text tag="[Conv_Q041e_0008]">I don&apos;t know the system exactly. It is somewhere beyond Acheron on the Gehenna Rim. They are building something out there. Something you can&apos;t see.</Text>
+   <Text tag="[Conv_Q041e_0009]">I don&apos;t know the system exactly. It is somewhere beyond Acheron on the Gehenna Rim. They are building something out there. Something you can&apos;t see.</Text>
+   
+   <Text tag="[Conv_Q041e_0010]">What? You speak stupid words!</Text>
+   <Text tag="[Conv_Q041e_0011]">What? You speak stupid words!</Text>
+   
+   <Text tag="[Conv_Q041e_0012]">There are no better words to describe it, my little friend. But if you are seeking answers, I suggest you go to Acheron Prime. It is a planet stranger than the Soulless, and one they keep well clear of.</Text>
+   <Text tag="[Conv_Q041e_0013]">There are no better words to describe it, my little friend. But if you are seeking answers, I suggest you go to Acheron Prime. It is a planet stranger than the Soulless, and one they keep well clear of.</Text>
+
+</TextLibrary>

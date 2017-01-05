@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q0GBa_NAME0]">[Conv_Q0GBa_NAME0]</Text>
+   <Text tag="[Conv_Q0GBa_NAME1]">PSYLT</Text>
+
+   <Text tag="[Conv_Q0GBa_0000]">I would ask a favor of you.</Text>
+   <Text tag="[Conv_Q0GBa_0001]">I would ask a favor of you.</Text>
+   
+   <Text tag="[Conv_Q0GBa_0002]">Name it. Your people have suffered greatly at the hands of the MRI. Any aid we can offer is simply our duty.</Text>
+   <Text tag="[Conv_Q0GBa_0003]">Name it. Your people have suffered greatly at the hands of the MRI. Any aid we can offer is simply our duty.</Text>
+
+   <Text tag="[Conv_Q0GBa_0004]">We have no ships. Help us leave this place and travel to the outer rim where the MRI cannot find us. We need to split into 5 groups.</Text>
+   <Text tag="[Conv_Q0GBa_0005]">We have no ships. Help us leave this place and travel to the outer rim where the MRI cannot find us. We need to split into 5 groups.</Text>
+
+   <Text tag="[Conv_Q0GBa_0006]">We cannot take you all at once; our ship is large, but the life support systems will not handle all of your people. So gather the first group together. Where do you wish to go?</Text>
+   <Text tag="[Conv_Q0GBa_0007]">We cannot take you all at once; our ship is large, but the life support systems will not handle all of your people. So gather the first group together. Where do you wish to go?</Text>
+
+   <Text tag="[Conv_Q0GBa_0008]">To the Carinox System.</Text>
+   <Text tag="[Conv_Q0GBa_0009]">To the Carinox System.</Text>
+
+</TextLibrary>

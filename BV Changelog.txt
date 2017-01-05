@@ -1,0 +1,543 @@
+BV Balance Mod Version 1.0.2  [Special Thanks to KGB, Xono, and all the beta testers!]
+
+Changes: 
+
+Molecular Spasm requires 2 less CPU Energy.
+
+Fixes:
+
+Repeatable Repuation Quests are now actually repeatable.  They also acutally give a decrease in reputation as advertised.
+Game no longer crashes when mining etc. with Digital Armor (and a couple other items.)
+
+
+-- BV Balance Mod Version 1.0 - 1.0.1
+
+
+Changes:
+
+Contingency Tool now requires 1 less Weapon, and 3 less Engine energy.  It's cooldown has been reduced to 5 turns (from 8.)
+Heat Ray now has one more turn of cooldown, costs 2,000 more credits, but doesn't end your turn any more.
+Paralyzation Emitter now has one more turn of cooldown and lasts one fewer turn. (CD 5 --> 6; Duration 6 --> 5)
+PSI Agression Drone now functions while enemy shields are up, but its energy requirements are all up by 1. (from 4 to 5)
+PSI Havoc Drone now has a reduced cooldown (from 7 to 4.) 
+
+Fixes:
+
+The plot quest now gives the proper amount of gold to craft a degausser.
+The quest "Attunement" now lists how much the Cobalt Magnifier costs in the action text.
+Fixed a getting stuck in systems bug.
+
+
+-- BV Balance Mod Version 0.6i (beta) --
+Changes:
+
+[Item Changes]
+Landing Rockets now are affected by Engineering Skill divided by 15, not divided by 10. (Still caps out at +10)
+Critical Trajectory Processor's buff's chance of enhancing damage has been increased. (Was 35%/25%/15%, is now 50%/35%/20%)
+Advanced Position Computer now lasts an additional turn (from 4 to 5 turns.)
+Bola Mines now have a cooldown of 5 and start the battle with 5 turns of cooldown.
+Ion Weaponry now deals disruption effects per 4 hull damage. (Used to be per 5 hull damage.)
+PSI-Havoc Drone no longer ends your turn when used.
+
+[Laser Changes]
+Power Laser is now affected by the Gunnery Damage Bonus. (+1 Damage per 49 Skill)
+Basic Laser is now affected by the Gunnery Damage Bonus.
+Military Laser is now affected by the Gunnery Damage Bonus.
+Narrow-Beam Laser has been renamed Prismatic Beam.
+Mining Laser is now affected by the Gunnery Damage Bonus.
+ADV Laser is now affected by the Gunnery Damage Bonus.
+Vortraag Laser is now affected by the Gunnery Damage Bonus.
+Trident Laser is now affected by the Gunnery Damage Bonus.
+Dark Laser is now affected by the Gunnery Damage Bonus.  Dark Laser now deals 1 less base damage (from 20 + cpu/2 to 19 + cpu/2)  Since you must have 10 cpu to use it, the minimum is now 24, not 25.
+Laser Blaster is now affected by the Gunnery Damage Bonus.
+Molecular Blaster is now affected by the Gunnery Damage Bonus.
+Modified Laser is now affected by the Gunnery Damage Bonus.
+Basic Ion Laser, ADV Ion Laser, and Military Ion Laser are now all affected by the Gunnery Damage Bonus.
+Ion Beam Cannon, not being a laser, is not affected by said bonus but now deals 2 additional base Ion Damage to compensate.
+
+[Other]
+The biggest rumors now yield 20 less intel (originally 500, reduced to 200, reduced again to 180.)
+The repeatable quest: "Harassing: Quesada" has been added.
+The repeatable quest: "Harassing: Pirates" has been added.
+The repeatable quest: "Harassing: Trident" has been added.
+The repeatable quest: "Harassing: MRI" has been added.
+The repeatable quest: "Smuggling: MRI" has been added.
+The repeatable quest: "Smuggling: Lumina" has been added.
+The repeatable quest: "Smuggling: Plasmids" has been added.
+
+Fixes:
+
+(none I can think of)
+
+
+-- BVBalance Mod Version 0.6h (beta) --  
+
+Changes:
+
+It is now possible to gain plans for, and craft, items new to the Balance Mod.  (Excluding the quest rewarded Psi-Items.)
+Added a quest, "Libertarian"
+
+Fixes: 
+
+Fixed an issue with Engine bot that caused issues including Ceti CPUs having a display error (where it is sold.)
+The Enforcer Turret (and others) now properly display their images.
+
+-- BVBalance Mod Version 0.6g (beta) --
+
+Changes:
+
+Added a quest, "The Two Turrets"
+
+Fixes:
+
+Added a minimum needed credits condition to the Your Food or Your Life quest.
+Fixed some first turn order determination problems (quite a few.)
+Fixed Memory field typo that caused a crash when equipped to an opponent AI.
+Fixed a typo in the code for Telekinetic Generator that caused a crash to desktop.
+Fixed a bug with Trident Laser (when used by the AI.)
+
+
+
+-- BVBalance Mod Version 0.6f (beta) -- 
+
+Changes: 
+
+Fixes:
+
+Luminary shield now correctly caps shield generation at 75%.
+Fixed a major issue with an item.
+Several Item fixes.  More still need to be properly documented for me to fix them.  Thank you for your patience.
+Fixed some other stuff. . .(Worst changelog, ever.)
+
+
+-- BVBalance Mod Version 0.6e (beta) --
+
+Changes:
+
+[General]
+Point Disruptor is now affected by current Gunnery, not ideal Gunnery.  So Items like Heat Ray will reduce Point Disruptor's effectiveness.
+Regulon Field has been balanced.  It now has a recharge of 7 turns (from 5) and costs an additional 2,000 credits to purchase.
+Laser Blaster now deals an additional point of damage.  (This is largely to make up for the loss from both Engineering repair and small ship size.)
+Molecular Blaster now deals an additional 2 points of damage.  (This is largely to make up for the loss from both Engineering repair and small ship size.)
+Optimal Position CPU now adds 1 fewer point of damage and lasts only 3 OR 4 turns.  (50% Chance of each but altered by high levels of Science)
+Decreased the overall chance of encountering enemies by 33%. (Did not alter base chance of detection when you have contraband.)
+Changed the behavior for the first turn determination when ships speeds are equal.  Details will eventually be listed in the Handbook.
+Added the PSI Augmentor as an item.  It passively increases the PSI points you generate per purple match.
+	This item can be found at the Degani Trader, Hydra Systems, and Ceti CPUs.
+
+
+
+[PSI]
+Increased the PSI cost of Dual-Core by 1.
+Increased the PSI cost of Giga-Charge Cannon by 1.
+Increased the PSI cost of Entropy Field by 1.
+Increased the PSI cost of Aggression Drone by 1.
+Increased the PSI cost of Havoc Drone by 2.
+Increased the PSI cost of Sacrifice Cannon by 2.  (To 42. . . mostly for humor's sake.)
+Decreased the PSI cost of avoiding all encounters (except against size 3 ships) Such that:
+	Size 3 Ship: Avoid Costs 10 PSI
+	Size 4 Ship: Avoid Costs 18 PSI
+	Size 5 Ship: Avoid Costs 26 PSI
+	Size 6 Ship: Avoid Costs 34 PSI
+	Size 7 Ship: Avoid Costs 42 PSI
+	Size 8 Ship: Avoid Costs 50 PSI
+Changed the final PSI power.  It now reduces the chance of detection by enemies by an additional 20%.  This DOES affect contraband detection as well.
+
+
+[AI]
+Slightly Improved the AI for Basic Disruptor.
+Improved the AI for EM Disruptor.
+Slightly Improved the AI for Power Disruptor.
+Slightly Improved the AI for Burst Disruptor.
+Improved the AI for Point Disruptor.
+Improved the AI for Temporal Probe.  AI will not use item when Chronotron Droid is active on player.
+Improved the AI for Defense Probe.
+Vastly Improved the AI for Weapon Probe.
+Vastly Improved the AI for Data Probe.
+Improved the AI for Mass Drive.
+Improved the AI for Temporal Drive.
+Improved the AI for Solar Drive.
+Improved the AI for Nova Drive.
+Improved the AI for Sub-Light Drive.
+Vastly Improved the AI for Vampyre Drone.
+Improved the AI for Temporal Field.  AI will not use item when Chronotron Droid is active on player. 
+Vastly Improved the AI for Memory Field.
+Slightly Improved the AI for Mining Laser.
+Improved the AI for Mining Scoop.
+Slightly Improved the AI for ADV Laser.
+Improved the AI for Regulon Field.
+Improved the AI for Telekinetic Generator.
+Improved the AI for Laser Generator.
+Improved the AI for Psi-Shield Generator.
+Vastly Improved the AI for Data Matrix.
+Vastly Improved the AI for Engine Matrix.
+Improved the AI for Robotic Minelayer.
+Improved the AI for Spectral Minelayer.
+Improved the AI for Shielded Minelayer.
+Improved the AI for Needle Missiles.
+Slightly Improved the AI for Counter Missiles.
+Improved the AI for Cluster Missiles.
+Slightly Improved the AI for Supanova Module.
+Vastly Improved the AI for Shield Multiplexor.
+Improved the AI for EM Net.  AI will not use item when Chronotron Droid is active on player.
+Improved the AI for Shock Net.  AI will not use item when Chronotron Droid is active on player.
+Slightly Improved the AI for Adaptive Plating.
+Improved the AI for Vortraag Laser.
+AI will no longer use Basilisk Net when Chronotorn Droid is active on player.
+Vastly Improved the AI for Vortraag Matrix.
+Improved the AI for Trident Laser.
+Improved the AI for A.I. Missiles.
+Slightly Improved the AI for Dark Laser.
+Improved the AI for Red-Eye Torpedoes.
+Improved the AI for Yellowfin Torpedoes.
+Improved the AI for Weapons Uplink.
+Improved the AI for Engine Uplink.
+Improved the AI for Photonic Transformer.
+Improved the AI for Mersenne Transformer.
+Improved the AI for Fireball Thruster.
+Massively Improved the AI for Weapons Bot.
+Massively Improved the AI for Engine Bot.
+Vastly Improved the AI for Null Wave.
+Vastly Improved the AI for Shock Wave.
+Improved the AI for Linear Thruster.
+Improved the AI for Multi-Thrusters.
+Slightly Improved the AI for Doomsday Bomb.
+Improved the AI for Threat Scanner.
+Improved the AI for Psi-clone Missiles.
+Improved the AI for Cy-Tech Assimilator.
+Improved the AI for Neptune Cannon.
+Improved the AI for Luminatry Shield.
+Slightly Improved the AI for Quesadan Relic.
+Slightly Improved the AI for Modified Laser.
+Vastly Improved the AI for Zapper.
+Slightly Improved the AI for Vortraag Death Ray.
+Improved the AI for Elysian Pacifier.
+Slightly Improved the AI for Reverse-Engineering Probe.
+
+Fixes:
+
+Fixed a mistake in the AI coding for Basic Laser.  (Very small mistake)
+Fixed the Alphabet Item Bug for the Crafting Screen.
+Fixed a crash when using Supanova Module.
+Fixed the crash in Vortraag Enough.
+Fixed two typos in Vortraag Enough.
+Position CPUs weren't being cancelled via direct hull damage.  This has been fixed.
+Fixed PSI Agression Drone and PSI Havoc Drone.  They weren't functioning properly before. (Note: They cannot kill an opponent; only weaken your enemy.)
+
+-- Version 0.6d (beta) --
+
+Changes:
+
+Destabilization Field no longer requires enemy shields to be removed before it may be used.
+The descriptions on Optimal and Advanced Position CPUs have been refined.
+The AI will no longer use Anti-Grav Array when the battleground's gravity is already altered with its effect.
+The AI will no longer use Newtonian Array when the battleground's gravity is already altered with its effect.
+The AI will no longer use Mersenne Array when the battleground's gravity is already altered with its effect.
+The AI will no longer use Nebula Array when the battleground is already under its effect.
+The AI will no longer use Mine Array when the battleground is already under its effect.
+Improved the AI for Damage Assimilator.
+Improved the AI for Language Assimilator.
+Slightly Improved the AI for Synaptic Assimilator.
+Vastly Improved the AI for Tractor Beam.
+Vastly Improved the AI for Cobalt Beam.
+Vastly Improved the AI for Multiphasic Beam.
+Improved the AI for Darkmatter Beam.
+Improved the AI for EM Beam.
+Improved the AI for Space Bomb.
+Improved the AI for Mini Cluster Bomb.
+Improved the AI for EM Bomb.
+Improved the AI for Smart Bomb.
+Improved the AI for Shield Droid.
+Slightly Improved the AI for Interceptor Drone.
+Vastly Improved the AI for Chronotron Droid.
+Slightly Improved the AI for Guardian Droid.
+
+Fixes:
+
+5 Items with previously changed AI had a critical bug.  This has been fixed.  Proving Grounds and other quest/battles should work now.
+Some mislabeled text in "Dual Core II" has been fixed.
+
+-- Version 0.6c (beta) --
+
+Changes:
+
+The AI is less likely to use Power Laser.  This item is rather useless in most scenarios and was being overused.
+The AI will no longer use Orbital Array when the player's gravity is already altered with its effect.
+Improved the AI for Mine Sweeper.
+Improved the AI for Targeting HUD.
+Improved the AI for Destabilization Field.
+Vastly Improved the AI for Weapons Matrix.
+Improved the AI for Repair Bot.
+Slightly improved the AI for Basic Laser.
+Improved the AI for Wasp Missiles.
+Slightly improved the AI for Shield Wave.
+Improved the AI for Auto-Repair Scanner.
+Slightly improved the AI for Reflec Armor.
+Improved the AI for Narrow-Beam Laser.
+Vastly Improved the AI for Platinum Transformer.
+Vastly Improved the AI for A.I. Transformer.
+Improved the AI for Shield Virus.
+Slightly improved the AI for Landing Rockets.
+Improved the AI for Targeting Node.
+
+
+Fixes:
+
+Keck shell should now be working properly.
+Optimal Position and Advanced Position CPU items are now fully functional.
+A text error that was crashing the game in the Vortraag Enough Quest has been fixed. (Hopefully)
+
+-- Version 0.6 (beta) --
+
+Changes:
+
+"New" items have been distributed amongst the many shops in the game and are no longer all in the Erebus system.
+Bonus experience for winning battles has been reduced by about 20%.
+New AI has been added to the game (listed below.)
+New Quests have been added to the game (listed below.)
+New Items have been added to the game (listed below.)
+Several Major Item Balance Issues have been addressed (listed below.)
+Many small Item tweaks have been made (listed below.)
+Other fixes (listed below.)
+
+New AI:
+
+Added better AI for Conductive Plating.
+Added better AI for Basilisk Net.
+Added better AI for Cluster Bomb.
+Added better AI for Seeker Torpedoes.
+Added better AI for Trident Missiles.
+Added better AI for Data Generator.
+Added better AI for Laser Blaster.
+Added better AI for Shock Net.
+Added better AI for Needle Drone.
+Added better AI for Guardian Droid.
+Added better AI for Cobalt Sensor.
+Added better AI for Molecular Blaster.
+AI will no longer use Minelayer items (that transform mines) when no mines of a valid type are present.
+
+New Quests:
+
+Dual Core (accessible after finishing Attunement.)
+Hunting Vagabonds (accessible after finishing Attunement.)
+Information War (accessible after finishing Hunting Vagabonds; has two reputation conditions.)
+Your Food or Your Life (accessible after finishing Dual Core; has many reputation conditions.)
+Vortraag Enough (accessible after finishing Information War; has a single reputation condition and a rumor requirement.)
+
+New Items:
+
+Added Molecular Spasm as an item that is heavily dependent on your (and your enemy's) Science attribute.
+Added Hull Patch as an item that passively increases hull by 5.
+Added Layered Armor as an item that passively increases hull by 15.
+Added Reinforced Armor as an item that passively increases hull by 20.
+Added Digital Armor as an item that passively increases hull by 20+ for size 3 & 4 ships (affected by Science Skill.)
+Added Fission Armor as an item that passively increaess hull by 25+ for size 3 & 4 ships (affected by Engineer Skill.)
+
+Major Item Balances:
+
+Bola mines now max out at adding 8 additional mines.
+Keck Shell now increases to maximum energies minus 8 points.  AI has been altered to understand this.
+Luminary Shield now increases shields by 4 per gem removed but only to a maximum of 75% and will lower your shields if they started above this amount.
+Darkmatter Beam now has an 8 turn cooldown and only reduces shields by 50% (all else the same.)
+Environmental Degausser now does not end your turn.  The AI also has a slightly reduced chance of using it.
+Narrrow-Beam Laser now deals 5 + 2 per 15 points of Gunnery and caps out at a total of 29 damage. (from 5 + 3/10Gun.)
+
+Small Item Tweaks:
+
+Increased the damage of all Ion Weapons by 1.
+Greatly increased the Energy Requirements and Cooldown for Shield Virus.
+Lowered the Energy costs of FightPath Analyzer.
+Renamed Multiphase Capacitor to Multiphase Node.
+Decreased the energy costs of Multiphase Node.
+Renamed Targeting Implant to Targeting Node.
+Decreased the energy requirement of Data Implant.
+Decreased an energy requirement of Helm Jack by 1.
+Renamed Duplex Capacitor to Duplex Node.
+Added a PSI element to both Spectral Analyzer and Threat Analyzer.
+Decreased the energy requirements of Shield Capacitor.
+Increased the engine requirement of Precision Rockets.
+Lowered the weapon requirement of Needle Drone.
+
+Fixes:
+
+Removed the * next to Ion weapons' names as there is no special documentation for those items.
+Made quest "Attunement IV" actually give 20 Psi as advertised.
+Made quest "Attunement IV" actually require Neutrality with Quesadans.
+Changed the mechanism for adding (and advertising) Psi gained from quests.
+Fixed the min_faction and max_faction functions.
+Fixed the AI function on Contingency Tool (missing one line.)
+
+Others:
+
+Keck Tradeship now uses Burst Disruptor, not Shield Virus as it didn't meet the requirements for the latter.
+
+
+Known Bugs:
+
+Precision Rockets are dealing additional energy damage beyond what they are supposed to deal.  This has been temporarily addressed by increasing the engine requirement significantly.
+
+
+-- Version 0.5 (beta) -- 
+
+Changes:
+
+Doubled the amount of cargo awarded from battles. (Still not much but its something.)
+Remaining Ships Balanced. (Changes Listed Below)
+Added passive bonuses to smaller ships (Changes Listed Below)
+Added Precision Rockets as an item to benefit smaller ships.
+Added Optimal Position Computer as an item to benefit smaller ships.
+Added Advanced Position Computer as an item to benefit smaller ships.
+Added Manual Control Chip as an item to benefit smaller ships.
+Added Critical Trajectory Processor as an item to benefit smaller ships.
+Added Mobility Core as an item to benefit smaller ships.
+Added Density Field as an item to benefit smaller ships.
+Added Impervious Shielding as an item to benefit smaller ships.
+Degausser has had increased energy requirements and now has a 3 turn cooldown for balance reasons.
+Ultra Degausser has had increased energy requirements and now has a 4 turnn cooldown for balance reasons.
+*Note that Environmental Degausser remains unchanged.
+Standard Shuttle now has 1 more Weapons Rating.
+Basic, Advanced, and Military ION Lasers have been added to the game.
+Also added Ion Beam Cannon to the game.
+Lowered the duration of Temporal Drive by 1 Turn for balance reasons.
+Added Quest chain(s) Proving Grounds and Attunement to begin to introduce Psionic Weaponry.
+
+Passive Size Bonuses:
+
+Using the item Flightpath Analyzer on a smaller ship yields a larger effect.
+Weapons that deal damage directly to Hull have a reduced effect on smaller ships. (Blasters and Death Ray)
+Armor Buffs last longer on smaller ships. ("plating")
+Engine Buffs last longer on smaller ships. ("drive")
+Torpedoes deal bonus damage from smaller ships.
+Missiles deal more damage from smaller ships.
+
+Ship Changes:
+
+-- [3 Slot Ships] --
+Cy-Tech Botship, costs less and has 5 more hull.
+Lumina Warship costs less.
+Pirate Warship costs less, has 5 more hull and 1 more CPU Rating.
+
+-- [4 Slot Ships] --
+MRI Psionic Array costs less (and thus sells for less.)
+Cy-Tech Needle costs less and has 1 more Weapons Rating.
+Elysian Ferry costs less, has 5 more shields, and 5 more speed.
+Trident Warship costs less and has 5 more hull.
+
+-- [6 Slot Ships] --
+Jahrwoxi Homeship has 1 more CPU Rating and 1 more Engine Rating.
+
+-- [7 Slot Ships] --
+Soulless Heavy Cruiser has 5 less Speed.
+
+
+Fixes:
+
+Most effects cannot stack with themselves.  (The ones that can, it should be because it is intentional)
+
+
+
+-- Version 0.4 (beta) -- 
+
+Changes:
+
+Cut the experience rewards from rumors by about 65%.
+Introduced a base experience reward from winning battles.
+Slightly adjusted (increased) AI likelihood of using Paralyzation Emitter.
+Replaced Solar Drive on Enemy Degani Marketships with Paralyzation Emitter.
+Replaced Mega Minelayer on Enemy Lumina Cruiser with Contingency Tool.
+Replaced Memory Field on Enemy Lumina Cruiser with Heat Ray.
+5-Slot Ships Balanced.  (Changes Listed Below)
+
+Ship Changes:
+
+Cytech Missile Array now costs less, and has 2 more Weapons Rating (it *is* a "missile" array, right?)
+Lumina Cruiser now costs less, and has 2 more Computer Rating.
+Vortraag Cruiser now costs less, has 5 more Hull, and 4 more Weapons Rating but moves 20 slower.
+Degani Marketship now costs much more, has 5 less Hull, 4 less Weapons Rating, 8 less Engine Rating, and 1 less CPU.
+
+Fixes: 
+
+Fixed the display of the Engine Fault effect to 20%.
+Fixed a coding note for FC06.  Now reads 20%.
+Added a missing "ai_should_use" function for RE Probe.
+Added a missing "ai_should_use" function for Contingency Tool.
+Fixed a coding note for Contingency Tool.
+
+-- Version 0.3b (beta) -- 
+
+Changes: 
+
+Reduced chance of Engine Leak to 20% per turn with high fuel (from 40%)
+Added a display of the version number.
+
+Fixes: 
+
+Fixed Degausser to not crash after removing a status ailment.
+
+-- Version 0.3 (beta) -- 
+
+Changes:
+
+Added "Contingency Tool" as an item to counter novae and supernovae.
+Added "Reverse-Engineering Probe" as an item to counter tons of auto-repair.
+Added "Angst Machine" as another item to counter tons of auto-repair.
+Added "Heat Ray" as an item to expand the number of statistic reduction options.
+Added "Paralyzation Emitter" as another item to expand the number of statistic reduction options.
+
+Fixes:
+
+Made all turn-ending items prevent an extra-turn heal (via repair.)
+Fixed an incorrect display of mining bonus/repair bonus when Engineer skill is at 244.
+Fixed Engineering Mining Bonus, so that it is now functional.
+Rewrote Code dealing with Time Warps.  It FINALLY should work.
+
+
+-- Version 0.2b (beta) --
+
+Changes:
+
+Made intermediate points count for Cooldown Bonus and Mine Damage Bonus.
+Added a credit-based reward system for hacking leap-gates.
+
+Fixes:
+
+Battle Fatigue *should* no longer carry over from one battle to the next.
+
+
+-- Version 0.2 (beta) --
+
+Changes: 
+
+Reduced the bonuses from Haggling to prevent an infinite purchase-resell-profit exploit.
+Instituted a Battle Weariness factor.  The Engineer repair bonus is reduced as the battle drags on.
+Made intermediate points between dependent statistics determine rounding behavior for the statistics.  (So far just Hull/Turn)
+
+
+Fixes:
+
+Shield/CPU/Weapon Drain will no longer affect stunned players.  (The effects will freeze in place.)
+Hull will no longer be repaired when an item that doesn't end a turn is used.
+Other fixes?
+
+
+-- Version 0.1c (beta) --
+
+Fixes: 
+
+It is now possible to get a +5 damage bonus by putting 245 points into Gunnery.
+It is now possible to get -6 keys bonus by putting 245 points into Science.
+It is now possible to get a +10 repair/turn bonus by putting 245 points into Engineer.
+Cooldowns will now work properly after a TimeWarp has been activated.
+
+Other:
+
+Set up the framework for weapons that use Psionic Energy.
+
+
+-- Version 0.1b (beta) --
+
+Fixes:
+
+Game no longer hangs when status items are used.
+TimeWarp effect actually works.
+Destabilization effect now counts down when TimeWarped.  (Was supposed to earlier)

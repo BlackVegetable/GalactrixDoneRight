@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Q022_1_0_LOG]">Arrive at the Emporium of Keck to locate a Starhound.</Text>
+   <Text tag="[Q022_1_0_ACTN]">Locate the Starhound</Text>
+   <Text tag="[Q022_1_0_MSG]">You&apos;ve located the Starhound at the Emporium of Keck.</Text>
+   
+   <Text tag="[Q022_2_0_PRE]">You&apos;ve located the Starhound at the Emporium of Keck. A Starhound will cost at least 1000 Credits. Return when you have the money.</Text>   
+   <Text tag="[Q022_2_0_LOG]">Purchase the Starhound.</Text>   
+   <Text tag="[Q022_2_0_ACTN]">Request the Starhound</Text>
+   <Text tag="[Q022_2_0_ENDMSG]">1000 Credits deducted. You now have the device to track ships.</Text>
+
+</TextLibrary>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q35aB_NAME1]">SABLE</Text>
+
+   <Text tag="[Conv_Q35aB_0000]">Good work!  You&apos;ve passed the qualifier.  If you do well, you will only have three more rounds ahead of you.</Text>
+   <Text tag="[Conv_Q35aB_0001]">Good work!  You&apos;ve passed the qualifier.  If you do well, you will only have three more rounds ahead of you.</Text>
+   <Text tag="[Conv_Q35aB_0002]">Did you manage to find anything out about my next opponent?</Text>
+   <Text tag="[Conv_Q35aB_0003]">Did you manage to find anything out about my next opponent?</Text>
+   <Text tag="[Conv_Q35aB_0004]">Yes, he goes by the name &quot;Dr. Horrible&quot;. His specialty is Scientific equipment in combat.</Text>
+   <Text tag="[Conv_Q35aB_0005]">Yes, he goes by the name &quot;Dr. Horrible&quot;. His specialty is Scientific equipment in combat.</Text>
+   <Text tag="[Conv_Q35aB_0100]">Scientific equipment?  What exactly do you mean?</Text>
+   <Text tag="[Conv_Q35aB_0101]">Scientific equipment?  Isn&apos;t everything we use scientific?</Text>
+   <Text tag="[Conv_Q35aB_0102]">You can expect droids, drones and other tricks from him.  That&apos;s what I meant.</Text>
+   <Text tag="[Conv_Q35aB_0103]">Well, yes, but I meant droids, drones and other such tricks.</Text>
+   <Text tag="[Conv_Q35aB_0006]">When I took down the first ship, some people sent me a nasty e-mail.  Any idea why?</Text>
+   <Text tag="[Conv_Q35aB_0007]">When I took down the first ship, some people sent me a nasty e-mail.  Any idea why?</Text>
+   <Text tag="[Conv_Q35aB_0008]">While you aren&apos;t killing anyone out there, you are making representatives of different factions look bad.</Text>
+   <Text tag="[Conv_Q35aB_0009]">While you aren&apos;t killing anyone out there, you are making representatives of different factions look bad.</Text>
+   <Text tag="[Conv_Q35aB_0010]">Understood.  I may make some enemies as a result.  I&apos;ll head out to the second round then.</Text>
+   <Text tag="[Conv_Q35aB_0011]">Understood.  I may make some enemies as a result.  I&apos;ll head out to the second round then.</Text>
+
+</TextLibrary>

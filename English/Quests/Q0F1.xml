@@ -1,0 +1,14 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0F1_1_0_ACTN]">Deliver Cytech Parts</Text>
+   <Text tag="[Q0F1_1_0_LOG]">Travel to Centauri V.</Text>
+   <Text tag="[Q0F1_1_0_ENDMSG]">Parts delivered! Now travel to Pegasus VI.</Text>
+   <Text tag="[Q0F1_2_0_ACTN]">Deliver Cytech Parts</Text>
+   <Text tag="[Q0F1_2_0_LOG]">Travel to Pegasus VI.</Text>
+   <Text tag="[Q0F1_2_0_ENDMSG]">Parts delivered! Now travel to Leo VI.</Text>
+   <Text tag="[Q0F1_3_0_ACTN]">Deliver Cytech Parts</Text>
+   <Text tag="[Q0F1_3_0_LOG]">Travel to Leo VI.</Text>
+   <Text tag="[Q0F1_3_0_ENDMSG]">Parts delivered! Now return to Fornax Prime.</Text>
+   <Text tag="[Q0F1_4_0_ACTN]">Return from Delivery</Text>
+   <Text tag="[Q0F1_4_0_LOG]">Return to Fornax Prime.</Text>
+</TextLibrary>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q041a_NAME1]">GENERAL TARN</Text>
+
+   <Text tag="[Conv_Q041a_0000]">I have a mission for you, young man. If we are going to defeat the Soulless, we need to learn their weakness.</Text>
+   <Text tag="[Conv_Q041a_0001]">I have a mission for you, young lady. If we are going to defeat the Soulless, we need to learn their weakness.</Text>
+   <Text tag="[Conv_Q041a_0002]">How do we do that?</Text>
+   <Text tag="[Conv_Q041a_0003]">How do we do that?</Text>
+   <Text tag="[Conv_Q041a_0004]">You need to travel towards the Gehenna Rim. Head for Gomorrah Station - it&apos;s full of Pirates but my sources tell me they&apos;re holding out against the Soulless. If anybody might know something, it&apos;s them.</Text>
+   <Text tag="[Conv_Q041a_0005]">You need to travel towards the Gehenna Rim. Head for Gomorrah Station - it&apos;s full of Pirates but my sources tell me they&apos;re holding out against the Soulless. If anybody might know something, it&apos;s them.</Text>
+   <Text tag="[Conv_Q041a_0006]">Do we get an escort?</Text>
+   <Text tag="[Conv_Q041a_0007]">Do we get an escort?</Text>
+   <Text tag="[Conv_Q041a_0008]">No. One ship might sneak through. A fleet will be detected and attacked. You&apos;ve shown you can take these filthy creatures on in small numbers. You&apos;ll survive.</Text>
+   <Text tag="[Conv_Q041a_0009]">No. One ship might sneak through. A fleet will be detected and attacked. You&apos;ve shown you can take these filthy creatures on in small numbers. You&apos;ll survive.</Text>
+
+</TextLibrary>

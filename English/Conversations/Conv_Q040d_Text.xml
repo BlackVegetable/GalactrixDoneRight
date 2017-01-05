@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q040d_NAME1]">GENERAL TARN</Text>
+
+   <Text tag="[Conv_Q040d_0000]">Well fought, young man. But we faced only the advance fleet today.</Text>
+   <Text tag="[Conv_Q040d_0001]">Well fought, young lady. But we faced only the advance fleet today.</Text>
+   <Text tag="[Conv_Q040d_0002]">There are more?</Text>
+   <Text tag="[Conv_Q040d_0003]">There are more?</Text>
+   <Text tag="[Conv_Q040d_0004]">Many more. We will not be able to stand against them forever.</Text>
+   <Text tag="[Conv_Q040d_0005]">Many more. We will not be able to stand against them forever.</Text>
+
+</TextLibrary>

@@ -1,0 +1,446 @@
+<Menu x="0" y="0" width="1024" height="768" timer="off" draw="off" modal="on" gp_entry="none">
+   
+	<!-- Common Menu Elements -->
+
+   <String name="str_heading"     x="512" y="84"  multiline="off" justify="center" font="font_heading" text="[CRAFT_ITEM]"/>
+	<String name="str_action_desc" x="212" y="150"  multiline="on" width="600" height="100" justify="center" font="font_info_gray" text="[CRAFT_INSTRUCTIONS]" />
+	
+   <TextButton name="butt_cancel" id="99" x="649" y="629" width="256" height="40" key="27" font="font_button" text="[CANCEL]" textoffsety="0" graphic="asset_buttwide" sound="asset_buttsound"
+                gp_button="GAMEPAD_BUTTON_CANCEL" gp_graphic="img_gamepad_b" gp_width="35" gp_height="35" gp_x="20" gp_y="3" selectable="off"/>
+	
+   <TextButton name="butt_craft" id="7" x="114" y="629" width="256" height="40" key="13" font="font_button" text="[BEGIN]" textoffsety="0" graphic="asset_buttwide" sound="asset_buttsound"
+                gp_button="GAMEPAD_BUTTON_OKAY" gp_graphic="img_gamepad_a" gp_width="35" gp_height="35" gp_x="20" gp_y="3" selectable="off"/>	
+
+					 
+	<!-- Plan list -->
+	<VScrollbar name="scroll_items" x="794" y="224" width="24" height="320" buttonsize="24" min="0" max="120" page="0" keys="off" arrows="off" graphic="asset_vscroll" />
+	<Icon   name="item1_type"     x="196" y="228" width="32" height="32" graphic="" />
+	<Icon   name="item1_frame"    x="231" y="228" width="416" height="32" graphic="img_itemslot" />
+	<Pad    name="item1_pad"      x="231" y="228" width="546" height="32" id="1" />
+	<String name="item1_name"     x="239" y="231" width="416" multiline="off" justify="left" text="" font="font_info_white" />
+	<String name="item1_weap_val" x="553" y="233" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item1_eng_val"  x="590" y="233" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item1_cpu_val"  x="627" y="233" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="item1_weap_bg"  x="537" y="231" width="32" height="26" graphic="img_weapsquare_lit" />
+	<Icon   name="item1_eng_bg"   x="574" y="231" width="32" height="26" graphic="img_engsquare_lit" />
+	<Icon   name="item1_cpu_bg"   x="611" y="231" width="32" height="26" graphic="img_cpusquare_lit" />
+	<Icon   name="item1_gem_bg"   x="657" y="228" width="128" height="32" graphic="img_small_frame" />
+	<Icon   name="item1_gem_1" x="664" y="231" width="29" height="26" graphic="img_craft_gray" />
+	<Icon   name="item1_gem_2" x="693" y="231" width="29" height="26" graphic="img_craft_gray" />
+	<Icon   name="item1_gem_3" x="722" y="231" width="29" height="26" graphic="img_craft_gray" />
+	<Icon   name="item1_gem_4" x="751" y="231" width="29" height="26" graphic="img_craft_gray" />
+	<Icon   name="item1_light" x="231" y="228" width="416" height="32" graphic="img_light" />
+
+	<Icon   name="item2_type"     x="196" y="263" width="32" height="32" graphic="" />
+	<Icon   name="item2_frame"    x="231" y="263" width="416" height="32" graphic="img_itemslot" />
+	<Pad    name="item2_pad"      x="231" y="263" width="546" height="32" id="2" />
+	<String name="item2_name"     x="239" y="266" width="416" multiline="off" justify="left" text="" font="font_info_white" />
+	<String name="item2_weap_val" x="553" y="268" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item2_eng_val"  x="590" y="268" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item2_cpu_val"  x="627" y="268" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="item2_weap_bg"  x="537" y="266" width="32" height="26" graphic="img_weapsquare_lit" />
+	<Icon   name="item2_eng_bg"   x="574" y="266" width="32" height="26" graphic="img_engsquare_lit" />
+	<Icon   name="item2_cpu_bg"   x="611" y="266" width="32" height="26" graphic="img_cpusquare_lit" />
+	<Icon   name="item2_gem_bg"   x="657" y="263" width="128" height="32" graphic="img_small_frame" />
+	<Icon    name="item2_gem_1" x="664" y="266" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item2_gem_2" x="693" y="266" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item2_gem_3" x="722" y="266" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item2_gem_4" x="751" y="266" width="29" height="26" graphic="img_craft_gray" />
+	<Icon   name="item2_light" x="231" y="263" width="416" height="32" graphic="img_light" />
+
+	<Icon   name="item3_type"     x="196" y="298" width="32" height="32" graphic="" />
+	<Icon   name="item3_frame"    x="231" y="298" width="416" height="32" graphic="img_itemslot" />
+	<Pad    name="item3_pad"      x="231" y="298" width="546" height="32" id="3" />
+	<String name="item3_name"     x="239" y="301" width="416" multiline="off" justify="left" text="" font="font_info_white" />
+	<String name="item3_weap_val" x="553" y="303" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item3_eng_val"  x="590" y="303" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item3_cpu_val"  x="627" y="303" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="item3_weap_bg"  x="537" y="301" width="32" height="26" graphic="img_weapsquare_lit" />
+	<Icon   name="item3_eng_bg"   x="574" y="301" width="32" height="26" graphic="img_engsquare_lit" />
+	<Icon   name="item3_cpu_bg"   x="611" y="301" width="32" height="26" graphic="img_cpusquare_lit" />
+	<Icon   name="item3_gem_bg"   x="657" y="298" width="128" height="32" graphic="img_small_frame" />
+	<Icon    name="item3_gem_1" x="664" y="301" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item3_gem_2" x="693" y="301" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item3_gem_3" x="722" y="301" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item3_gem_4" x="751" y="301" width="29" height="26" graphic="img_craft_gray" />
+	<Icon   name="item3_light" x="231" y="298" width="416" height="32" graphic="img_light" />
+
+	<Icon   name="item4_type"     x="196" y="333" width="32" height="32" graphic="" />
+	<Icon   name="item4_frame"    x="231" y="333" width="416" height="32" graphic="img_itemslot" />
+	<Pad    name="item4_pad"      x="231" y="333" width="546" height="32" id="4" />
+	<String name="item4_name"     x="239" y="336" width="416" multiline="off" justify="left" text="" font="font_info_white" />
+	<String name="item4_weap_val" x="553" y="338" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item4_eng_val"  x="590" y="338" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item4_cpu_val"  x="627" y="338" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="item4_weap_bg"  x="537" y="336" width="32" height="26" graphic="img_weapsquare_lit" />
+	<Icon   name="item4_eng_bg"   x="574" y="336" width="32" height="26" graphic="img_engsquare_lit" />
+	<Icon   name="item4_cpu_bg"   x="611" y="336" width="32" height="26" graphic="img_cpusquare_lit" />
+	<Icon   name="item4_gem_bg"   x="657" y="333" width="128" height="32" graphic="img_small_frame" />
+	<Icon    name="item4_gem_1" x="664" y="336" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item4_gem_2" x="693" y="336" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item4_gem_3" x="722" y="336" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item4_gem_4" x="751" y="336" width="29" height="26" graphic="img_craft_gray" />
+	<Icon   name="item4_light" x="231" y="333" width="416" height="32" graphic="img_light" />
+
+	<Icon   name="item5_type"     x="196" y="368" width="32" height="32" graphic="" />
+	<Icon   name="item5_frame"    x="231" y="368" width="416" height="32" graphic="img_itemslot" />
+	<Pad    name="item5_pad"      x="231" y="368" width="546" height="32" id="5" />
+	<String name="item5_name"     x="239" y="371" width="416" multiline="off" justify="left" text="" font="font_info_white" />
+	<String name="item5_weap_val" x="553" y="373" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item5_eng_val"  x="590" y="373" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item5_cpu_val"  x="627" y="373" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="item5_weap_bg"  x="537" y="371" width="32" height="26" graphic="img_weapsquare_lit" />
+	<Icon   name="item5_eng_bg"   x="574" y="371" width="32" height="26" graphic="img_engsquare_lit" />
+	<Icon   name="item5_cpu_bg"   x="611" y="371" width="32" height="26" graphic="img_cpusquare_lit" />
+	<Icon   name="item5_gem_bg"   x="657" y="368" width="128" height="32" graphic="img_small_frame" />
+	<Icon    name="item5_gem_1" x="664" y="371" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item5_gem_2" x="693" y="371" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item5_gem_3" x="722" y="371" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item5_gem_4" x="751" y="371" width="29" height="26" graphic="img_craft_gray" />
+	<Icon   name="item5_light" x="231" y="368" width="416" height="32" graphic="img_light" />
+
+	<Icon   name="item6_type"     x="196" y="403" width="32" height="32" graphic="" />
+	<Icon   name="item6_frame"    x="231" y="403" width="416" height="32" graphic="img_itemslot" />
+	<Pad    name="item6_pad"      x="231" y="403" width="546" height="32" id="6" />
+	<String name="item6_name"     x="239" y="406" width="416" multiline="off" justify="left" text="" font="font_info_white" />
+	<String name="item6_weap_val" x="553" y="408" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item6_eng_val"  x="590" y="408" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item6_cpu_val"  x="627" y="408" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="item6_weap_bg"  x="537" y="406" width="32" height="26" graphic="img_weapsquare_lit" />
+	<Icon   name="item6_eng_bg"   x="574" y="406" width="32" height="26" graphic="img_engsquare_lit" />
+	<Icon   name="item6_cpu_bg"   x="611" y="406" width="32" height="26" graphic="img_cpusquare_lit" />
+	<Icon   name="item6_gem_bg"   x="657" y="403" width="128" height="32" graphic="img_small_frame" />
+	<Icon    name="item6_gem_1" x="664" y="406" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item6_gem_2" x="693" y="406" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item6_gem_3" x="722" y="406" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item6_gem_4" x="751" y="406" width="29" height="26" graphic="img_craft_gray" />
+	<Icon   name="item6_light" x="231" y="403" width="416" height="32" graphic="img_light" />
+
+	<Icon   name="item7_type"     x="196" y="438" width="32" height="32" graphic="" />
+	<Icon   name="item7_frame"    x="231" y="438" width="416" height="32" graphic="img_itemslot" />
+	<Pad    name="item7_pad"      x="231" y="438" width="546" height="32" id="7" />
+	<String name="item7_name"     x="239" y="441" width="416" multiline="off" justify="left" text="" font="font_info_white" />
+	<String name="item7_weap_val" x="553" y="443" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item7_eng_val"  x="590" y="443" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item7_cpu_val"  x="627" y="443" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="item7_weap_bg"  x="537" y="441" width="32" height="26" graphic="img_weapsquare_lit" />
+	<Icon   name="item7_eng_bg"   x="574" y="441" width="32" height="26" graphic="img_engsquare_lit" />
+	<Icon   name="item7_cpu_bg"   x="611" y="441" width="32" height="26" graphic="img_cpusquare_lit" />
+	<Icon   name="item7_gem_bg"   x="657" y="438" width="128" height="32" graphic="img_small_frame" />
+	<Icon    name="item7_gem_1" x="664" y="441" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item7_gem_2" x="693" y="441" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item7_gem_3" x="722" y="441" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item7_gem_4" x="751" y="441" width="29" height="26" graphic="img_craft_gray" />
+	<Icon   name="item7_light" x="231" y="438" width="416" height="32" graphic="img_light" />
+
+	<Icon   name="item8_type"     x="196" y="473" width="32" height="32" graphic="" />
+	<Icon   name="item8_frame"    x="231" y="473" width="416" height="32" graphic="img_itemslot" />
+	<Pad    name="item8_pad"      x="231" y="473" width="546" height="32" id="8" />
+	<String name="item8_name"     x="239" y="476" width="416" multiline="off" justify="left" text="" font="font_info_white" />
+	<String name="item8_weap_val" x="553" y="478" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item8_eng_val"  x="590" y="478" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item8_cpu_val"  x="627" y="478" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="item8_weap_bg"  x="537" y="476" width="32" height="26" graphic="img_weapsquare_lit" />
+	<Icon   name="item8_eng_bg"   x="574" y="476" width="32" height="26" graphic="img_engsquare_lit" />
+	<Icon   name="item8_cpu_bg"   x="611" y="476" width="32" height="26" graphic="img_cpusquare_lit" />
+	<Icon   name="item8_gem_bg"   x="657" y="473" width="128" height="32" graphic="img_small_frame" />
+	<Icon    name="item8_gem_1" x="664" y="476" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item8_gem_2" x="693" y="476" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item8_gem_3" x="722" y="476" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item8_gem_4" x="751" y="476" width="29" height="26" graphic="img_craft_gray" />
+	<Icon   name="item8_light" x="231" y="473" width="416" height="32" graphic="img_light" />
+
+	<Icon   name="item9_type"     x="196" y="508" width="32" height="32" graphic="" />
+	<Icon   name="item9_frame"    x="231" y="508" width="416" height="32" graphic="img_itemslot" />
+	<Pad    name="item9_pad"      x="231" y="508" width="546" height="32" id="9" />
+	<String name="item9_name"     x="239" y="511" width="416" multiline="off" justify="left" text="" font="font_info_white" />
+	<String name="item9_weap_val" x="553" y="513" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item9_eng_val"  x="590" y="513" multiline="off" justify="center" text="" font="font_info_white" />
+	<String name="item9_cpu_val"  x="627" y="513" multiline="off" justify="center" text="" font="font_info_white" />	
+	<Icon   name="item9_weap_bg"  x="537" y="511" width="32" height="26" graphic="img_weapsquare_lit" />
+	<Icon   name="item9_eng_bg"   x="574" y="511" width="32" height="26" graphic="img_engsquare_lit" />
+	<Icon   name="item9_cpu_bg"   x="611" y="511" width="32" height="26" graphic="img_cpusquare_lit" />
+	<Icon   name="item9_gem_bg"   x="657" y="508" width="128" height="32" graphic="img_small_frame" />
+	<Icon    name="item9_gem_1" x="664" y="511" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item9_gem_2" x="693" y="511" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item9_gem_3" x="722" y="511" width="29" height="26" graphic="img_craft_gray" />
+	<Icon    name="item9_gem_4" x="751" y="511" width="29" height="26" graphic="img_craft_gray" />
+	<Icon   name="item9_light" x="231" y="508" width="416" height="32" graphic="img_light" />
+	
+	
+	<!-- -->
+	
+	<String name="cargo1_req" x="231" y="589" width="40" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="cargo1" x="231" y="550" width="40" height="34" graphic="" />
+	<String name="cargo2_req" x="281" y="589" width="40" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="cargo2" x="281" y="550" width="40" height="34" graphic="" />
+	<String name="cargo3_req" x="331" y="589" width="40" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="cargo3" x="331" y="550" width="40" height="34" graphic="" />
+	<String name="cargo4_req" x="381" y="589" width="40" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="cargo4" x="381" y="550" width="40" height="34" graphic="" />
+	<String name="cargo5_req" x="431" y="589" width="40" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="cargo5" x="431" y="550" width="40" height="34" graphic="" />
+	<String name="cargo6_req" x="481" y="589" width="40" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="cargo6" x="481" y="550" width="40" height="34" graphic="" />
+	<String name="cargo7_req" x="531" y="589" width="40" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="cargo7" x="531" y="550" width="40" height="34" graphic="" />
+	<String name="cargo8_req" x="581" y="589" width="40" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="cargo8" x="581" y="550" width="40" height="34" graphic="" />
+	<String name="cargo9_req" x="631" y="589" width="40" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="cargo9" x="631" y="550" width="40" height="34" graphic="" />
+	<String name="cargo10_req" x="681" y="589" width="40" multiline="off" justify="center" text="" font="font_info_white" />
+	<Icon   name="cargo10" x="681" y="550" width="40" height="34" graphic="" />
+	
+   <String name="str_illegal_craft" x="239" y="671" width="587" multiline="on" justify="center" text="[TOO_MANY_SHIPS]" font="font_info_red" />
+	<!-- -->
+	
+	
+
+	<!-- Frame graphics -->
+   <Icon       name="icon_arm0"       x="-364"  y="392"   width="386" height="34" graphic="img_arm_h"/>
+   <Icon       name="icon_clip_left"  x="16"    y="324"   width="93" height="172" graphic="img_clip_left"/>
+   <Icon       name="icon_clip_right" x="916"   y="324"   width="93" height="172" graphic="img_clip_right"/>
+   <Icon       name="icon_arm1"       x="1004"  y="392"   width="386" height="34" graphic="img_arm_h"/>
+
+   <Icon  name="icon_dlg00" x="64"  y="64"  width="128" height="128" graphic="img_dlg_00"/>
+	<Icon  name="icon_dlg01" x="192" y="64"  width="640" height="128" graphic="img_dlg_01"/>
+	<Icon  name="icon_dlg02" x="832" y="64"  width="128" height="128" graphic="img_dlg_02"/>
+	
+	<Icon  name="icon_dlg10" x="64"  y="192"  width="128" height="384" graphic="img_dlg_10"/>
+	<Icon  name="icon_dlg11" x="192" y="192"  width="640" height="384" graphic="img_dlg_11"/>
+	<Icon  name="icon_dlg12" x="832" y="192"  width="128" height="384" graphic="img_dlg_12"/>
+	
+	<Icon  name="icon_dlg20" x="64"  y="576"  width="128" height="128" graphic="img_dlg_20"/>
+	<Icon  name="icon_dlg21" x="192" y="576"  width="640" height="128" graphic="img_dlg_21"/>
+	<Icon  name="icon_dlg22" x="832" y="576"  width="128" height="128" graphic="img_dlg_22"/>
+	<Icon name="icon_dark" x="64" y="64" width="896" height="640" graphic="img_black" />
+	
+	<Group name="grp_controls">
+		<Entry name="str_heading" />
+		<Entry name="str_action_desc" />
+		<Entry name="butt_cancel" />
+		<Entry name="butt_craft" />
+		<Entry name="scroll_items" />
+		
+		<Entry name="item1_type" />
+		<Entry name="item2_type" />
+		<Entry name="item3_type" />
+		<Entry name="item4_type" />
+		<Entry name="item5_type" />
+		<Entry name="item6_type" />
+		<Entry name="item7_type" />
+		<Entry name="item8_type" />
+		<Entry name="item9_type" />
+		
+		<Entry name="item1_frame" />
+		<Entry name="item2_frame" />
+		<Entry name="item3_frame" />
+		<Entry name="item4_frame" />
+		<Entry name="item5_frame" />
+		<Entry name="item6_frame" />
+		<Entry name="item7_frame" />
+		<Entry name="item8_frame" />
+		<Entry name="item9_frame" />
+		
+		<Entry name="item1_name" />
+		<Entry name="item2_name" />
+		<Entry name="item3_name" />
+		<Entry name="item4_name" />
+		<Entry name="item5_name" />
+		<Entry name="item6_name" />
+		<Entry name="item7_name" />
+		<Entry name="item8_name" />
+		<Entry name="item9_name" />
+		
+		<Entry name="item1_weap_val" />
+		<Entry name="item2_weap_val" />
+		<Entry name="item3_weap_val" />
+		<Entry name="item4_weap_val" />
+		<Entry name="item5_weap_val" />
+		<Entry name="item6_weap_val" />
+		<Entry name="item7_weap_val" />
+		<Entry name="item8_weap_val" />
+		<Entry name="item9_weap_val" />
+		
+		<Entry name="item1_eng_val"  />
+		<Entry name="item2_eng_val"  />
+		<Entry name="item3_eng_val"  />
+		<Entry name="item4_eng_val"  />
+		<Entry name="item5_eng_val"  />
+		<Entry name="item6_eng_val"  />
+		<Entry name="item7_eng_val"  />
+		<Entry name="item8_eng_val"  />
+		<Entry name="item9_eng_val"  />
+		
+		<Entry name="item1_cpu_val"  />
+		<Entry name="item2_cpu_val"  />
+		<Entry name="item3_cpu_val"  />
+		<Entry name="item4_cpu_val"  />
+		<Entry name="item5_cpu_val"  />
+		<Entry name="item6_cpu_val"  />
+		<Entry name="item7_cpu_val"  />
+		<Entry name="item8_cpu_val"  />
+		<Entry name="item9_cpu_val"  />
+		
+		<Entry name="item1_weap_bg"  />
+		<Entry name="item2_weap_bg"  />
+		<Entry name="item3_weap_bg"  />
+		<Entry name="item4_weap_bg"  />
+		<Entry name="item5_weap_bg"  />
+		<Entry name="item6_weap_bg"  />
+		<Entry name="item7_weap_bg"  />
+		<Entry name="item8_weap_bg"  />
+		<Entry name="item9_weap_bg"  />
+		
+		<Entry name="item1_eng_bg"   />
+		<Entry name="item2_eng_bg"   />
+		<Entry name="item3_eng_bg"   />
+		<Entry name="item4_eng_bg"   />
+		<Entry name="item5_eng_bg"   />
+		<Entry name="item6_eng_bg"   />
+		<Entry name="item7_eng_bg"   />
+		<Entry name="item8_eng_bg"   />
+		<Entry name="item9_eng_bg"   />
+		
+		<Entry name="item1_cpu_bg"   />
+		<Entry name="item2_cpu_bg"   />
+		<Entry name="item3_cpu_bg"   />
+		<Entry name="item4_cpu_bg"   />
+		<Entry name="item5_cpu_bg"   />
+		<Entry name="item6_cpu_bg"   />
+		<Entry name="item7_cpu_bg"   />
+		<Entry name="item8_cpu_bg"   />
+		<Entry name="item9_cpu_bg"   />
+		
+		<Entry name="item1_gem_bg"   />
+		<Entry name="item2_gem_bg"   />
+		<Entry name="item3_gem_bg"   />
+		<Entry name="item4_gem_bg"   />
+		<Entry name="item5_gem_bg"   />
+		<Entry name="item6_gem_bg"   />
+		<Entry name="item7_gem_bg"   />
+		<Entry name="item8_gem_bg"   />
+		<Entry name="item9_gem_bg"   />
+		
+		<Entry name="item1_gem_1"    />
+		<Entry name="item2_gem_1"    />
+		<Entry name="item3_gem_1"    />
+		<Entry name="item4_gem_1"    />
+		<Entry name="item5_gem_1"    />
+		<Entry name="item6_gem_1"    />
+		<Entry name="item7_gem_1"    />
+		<Entry name="item8_gem_1"    />
+		<Entry name="item9_gem_1"    />
+				
+		<Entry name="item1_gem_2"    />
+		<Entry name="item2_gem_2"    />
+		<Entry name="item3_gem_2"    />
+		<Entry name="item4_gem_2"    />
+		<Entry name="item5_gem_2"    />
+		<Entry name="item6_gem_2"    />
+		<Entry name="item7_gem_2"    />
+		<Entry name="item8_gem_2"    />
+		<Entry name="item9_gem_2"    />
+				
+		<Entry name="item1_gem_3"    />
+		<Entry name="item2_gem_3"    />
+		<Entry name="item3_gem_3"    />
+		<Entry name="item4_gem_3"    />
+		<Entry name="item5_gem_3"    />
+		<Entry name="item6_gem_3"    />
+		<Entry name="item7_gem_3"    />
+		<Entry name="item8_gem_3"    />
+		<Entry name="item9_gem_3"    />
+				
+		<Entry name="item1_gem_4"    />
+		<Entry name="item2_gem_4"    />
+		<Entry name="item3_gem_4"    />
+		<Entry name="item4_gem_4"    />
+		<Entry name="item5_gem_4"    />
+		<Entry name="item6_gem_4"    />
+		<Entry name="item7_gem_4"    />
+		<Entry name="item8_gem_4"    />
+		<Entry name="item9_gem_4"    />
+		
+		<Entry name="item1_light" />
+		<Entry name="item2_light" />
+		<Entry name="item3_light" />
+		<Entry name="item4_light" />
+		<Entry name="item5_light" />
+		<Entry name="item6_light" />
+		<Entry name="item7_light" />
+		<Entry name="item8_light" />
+		<Entry name="item9_light" />
+		
+		<Entry name="str_illegal_craft" />
+		
+		<Entry name="cargo1_req"  />
+		<Entry name="cargo2_req"  />
+		<Entry name="cargo3_req"  />
+		<Entry name="cargo4_req"  />
+		<Entry name="cargo5_req"  />
+		<Entry name="cargo6_req"  />
+		<Entry name="cargo7_req"  />
+		<Entry name="cargo8_req"  />
+		<Entry name="cargo9_req"  />
+		<Entry name="cargo10_req" />
+		<Entry name="cargo1"      />
+		<Entry name="cargo2"      />
+		<Entry name="cargo3"      />
+		<Entry name="cargo4"      />
+		<Entry name="cargo5"      />
+		<Entry name="cargo6"      />
+		<Entry name="cargo7"      />
+		<Entry name="cargo8"      />
+		<Entry name="cargo9"      />
+		<Entry name="cargo10"     />
+	</Group>
+	<Group name="grp_clip0">
+		<Entry name="icon_arm0" />
+		<Entry name="icon_clip_left" />
+	</Group>
+	<Group name="grp_clip1">
+		<Entry name="icon_arm1" />
+		<Entry name="icon_clip_right" />
+	</Group>
+	<Group name="grp_dlg">
+		<Entry name="icon_dlg00" />
+		<Entry name="icon_dlg01" />
+		<Entry name="icon_dlg02" />
+		<Entry name="icon_dlg10" />
+		<Entry name="icon_dlg11" />
+		<Entry name="icon_dlg12" />
+		<Entry name="icon_dlg20" />
+		<Entry name="icon_dlg21" />
+		<Entry name="icon_dlg22" />
+		<Entry name="icon_dark" />
+	</Group>
+	
+ 	<!-- Dark Background -->
+	<Icon name="icon_bg"  x="-171"    y="0"   width="1366" height="768" graphic="img_vdarkshade"/>
+	
+	<Animations name="close" totaltime="650" sound="snd_mechquickclose">
+		<Animation id="grp_dlg"         start="0"   end="200"    startalpha="1.0" endalpha="0.0" interpolation="linear"/>
+		<Animation id="grp_controls"    start="0"   end="200"    startalpha="1.0" endalpha="0.0" interpolation="linear"/>
+		
+		<Animation id="grp_clip0"  start="0"     end="0"    startx="0" endx="0"    interpolation="linear"/>
+		<Animation id="grp_clip0"  start="100"   end="500"  startx="0" endx="-250" interpolation="bezier"/>
+		
+		<Animation id="grp_clip1"  start="0"     end="0"    startx="0"  endx="0"    interpolation="linear"/>
+		<Animation id="grp_clip1"  start="100"   end="500"  startx="0"  endx="250"  interpolation="bezier"/>				
+	</Animations>
+   
+	<Animations name="open" totaltime="1000" sound="snd_mechquickopen">
+		<Animation id="grp_dlg"        start="0"   end="0"    startalpha="0.0" endalpha="0.0" interpolation="linear"/>
+		<Animation id="grp_controls"   start="0"   end="0"    startalpha="0.0" endalpha="0.0" interpolation="linear"/>
+		
+		<Animation id="grp_dlg"    start="200"   end="500"    startalpha="0.0" endalpha="1.0" interpolation="linear"/>
+		<Animation id="grp_controls"  start="500"   end="700"    startalpha="0.0" endalpha="1.0" interpolation="linear"/>
+
+		<Animation id="grp_clip0"  start="0"     end="0"    startx="-250" endx="-250"   interpolation="linear"/>
+		<Animation id="grp_clip0"  start="200"   end="500"  startx="-250" endx="0"      interpolation="bezier"/>
+		
+		<Animation id="grp_clip1"  start="0"     end="0"    startx="250"  endx="250"    interpolation="linear"/>
+		<Animation id="grp_clip1"  start="200"   end="500"  startx="250"  endx="0"      interpolation="bezier"/>
+	</Animations>
+</Menu>

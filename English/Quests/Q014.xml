@@ -1,0 +1,27 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+
+   <Text tag="[Q014_1_0_ACTN]">Contact Port of Elysia</Text>
+   <Text tag="[Q014_1_0_LOG]">Contact the Port of Elysia, seeking information.</Text>
+   
+   <Text tag="[Q014_2_0_ACTN]">Help the Transport</Text>
+   <Text tag="[Q014_2_0_LOG]">Help the transport ship at Elysia Lambda by fighting off Pirates.</Text>
+   
+   <Text tag="[Q014_3_0_ACTN]">Help the Transport</Text>
+   <Text tag="[Q014_3_0_LOG]">Help the transport ship at Elysia Lambda by fighting off Pirates.</Text>
+   
+   <Text tag="[Q014_4_0_ACTN]">Contact Port of Elysia</Text>
+   <Text tag="[Q014_4_0_LOG]">Contact the Port of Elysia, seeking information.</Text>
+   
+   <Text tag="[Q014_5_0_LOG]">Investigate the Polaris System.</Text>
+   <Text tag="[Q014_5_0_ACTN]">Search for a Trail</Text>
+   <Text tag="[Q014_5_1_ACTN]">Search for a Trail</Text>
+   <Text tag="[Q014_5_2_ACTN]">Search for a Trail</Text>
+   <Text tag="[Q014_5_3_ACTN]">Search for a Trail</Text>
+   <Text tag="[Q014_5_4_ACTN]">Search for a Trail</Text>
+   <Text tag="[Q014_5_5_ACTN]">Search for a Trail</Text>
+      
+   <Text tag="[Q014_6_0_ACTN]">Fight the Ship</Text>
+   <Text tag="[Q014_6_0_LOG]">Fight the enemy ship at New Ethiopia.</Text>
+   
+</TextLibrary>

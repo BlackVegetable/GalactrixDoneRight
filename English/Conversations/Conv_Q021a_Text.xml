@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q021a_NAME1]">ELREAVE</Text>
+
+   <Text tag="[Conv_Q021a_0000]">Do you have news for us?</Text>
+   <Text tag="[Conv_Q021a_0001]">Do you have news for us?</Text>
+   
+   <Text tag="[Conv_Q021a_0002]">I have much news. Whether it is for you or not is a matter for the gods to determine.</Text>
+   <Text tag="[Conv_Q021a_0003]">I have much news. Whether it is for you or not is a matter for the gods to determine.</Text>
+
+   <Text tag="[Conv_Q021a_0004]">About the creature?</Text>
+   <Text tag="[Conv_Q021a_0005]">About the creature?</Text>
+
+   <Text tag="[Conv_Q021a_0006]">In time. It is customary to perform a task for such information.</Text>
+   <Text tag="[Conv_Q021a_0007]">In time. It is customary to perform a task for such information.</Text>
+
+   <Text tag="[Conv_Q021a_0008]">For payment?</Text>
+   <Text tag="[Conv_Q021a_0009]">For payment?</Text>
+
+   <Text tag="[Conv_Q021a_0010]">For gratitude. It is the way of things.</Text>
+   <Text tag="[Conv_Q021a_0011]">For gratitude. It is the way of things.</Text>
+
+   <Text tag="[Conv_Q021a_0012]">Very well. What do you need?</Text>
+   <Text tag="[Conv_Q021a_0013]">Very well. What do you need?</Text>
+
+   <Text tag="[Conv_Q021a_0014]">Although we trade with the Luminites, they are also a military force. Before the LeapGates failed, they claimed a sacred site in Ramses and named it New Aztekia. We need you to visit the site and retrieve some data for us. Elgara, my Acolyte, will assist you.</Text>
+   <Text tag="[Conv_Q021a_0015]">Although we trade with the Luminites, they are also a military force. Before the LeapGates failed, they claimed a sacred site in Ramses and named it New Aztekia. We need you to visit the site and retrieve some data for us. Elgara, my Acolyte, will assist you.</Text>
+
+</TextLibrary>

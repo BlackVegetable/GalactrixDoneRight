@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q011_1_0_LOG]">Fly to the Gemini Labs.</Text>
+   <Text tag="[Q011_2_0_MSG]">Gemini Labs appears to be protected by an Automated Defense!</Text>
+   <Text tag="[Q011_2_0_ACTN]">Search Gemini Labs</Text>
+   <Text tag="[Q011_2_0_LOG]">You must search Gemini Labs for the source of the distress call.</Text>
+   <Text tag="[Q011_3_0_ACTN]">Try to Search Again</Text>
+   <Text tag="[Q011_3_0_LOG]">You must search Gemini Labs for the source of the distress call.</Text>
+   <Text tag="[Q011_4_0_ACTN]">Recover Escape Pod</Text>
+   <Text tag="[Q011_4_0_LOG]">You must recover an escape pod from Gemini I.</Text>
+</TextLibrary>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q015a_NAME1]">KIRINE</Text>
+
+   <Text tag="[Conv_Q015a_0000]">Are you going to follow them?</Text>
+   <Text tag="[Conv_Q015a_0001]">Are you going to follow them?</Text>
+   
+   <Text tag="[Conv_Q015a_0002]">Yes. But first we&apos;ll need to upgrade our weapons and get supplies. I don&apos;t want to go up against this thing unprepared. Where&apos;s the best place around here?</Text>
+   <Text tag="[Conv_Q015a_0003]">Yes. But first we&apos;ll need to upgrade our weapons and get supplies. I don&apos;t want to go up against this thing unprepared. Where&apos;s the best place around here?</Text>
+   
+   <Text tag="[Conv_Q015a_0004]">You lucky! Lucky, lucky, lucky! Keck Trader is in next system. You want it, they have it.</Text>
+   <Text tag="[Conv_Q015a_0005]">You lucky! Lucky, lucky, lucky! Keck Trader is in next system. You want it, they have it.</Text>
+
+   <Text tag="[Conv_Q015a_0006]">They have a weapon trader there?</Text>
+   <Text tag="[Conv_Q015a_0007]">They have a weapon trader there?</Text>
+   
+   <Text tag="[Conv_Q015a_0008]">Emporium of Keck is big. Big, big, big! But best weapons are with black market trader at Keck Sigma Moon.</Text>
+   <Text tag="[Conv_Q015a_0009]">Emporium of Keck is big. Big, big, big! But best weapons are with black market trader at Keck Sigma Moon.</Text>
+
+</TextLibrary>

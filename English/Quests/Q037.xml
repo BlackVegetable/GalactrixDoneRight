@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q037_1_0_LOG]">Travel to Krystallus Delta.</Text>
+   <Text tag="[Q037_2_0_ACTN]">Fight an MRI Ship</Text>
+   <Text tag="[Q037_2_0_LOG]">Fight the MRI at Krystallus Delta.</Text>
+   <Text tag="[Q037_3_0_ACTN]">Fight Another MRI Ship</Text>
+   <Text tag="[Q037_3_0_LOG]">Fight the MRI at Krystallus Delta.</Text>
+   <Text tag="[Q037_4_0_ACTN]">Fight the Last MRI Ship</Text>
+   <Text tag="[Q037_4_0_LOG]">Fight the MRI at Krystallus Delta.</Text>
+</TextLibrary>

@@ -1,0 +1,13 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0T1_1_0_MSG]">The ship is protected by an Automated Defense.</Text>
+   <Text tag="[Q0T1_1_0_ACTN]">Access the Data</Text>
+   <Text tag="[Q0T1_1_0_LOG]">Obtain data from Lyra Epsilon.</Text>
+   <Text tag="[Q0T1_1_0_ENDMSG]">Now you can download the data.</Text>
+   <Text tag="[Q0T1_2_0_MSG]">You almost retrieve the data when a Vortraag ship hails you and demands you turn it over!</Text>
+   <Text tag="[Q0T1_2_0_ACTN]">Access the Data</Text>
+   <Text tag="[Q0T1_2_0_LOG]">Obtain data from Lyra Epsilon.</Text>
+   <Text tag="[Q0T1_2_0_ENDMSG]">You finally have the data.</Text>
+   <Text tag="[Q0T1_3_0_ACTN]">Deliver the Data</Text>
+   <Text tag="[Q0T1_3_0_LOG]">Return to Mars with the data.</Text>
+</TextLibrary>

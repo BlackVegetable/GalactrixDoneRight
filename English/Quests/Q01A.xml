@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+   <Text tag="[Q01A_1_0_ACTN]">Buy Food for Pezt</Text>
+   <Text tag="[Q01A_1_0_LOG]">Take Pezt to Degani.</Text>
+   <Text tag="[Q01A_2_0_ACTN]">Haggle for Food</Text>
+   <Text tag="[Q01A_2_0_LOG]">Get the Degani Trader to lower his prices.</Text>
+   <Text tag="[Q01A_3_0_LOG]">Return to Elea VII to begin following the enemy ship.</Text>
+   <Text tag="[Q01A_3_0_ENDMSG]">Pezt will now show you the way!</Text>
+</TextLibrary>

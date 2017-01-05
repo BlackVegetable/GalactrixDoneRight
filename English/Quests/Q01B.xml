@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q01B_1_0_MSG]">You discover many tons of Alloys and Gold!</Text>
+   <Text tag="[Q01B_1_0_ACTN]">Search for Cargo</Text>
+   <Text tag="[Q01B_1_0_LOG]">Get some Cargo from the Gemini Labs.</Text>
+   <Text tag="[Q01B_2_0_ACTN]">Craft a Degausser</Text>
+   <Text tag="[Q01B_2_0_LOG]">You must craft a Degausser on Gemini Labs.</Text>
+</TextLibrary>

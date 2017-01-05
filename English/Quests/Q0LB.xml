@@ -1,0 +1,7 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0LB_1_0_ACTN]">Check the Beacon</Text>
+   <Text tag="[Q0LB_1_0_LOG]">Travel to Lacerta Omega.</Text>
+   <Text tag="[Q0LB_2_0_ACTN]">Ask about Marc</Text>
+   <Text tag="[Q0LB_2_0_LOG]">Ask about Marc at Vortraag Prime.</Text>
+</TextLibrary>

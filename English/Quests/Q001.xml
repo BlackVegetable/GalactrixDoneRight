@@ -1,0 +1,15 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q001_1_0_MSG]">No sign of Pirates here. Now fly to Asteroid P4IU987.</Text>
+   <Text tag="[Q001_1_0_LOG]">Fly to the Erebus Shipyard.</Text>
+   <Text tag="[Q001_2_0_MSG]">No sign of any Pirates here either. Now fly to Asteroid E3CF36J.</Text>
+   <Text tag="[Q001_2_0_LOG]">Fly to Asteroid P4IU987.</Text>
+   <Text tag="[Q001_3_0_MSG]">Still no sign of any Pirates. Proceed to Asteroid E5GH56P.</Text>
+   <Text tag="[Q001_3_0_LOG]">Fly to Asteroid E3CF36J.</Text>
+   <Text tag="[Q001_4_0_MSG]">Your sensors are detecting an unidentified ship. You may have just found your first Pirate.</Text>
+   <Text tag="[Q001_4_0_LOG]">Fly to Asteroid E5GH56P.</Text>
+   <Text tag="[Q001_5_0_ACTN]">Challenge the Ship</Text>
+   <Text tag="[Q001_5_0_LOG]">Defeat the Pirate at Asteroid E5GH56P.</Text>
+   <Text tag="[Q001_5_0_ENDMSG]">Well done! Return to Erebus Sigma Station to complete your mission.</Text>
+   <Text tag="[Q001_6_0_LOG]">Return to Erebus Sigma Station.</Text>
+</TextLibrary>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q041c_NAME1]">PEZT</Text>
+
+   <Text tag="[Conv_Q041c_0000]">I met a man called Sly McGee. Says he is ex-Trident officer. Will help us for a price.</Text>
+   <Text tag="[Conv_Q041c_0001]">I met a man called Sly McGee. Says he is ex-Trident officer. Will help us for a price.</Text>
+   
+   <Text tag="[Conv_Q041c_0002]">What does he want?</Text>
+   <Text tag="[Conv_Q041c_0003]">What does he want?</Text>
+   
+   <Text tag="[Conv_Q041c_0004]">Needs Solenite Ore from Solis Mine. Very rare! Must get him some.</Text>
+   <Text tag="[Conv_Q041c_0005]">Needs Solenite Ore from Solis Mine. Very rare! Must get him some.</Text>
+
+</TextLibrary>

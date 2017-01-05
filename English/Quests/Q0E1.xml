@@ -1,0 +1,16 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0E1_STARTMSG]">Attack the Jahrwoxi until you have taught them a lesson!</Text>
+   <Text tag="[Q0E1_1_0_ACTN]">Attack the Jahrwoxi</Text>
+   <Text tag="[Q0E1_1_0_LOG]">Attack a ship on Jahrwox Prime.</Text>
+   <Text tag="[Q0E1_2_0_ACTN]">Continue Negotiations</Text>
+   <Text tag="[Q0E1_2_0_LOG]">Negotiate on Jahrwox Prime.</Text>
+   <Text tag="[Q0E1_2_0_ENDMSG]">The Jahrwoxi ignore you.</Text>
+   <Text tag="[Q0E1_3_0_ACTN]">Attack the Jahrwoxi</Text>
+   <Text tag="[Q0E1_3_0_LOG]">Attack a ship on Jahrwox Prime.</Text>
+   <Text tag="[Q0E1_4_0_ACTN]">Continue Negotiations</Text>
+   <Text tag="[Q0E1_4_0_LOG]">Negotiate on Jahrwox Prime.</Text>
+   <Text tag="[Q0E1_4_0_ENDMSG]">The Jahrwoxi finally agree to pay the money that is owed. Now you can return to Elysia.</Text>
+   <Text tag="[Q0E1_5_0_ACTN]">Return to Elysia</Text>
+   <Text tag="[Q0E1_5_0_LOG]">Return to Elysia Prime.</Text>
+</TextLibrary>

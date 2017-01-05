@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q028_1_0_LOG]">Travel to the Icarus Alpha Moon.</Text>
+   <Text tag="[Q028_2_0_ACTN]">Scan the Moon</Text>
+   <Text tag="[Q028_2_0_LOG]">Scan the Icarus Alpha Moon.</Text>
+   <Text tag="[Q028_3_0_ACTN]">Fight the Pirate</Text>
+   <Text tag="[Q028_3_0_LOG]">Fight the Pirate at Icarus Alpha Moon.</Text>
+</TextLibrary>

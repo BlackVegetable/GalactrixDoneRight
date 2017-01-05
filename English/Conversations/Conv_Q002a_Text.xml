@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q002a_NAME1]">LYDIA</Text>
+
+   <Text tag="[Conv_Q002a_0000]">Nice shooting, kid. That mining ship you hit is one of two that&apos;s been bothering us.</Text>
+   <Text tag="[Conv_Q002a_0001]">Nice shooting, kid. That mining ship you hit is one of two that&apos;s been bothering us.</Text>
+   <Text tag="[Conv_Q002a_0002]">I guess you need me to find the other one?</Text>
+   <Text tag="[Conv_Q002a_0003]">I guess you need me to find the other one?</Text>
+   <Text tag="[Conv_Q002a_0004]">We already know where it is... it&apos;s on Erebus II. We just need you to take it out.</Text>
+   <Text tag="[Conv_Q002a_0005]">We already know where it is... it&apos;s on Erebus II. We just need you to take it out.</Text>
+   <Text tag="[Conv_Q002a_0006]">I graduate top of my class just to shoot down Pirates in mining ships... great...</Text>
+   <Text tag="[Conv_Q002a_0007]">I graduate top of my class just to shoot down Pirates in mining ships... great...</Text>
+   <Text tag="[Conv_Q002a_0008]">Hey! It might be like shooting fish in a barrel to you, but these Pirates are a real problem for us. We don&apos;t all get top-of-the-line MRI ships like you!</Text>
+   <Text tag="[Conv_Q002a_0009]">Hey! It might be like shooting fish in a barrel to you, but these Pirates are a real problem for us. We don&apos;t all get top-of-the-line MRI ships like you!</Text>
+   <Text tag="[Conv_Q002a_0010]">Never mind. The quicker I&apos;m done here, the quicker I get back to Serpens Prime.</Text>
+   <Text tag="[Conv_Q002a_0011]">Never mind. The quicker I&apos;m done here, the quicker I get back to Serpens Prime.</Text>
+
+</TextLibrary>

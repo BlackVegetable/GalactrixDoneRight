@@ -1,0 +1,9 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0V2_1_0_MSG]">A Quesadan Lightship rapidly approaches, trying to stop you.</Text>
+   <Text tag="[Q0V2_1_0_ACTN]">Obtain an Omnibarra</Text>
+   <Text tag="[Q0V2_1_0_LOG]">Travel to Cepheus IX.</Text>
+   <Text tag="[Q0V2_1_0_ENDMSG]">You have an Omnibarra. Now return to Vortraag Prime.</Text>
+   <Text tag="[Q0V2_2_0_ACTN]">Return the Omnibarra</Text>
+   <Text tag="[Q0V2_2_0_LOG]">Return to Vortraag Prime.</Text>
+</TextLibrary>

@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q38a_1_0_LOG]">Travel to Quaris II to meet with Pirates.</Text>
+   <Text tag="[Q38a_1_0_ACTN]">Meet with the Pirates</Text>
+
+   <Text tag="[Q38a_2_0_PRE]">You must be at least Allied with the Pirates. </Text>
+   <Text tag="[Q38a_2_1_PRE]">You must be a Criminal according to the MRI. </Text>
+   <Text tag="[Q38a_2_0_LOG]">Travel to Quaris IV to defend against the MRI.</Text>
+   <Text tag="[Q38a_2_0_ACTN]">Wait for the MRI Fleet</Text>
+   <Text tag="[Q38a_2_0_ENDMSG]">MRI Forces Arrive</Text>
+
+   <Text tag="[Q38a_3_0_LOG]">Engage the Scouting Forces at Quaris IV.</Text>
+   <Text tag="[Q38a_3_0_ACTN]">Engage the Advance Forces</Text>
+   <Text tag="[Q38a_3_0_ENDMSG]">Enemy Scouts Defeated -- Prepare for main force</Text>
+
+   <Text tag="[Q38a_4_0_LOG]">Engage MRI Space Superiority Vessels at Quaris IV.</Text>
+   <Text tag="[Q38a_4_0_ACTN]">Engage the Main Strike Force</Text>
+   <Text tag="[Q38a_4_0_ENDMSG]">Strike Force Retreating -- Prepare for Bombardment Vessels</Text>
+
+   <Text tag="[Q38a_5_0_LOG]">Engage MRI Bombardment Vessels at Quaris IV.</Text>
+   <Text tag="[Q38a_5_0_ACTN]">Engage MRI Bombardment Vessels</Text>
+   <Text tag="[Q38a_5_0_ENDMSG]">Enemy Bombardment Vessles Eliminated -- Prepare for Enemy Reinforcements</Text>
+
+   <Text tag="[Q38a_6_0_LOG]">Engage MRI Strike Force Reinforcements at Quaris IV.</Text>
+   <Text tag="[Q38a_6_0_ACTN]">Engage Enemy Reinforcements</Text>
+   <Text tag="[Q38a_6_0_ENDMSG]">Enemy Reinforcements Neutralized -- Prepare to Engage Ships Guarding the Command Center</Text>
+
+   <Text tag="[Q38a_7_0_LOG]">Engage MRI Interceptors at Quaris IV.</Text>
+   <Text tag="[Q38a_7_0_ACTN]">Engage MRI Interceptors</Text>
+   <Text tag="[Q38a_7_0_ENDMSG]">Interceptors Destroyed -- Prepare to Engage Elite Guard</Text>
+
+   <Text tag="[Q38a_8_0_LOG]">Engage MRI Elite Guard at Quaris IV.</Text>
+   <Text tag="[Q38a_8_0_ACTN]">Engage MRI Elite Guard</Text>
+   <Text tag="[Q38a_8_0_ENDMSG]">Elite Guard Eliminated -- Prepare to Strike the MRI Assault Captain</Text>
+
+   <Text tag="[Q38a_9_0_LOG]">Engage MRI Captain at Quaris IV.</Text>
+   <Text tag="[Q38a_9_0_ACTN]">Engage MRI Captain</Text>
+   <Text tag="[Q38a_9_0_ENDMSG]">Enemy Formation Broken -- Prepare to Assault the MRI Command Center</Text>
+
+   <Text tag="[Q38a_10_0_LOG]">Engage MRI Command Center at Quaris IV.</Text>
+   <Text tag="[Q38a_10_0_ACTN]">Engage MRI Command Center</Text>
+   <Text tag="[Q38a_10_0_ENDMSG]">Victory! PSI Weapon Aquired</Text>
+
+</TextLibrary>

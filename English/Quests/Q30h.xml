@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q30h_1_0_LOG]">Travel to Quesada Prime to locate the Holy Source</Text>
+   <Text tag="[Q30h_1_0_ACTN]">Search for the Holy Source</Text>
+   <Text tag="[Q30h_1_0_ENDMSG]">You located the Source</Text>
+   <Text tag="[Q30h_2_0_LOG]">Send Sable to the Holy Source on Quesada Prime</Text>
+   <Text tag="[Q30h_2_0_ACTN]">Perform Attunement</Text>
+   <Text tag="[Q30h_2_0_ENDMSG]">The Attunement was successful!</Text>
+   <Text tag="[Q30h_2_0_PRE]">The Quesadans don&apos;t like you enough to let you near the source</Text>
+
+</TextLibrary>

@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0T5_1_0_MSG]">The heretic can be found on Gomorrah Phi.</Text>
+   <Text tag="[Q0T5_1_0_ACTN]">Search for the Heretic</Text>
+   <Text tag="[Q0T5_1_0_LOG]">Search on Gomorrah Station.</Text>
+   <Text tag="[Q0T5_2_0_ACTN]">Capture the Heretic</Text>
+   <Text tag="[Q0T5_2_0_LOG]">Travel to Gomorrah Phi.</Text>
+   <Text tag="[Q0T5_2_0_ENDMSG]">You have captured the heretic.</Text>
+   <Text tag="[Q0T5_3_0_ACTN]">Return the Heretic</Text>
+   <Text tag="[Q0T5_3_0_LOG]">Return the heretic to Earth.</Text>
+</TextLibrary>

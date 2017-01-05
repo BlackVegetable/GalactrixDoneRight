@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Q012_1_0_LOG]">You must search for any sign of a trail from Gemini Labs.</Text>
+   <Text tag="[Q012_1_0_ACTN]">Search for the Trail</Text>
+
+   <Text tag="[Q012_1_1_ACTN]">Search for the Trail</Text>
+   <Text tag="[Q012_1_2_ACTN]">Search for the Trail</Text>
+   <Text tag="[Q012_1_3_ACTN]">Search for the Trail</Text>
+   <Text tag="[Q012_1_4_ACTN]">Search for the Trail</Text>
+   <Text tag="[Q012_1_5_ACTN]">Search for the Trail</Text>
+   <Text tag="[Q012_1_6_ACTN]">Search for the Trail</Text>
+   <Text tag="[Q012_1_7_ACTN]">Search for the Trail</Text>
+
+   <Text tag="[Q012_2_0_LOG]">Investigate the Elea System.</Text>   
+   <Text tag="[Q012_2_0_ACTN]">Search for the Trail</Text>
+   <Text tag="[Q012_2_1_ACTN]">Search for the Trail</Text>
+   <Text tag="[Q012_2_2_ACTN]">Search for the Trail</Text>
+   <Text tag="[Q012_2_3_ACTN]">Search for the Trail</Text>
+   <Text tag="[Q012_2_4_ACTN]">Search for the Trail</Text>
+   <Text tag="[Q012_2_5_ACTN]">Search for the Trail</Text>
+   <Text tag="[Q012_2_6_ACTN]">Search for the Trail</Text>
+   <Text tag="[Q012_2_7_ACTN]">Search for the Trail</Text>   
+      
+   <Text tag="[Q012_3_0_LOG]">Search the abandoned ship at Elea VII.</Text>
+   <Text tag="[Q012_3_0_ACTN]">Search the Ship</Text>
+   
+   <Text tag="[Q012_2_6_LOG]">You must search for any sign of a trail through the Elea System.</Text>
+   
+</TextLibrary>

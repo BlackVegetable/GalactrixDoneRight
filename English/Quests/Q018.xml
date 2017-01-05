@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+
+<TextLibrary>
+
+   <Text tag="[Q018_1_0_LOG]">Travel to Cepheus Station to get a Laser Netgen.</Text>
+   <Text tag="[Q018_1_0_ACTN]">Purchase Laser Netgen</Text>
+   <Text tag="[Q018_1_0_ENDMSG]">500 Credits subtracted. You have the Laser Netgen. Now travel to the Perseus Station for the EMP Module.</Text>
+
+   <Text tag="[Q018_2_0_PRE]">You must have 500 Credits to purchase the Laser Netgen.</Text>   
+   <Text tag="[Q018_2_0_ACTN]">Purchase EMP Module</Text>
+   <Text tag="[Q018_2_0_LOG]">Travel to Perseus Station to get an EMP Module.</Text>
+   <Text tag="[Q018_2_0_ENDMSG]">500 Credits subtracted. You now have the EMP Module.</Text>
+   
+   <Text tag="[Q018_3_0_PRE]">You must have 500 Credits to purchase the EMP Module.</Text>   
+   <Text tag="[Q018_3_0_ACTN]">Wait for Enemy</Text>
+   <Text tag="[Q018_3_0_LOG]">Wait for your enemy at the Regulus-Lyra LeapGate.</Text>
+   <Text tag="[Q018_3_0_ENDMSG]">No sign of an enemy yet...</Text>
+   
+   <Text tag="[Q018_4_0_LOG]">Wait for your enemy at the Regulus-Lyra LeapGate.</Text>
+   <Text tag="[Q018_4_0_ACTN]">Wait for Enemy</Text>
+   <Text tag="[Q018_4_0_ENDMSG]">No sign of an enemy yet...</Text>
+   
+   <Text tag="[Q018_5_0_ACTN]">Wait for Enemy</Text>
+   <Text tag="[Q018_5_0_LOG]">Wait for your enemy at the Regulus-Lyra LeapGate.</Text>
+   
+   <Text tag="[Q018_6_0_ACTN]">Fight the Enemy</Text>
+   <Text tag="[Q018_6_0_LOG]">Battle the enemy you have snared at the Regulus-Lyra LeapGate.</Text>
+   
+</TextLibrary>

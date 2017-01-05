@@ -1,0 +1,9 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0SH_1_0_ACTN]">Scan for The Lost</Text>
+   <Text tag="[Q0SH_1_0_LOG]">Travel to Typhon Rho.</Text>
+   <Text tag="[Q0SH_1_0_ENDMSG]">You have found the Leader of The Lost.</Text>
+   <Text tag="[Q0SH_2_0_ACTN]">Send Sable to the Surface</Text>
+   <Text tag="[Q0SH_2_0_LOG]">Meet The Lost on Typhon Rho.</Text>
+   <Text tag="[Q0SH_2_0_ENDMSG]">You have gained the seventh Psi Power.</Text>
+</TextLibrary>

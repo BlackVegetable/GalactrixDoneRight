@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<TextLibrary>
+	<Text tag="[FT01_NAME]">Chronotron Drone</Text>
+	<Text tag="[FT01_DESC]">Time Warp effects (miss a turn) are removed before your turn starts</Text>
+
+	<Text tag="[FT02_NAME]">CPU Drain</Text>
+	<Text tag="[FT02_DESC]">Your Green Energy loses 3 points each turn</Text>
+
+	<Text tag="[FT03_NAME]">Shield Drain</Text>
+	<Text tag="[FT03_DESC]">Your Shield loses 4 points each turn</Text>
+
+	<Text tag="[FT04_NAME]">Shield Drone</Text>
+	<Text tag="[FT04_DESC]">Your Shield regenerates 4 points at the start of each turn</Text>
+
+	<Text tag="[FT05_NAME]">Time Loop</Text>
+	<Text tag="[FT05_DESC]">You have 25% chance of an extra turn</Text>
+
+	<Text tag="[FT06_NAME]">Time Warp</Text>
+	<Text tag="[FT06_DESC]">Miss this turn</Text>
+
+	<Text tag="[FT07_NAME]">Weapon Drain</Text>
+	<Text tag="[FT07_DESC]">Your Red Energy loses 3 points each turn</Text>
+
+	<Text tag="[FD01_NAME]">Adapative Armor</Text>
+	<Text tag="[FD01_DESC]">Has a 20% chance to reduce incoming damage to 1 point</Text>
+
+	<Text tag="[FD02_NAME]">Cloaked</Text>
+	<Text tag="[FD02_DESC]">All incoming damage is diverted until you damage your enemy</Text>
+
+	<Text tag="[FD03_NAME]">Conductive Armor</Text>
+	<Text tag="[FD03_DESC]">Adds +1 to Red, Yellow, and Green Energy when taking damage</Text>
+
+	<Text tag="[FD04_NAME]">Destabilization</Text>
+	<Text tag="[FD04_DESC]">Shields leak through the first 5 points of damage</Text>
+
+	<Text tag="[FD05_NAME]">Guardian Drone</Text>
+	<Text tag="[FD05_DESC]">All damage is halved if your Shield Energy is greater than 0</Text>
+
+	<Text tag="[FD06_NAME]">Interceptor Drone</Text>
+	<Text tag="[FD06_DESC]">All incoming damage of 3+ is reduced by 5 points</Text>
+
+	<Text tag="[FD07_NAME]">Mass Driver</Text>
+	<Text tag="[FD07_DESC]">Adds +1 damage for every 2 Yellow Gems in play</Text>
+
+	<Text tag="[FD08_NAME]">Targeting</Text>
+	<Text tag="[FD08_DESC]">Adds +3 to all Damage dealt</Text>
+
+	<Text tag="[FE01_NAME]">Auxiliary Armor</Text>
+	<Text tag="[FE01_DESC]">Non-damage matches will reinforce your Shields but award -1 less of that Gem type</Text>
+
+	<Text tag="[FE02_NAME]">Boost</Text>
+	<Text tag="[FE02_DESC]">Doubles incoming Yellow Energy</Text>
+
+	<Text tag="[FE03_NAME]">Disruption Field</Text>
+	<Text tag="[FE03_DESC]">Unable to regenerate shields</Text>
+
+	<Text tag="[FE04_NAME]">Overclocking</Text>
+	<Text tag="[FE04_DESC]">Doubles incoming Green Energy</Text>
+
+	<Text tag="[FE05_NAME]">Solar Flare</Text>
+	<Text tag="[FE05_DESC]">Matching Red, Green, or Blue Gems gives you +2 Yellow Energy</Text>
+
+	<Text tag="[FE06_NAME]">Sub-Light</Text>
+	<Text tag="[FE06_DESC]">Adds +2 to all generated Energy</Text>
+
+	<Text tag="[FE07_NAME]">Weapon Overload</Text>
+	<Text tag="[FE07_DESC]">Doubles incoming Red Energy</Text>
+
+	<Text tag="[FG01_NAME]">Anti-Gravity</Text>
+	<Text tag="[FG01_DESC]">Gems fall upwards</Text>
+
+	<Text tag="[FG02_NAME]">Grav-Flux</Text>
+	<Text tag="[FG02_DESC]">Gems fall in random directions</Text>
+
+	<Text tag="[FG03_NAME]">Gravity</Text>
+	<Text tag="[FG03_DESC]">Gems fall downwards</Text>
+
+	<Text tag="[FG04_NAME]">Linear Grav-Flux</Text>
+	<Text tag="[FG04_DESC]">Gems fall in a rotating pattern</Text>
+
+	<Text tag="[FG05_NAME]">Zero Gravity</Text>
+	<Text tag="[FG05_DESC]">Gems fall in the opposite direction to your last move</Text>
+
+	<Text tag="[FS01_NAME]">Confusion</Text>
+	<Text tag="[FS01_DESC]">Halves stats</Text>
+
+	<Text tag="[FS02_NAME]">Nova</Text>
+	<Text tag="[FS02_DESC]">Any Nova fills up all your Energy bars</Text>
+
+	<Text tag="[FM01_NAME]">Gas Nebula</Text>
+	<Text tag="[FM01_DESC]">All Energy matches made double in effect</Text>
+
+	<Text tag="[FM02_NAME]">Minefield</Text>
+	<Text tag="[FM02_DESC]">All damage matches made double in effect</Text>
+
+	<Text tag="[FM33_NAME]">CPU Targeting Bonus</Text>
+	<Text tag="[FM33_DESC]">When Green Energy is 15+, damage is increased</Text>
+
+	<Text tag="[FC01_NAME]">Dual-Core</Text>
+	<Text tag="[FC01_DESC]">Gives 2 Green Energy and 10% of shields each turn (min: 3)</Text>
+
+	<Text tag="[FC02_NAME]">Booby-Trapped</Text>
+	<Text tag="[FC02_DESC]">You take 10 hull damage when you cause novae, and 20 more for supernovae</Text>
+
+	<Text tag="[FC03_NAME]">Reverse-Engineering Probe</Text>
+	<Text tag="[FC03_DESC]">Auto-Repair deals damage instead of hull repair (10% chance of discovery)</Text>
+
+	<Text tag="[FC04_NAME]">Combat Stress</Text>
+	<Text tag="[FC04_DESC]">Both ships' auto-repair is set to zero</Text>
+
+	<Text tag="[FC05_NAME]">Overheated</Text>
+	<Text tag="[FC05_DESC]">Gunnery has been reduced by up to 90%. 10% Recovers each turn.</Text>
+
+	<Text tag="[FC06_NAME]">Engine Fault</Text>
+	<Text tag="[FC06_DESC]">Engines have been compromised. -65% Engineer and 20% Chance of high-fuel leak</Text>
+
+	<Text tag="[FC07_NAME]">Manual Control</Text>
+	<Text tag="[FC07_DESC]">Increased Pilot ~50% Decreased Science ~50%</Text>
+
+	<Text tag="[FC08_NAME]">Blind Spot</Text>
+	<Text tag="[FC08_DESC]">Damage increased by 3~10 based on ship size. Cancels with hull damage</Text>
+
+	<Text tag="[FC09_NAME]">Hidden Strikes</Text>
+	<Text tag="[FC09_DESC]">Damage increased by 5~12 based on ship size. Cancels with hull damage</Text>
+
+	<Text tag="[FC10_NAME]">Critical Trajectory</Text>
+	<Text tag="[FC10_DESC]">Ship has a ~40% chance to deal 150% damage.</Text>
+	
+	<Text tag="[FC11_NAME]">Evasive Action</Text>
+	<Text tag="[FC11_DESC]">Reduces incoming damage by 75%, ~30% of the time</Text>
+
+	<Text tag="[FC12_NAME]">Density Field</Text>
+	<Text tag="[FC12_DESC]">Alters the engine gained according to ship size</Text>
+
+	<Text tag="[FC13_NAME]">Invincibility</Text>
+	<Text tag="[FC13_DESC]">Prevents all damage.  Exhausts shields when it expires.</Text>
+
+	<Text tag="[FC14_NAME]">Entropy Field</Text>
+	<Text tag="[FC14_DESC]">Causes 2 Hull and Shield damage when matching Purple Gems.</Text>
+
+	<Text tag="[FC15_NAME]">Aggression Drone</Text>
+	<Text tag="[FC15_DESC]">Deals 3 Hull and Shield damage each turn.</Text>
+
+	<Text tag="[FC16_NAME]">Havoc Drone</Text>
+	<Text tag="[FC16_DESC]">Deals 1 Hp/Sp damage each turn and lowers stats by 20%.</Text>
+
+</TextLibrary>

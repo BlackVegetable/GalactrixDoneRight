@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+
+<TextLibrary>
+   <Text tag="[Q041_1_0_LOG]">Travel to Gomorrah Station.</Text>
+   
+   <Text tag="[Q041_2_0_ACTN]">Explore Gomorrah</Text>
+   <Text tag="[Q041_2_0_LOG]">Explore Gomorrah Station.</Text>
+   
+   <Text tag="[Q041_3_0_LOG]">Travel to Solis Mine.</Text>
+   
+   <Text tag="[Q041_4_0_ACTN]">Get the Solenite ore</Text>
+   <Text tag="[Q041_4_0_LOG]">Get Solenite ore from Solis Mine.</Text>
+   <Text tag="[Q041_4_0_ENDMSG]">You have the ore. Now return to Gomorrah Station.</Text>
+   
+   <Text tag="[Q041_5_0_ACTN]">Contact Sly McGee</Text>
+   <Text tag="[Q041_5_0_LOG]">Return to Gomorrah Station.</Text>
+   
+</TextLibrary>
+

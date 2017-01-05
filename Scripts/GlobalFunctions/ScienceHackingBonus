@@ -1,0 +1,37 @@
+-- Science Hacking Bonus --
+-- Determines how many fewer keys gates will take based on Science skill
+
+local function ScienceHackingBonus (science)
+
+	local reduction
+
+	if science < 25 then
+		reduction = 0
+		return reduction
+	end
+	if science < 60 then
+		reduction = 1
+		return reduction
+	end
+	if science < 100 then
+		reduction = 2
+		return reduction
+	end
+	if science < 145 then
+		reduction = 3
+		return reduction
+	end
+	if science < 195 then
+		reduction = 4
+		return reduction
+	end
+	if science < 250 then
+		reduction = 5
+		return reduction
+	end
+	if science == 250 then
+		reduction = 6
+		return reduction
+	end
+
+end

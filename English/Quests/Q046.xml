@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q046_1_0_LOG]">Travel to Acheron Prime.</Text>
+   <Text tag="[Q046_2_0_ACTN]">Use the Krystalli heart</Text>
+   <Text tag="[Q046_2_0_LOG]">Use the Krystalli heart at Acheron Prime.</Text>
+   <Text tag="[Q046_3_0_ACTN]">Ambush the MRI</Text>
+   <Text tag="[Q046_3_0_LOG]">Ambush the MRI at Acheron Prime.</Text>
+   <Text tag="[Q046_3_0_ENDMSG]">Only one MRI ship remains.</Text>
+   <Text tag="[Q046_4_0_ACTN]">Fight the Last MRI Ship</Text>
+   <Text tag="[Q046_4_0_LOG]">Fight the MRI at Acheron Prime.</Text>
+</TextLibrary>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="ATTUNEMENT: Talk to Lydia"/>
+   <Text file="English\Conversations\Conv_Q30fA_Text.xml"/>
+   <Backdrop file="img_CONCORR"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="[img_CLYDI_L]" portraitindex="0" name="[Conv_Q30fA_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_male" character="1" text="[Conv_Q30fA_0000]" />
+      <Action type="talk_female" character="1" text="[Conv_Q30fA_0001]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q30fA_0002]" />
+      <Action type="talk_female" character="0" text="[Conv_Q30fA_0003]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q30fA_0004]" />
+      <Action type="talk_female" character="1" text="[Conv_Q30fA_0005]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q30fA_0006]" />
+      <Action type="talk_female" character="0" text="[Conv_Q30fA_0007]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q30fA_0008]" />
+      <Action type="talk_female" character="1" text="[Conv_Q30fA_0009]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q30fA_0010]" />
+      <Action type="talk_female" character="0" text="[Conv_Q30fA_0011]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q30fA_0012]" />
+      <Action type="talk_female" character="1" text="[Conv_Q30fA_0013]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="0" text="[Conv_Q30fA_0014]" />
+      <Action type="talk_female" character="0" text="[Conv_Q30fA_0015]" />
+      <Action type="wait" />
+      <Action type="talk_male" character="1" text="[Conv_Q30fA_0016]" />
+      <Action type="talk_female" character="1" text="[Conv_Q30fA_0017]" />
+      <Action type="wait" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

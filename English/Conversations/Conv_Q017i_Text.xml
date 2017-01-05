@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q017i_NAME0]">[Conv_Q017i_NAME0]</Text>
+   <Text tag="[Conv_Q017i_NAME1]">SILENT ONE</Text>
+
+   <Text tag="[Conv_Q017i_0000]">Greetings, Silent One. I bring you a Keck egg.</Text>
+   <Text tag="[Conv_Q017i_0001]">Greetings, Silent One. I bring you a Keck egg.</Text>
+   <Text tag="[Conv_Q017i_0002]">...</Text>
+   <Text tag="[Conv_Q017i_0003]">...</Text>
+   <Text tag="[Conv_Q017i_0004]">I wish to trap creature who destroyed Cygnus II.</Text>
+   <Text tag="[Conv_Q017i_0005]">I wish to trap creature who destroyed Cygnus II.</Text>
+   <Text tag="[Conv_Q017i_0006]">Mag-Net.</Text>
+   <Text tag="[Conv_Q017i_0007]">Mag-Net.</Text>
+   <Text tag="[Conv_Q017i_0008]">Really? That easy?</Text>
+   <Text tag="[Conv_Q017i_0009]">Really? That easy?</Text>
+   <Text tag="[Conv_Q017i_0010]">...</Text>
+   <Text tag="[Conv_Q017i_0011]">...</Text>
+   <Text tag="[Conv_Q017i_0012]">But where do I get one?</Text>
+   <Text tag="[Conv_Q017i_0013]">But where do I get one?</Text>
+   <Text tag="[Conv_Q017i_0014]">A Mag-Net is an EMP pulse net, used in trapping and securing fast ships. If we can get the parts, I can put one together.</Text>
+   <Text tag="[Conv_Q017i_0015]">A Mag-Net is an EMP pulse net, used in trapping and securing fast ships. If we can get the parts, I can put one together.</Text>
+
+</TextLibrary>

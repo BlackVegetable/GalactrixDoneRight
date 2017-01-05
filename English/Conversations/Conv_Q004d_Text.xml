@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q004d_NAME0]">[Conv_Q004d_NAME0]</Text>
+   <Text tag="[Conv_Q004d_NAME1]">ED24</Text>
+
+   <Text tag="[Conv_Q004d_0000]">ED24... awaiting orders.</Text>
+   <Text tag="[Conv_Q004d_0001]">ED24... awaiting orders.</Text>
+   <Text tag="[Conv_Q004d_0002]">Quit acting like next year&apos;s model, ED. We need you over at LeapGate Control.</Text>
+   <Text tag="[Conv_Q004d_0003]">Quit acting like next year&apos;s model, ED. We need you over at LeapGate Control.</Text>
+   <Text tag="[Conv_Q004d_0004]">Some menial task I assume, Lydia?</Text>
+   <Text tag="[Conv_Q004d_0005]">Some menial task I assume, Lydia?</Text>
+   <Text tag="[Conv_Q004d_0006]">Just get your rusty metal butt on this ship, ED, so we can get going.</Text>
+   <Text tag="[Conv_Q004d_0007]">Just get your rusty metal butt on this ship, ED, so we can get going.</Text>
+   <Text tag="[Conv_Q004d_0008]">Nice ship, Lydia. Trading up are we?</Text>
+   <Text tag="[Conv_Q004d_0009]">Nice ship, Lydia. Trading up are we?</Text>
+   <Text tag="[Conv_Q004d_0010]">Can it! Let&apos;s go.</Text>
+   <Text tag="[Conv_Q004d_0011]">Can it! Let&apos;s go.</Text>
+
+</TextLibrary>

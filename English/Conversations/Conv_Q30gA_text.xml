@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q30gA_NAME1]">Sable</Text>
+
+   <Text tag="[Conv_Q30gA_0000]">Lydia knew what she was doing.  These crystals are exactly to the listed specifications.</Text>
+   <Text tag="[Conv_Q30gA_0001]">Lydia knew what she was doing.  These crystals are exactly to the listed specifications.  Of course, you did your part as well.</Text>
+   <Text tag="[Conv_Q30gA_0002]">I&apos;m not entirely sure I understand what these are for, but I&apos;ll trust they are needed.  Do you know what we must do next?</Text>
+   <Text tag="[Conv_Q30gA_0003]">Thanks.  What is it you have planned next?</Text>
+   <Text tag="[Conv_Q30gA_0004]">The next part will be messy.  One of Nasty Butler&apos;s agents equipped the wrong MRI vessel with a necessary component.  He seems to think we&apos;ll have to destroy the ship and crew all to recover it.</Text>
+   <Text tag="[Conv_Q30gA_0005]">The next part will be messy.  One of Nasty Butler&apos;s agents equipped the wrong MRI vessel with a necessary component.  He seems to think we&apos;ll have to destroy the ship and crew all to recover it.</Text>
+   <Text tag="[Conv_Q30gA_0006]">Won&apos;t that destroy the component as well?</Text>
+   <Text tag="[Conv_Q30gA_0007]">Wait, so we&apos;re supposed to kill an MRI agent just to get this component?  Couldn&apos;t we just ask for it? </Text>
+   <Text tag="[Conv_Q30gA_0008]">Nasty Butler seems to think the nature of the component is such that it won&apos;t be destroyed through conventional weaponry, though I don&apos;t know why that is.</Text>
+   <Text tag="[Conv_Q30gA_0009]">Unfortunately, that is the case.  The component cannot be uninstalled easily, and the MRI agent isn&apos;t likely to give us access to his ship long enough for us to find and remove it.  Furthermore, asking about it would reveal this project to the rest of the MRI, which is something I get the feeling we&apos;d be better off without doing.</Text>
+   <Text tag="[Conv_Q30gA_0010]">Perhaps it is composed of unusual materials.  In any event, where are we to find this agent?</Text>
+   <Text tag="[Conv_Q30gA_0011]">Ugh.  This IS messy.  Very well, if you think it is important that we aquire this component, I&apos;ll defer to your judgement, Sable.</Text>
+   <Text tag="[Conv_Q30gA_0012]">This agent has been assigned an MRI Blade, much like you have been.  We also know he is sent on various patrols in the forward edge of MRI space, the Vega System.</Text>
+   <Text tag="[Conv_Q30gA_0013]">This agent has been assigned an MRI Blade, much like you have been.  We also know he is sent on various patrols in the forward edge of MRI space, the Vega System.</Text>
+   <Text tag="[Conv_Q30gA_0014]">How will we find this particular agent out of thousands in the Vega System?</Text>
+   <Text tag="[Conv_Q30gA_0015]">How will we find this particular agent out of thousands in the Vega System?</Text>
+   <Text tag="[Conv_Q30gA_0016]">We&apos;ve also been given his MRI ID Code.  I&apos;ve asked ED if he could use an observation post in tandem with this ID to locate the ship.</Text>
+   <Text tag="[Conv_Q30gA_0017]">We&apos;ve also been given his MRI ID Code.  I&apos;ve asked ED if he could use an observation post in tandem with this ID to locate the ship.</Text>
+   <Text tag="[Conv_Q30gA_0018]">And?  What did ED say?  Can he do it?</Text>
+   <Text tag="[Conv_Q30gA_0019]">Surely ED is capable of this, right?</Text>
+   <Text tag="[Conv_Q30gA_0020]">Well, he muttered something about &quot;Brain the size of a planet, and you want me to find MRI Agents with their ID codes. . .&quot; I think he meant yes.</Text>
+   <Text tag="[Conv_Q30gA_0021]">Well, he muttered something about &quot;Brain the size of a planet, and you want me to find MRI Agents with their ID codes. . .&quot; I think he meant yes.</Text>
+   <Text tag="[Conv_Q30gA_0022]">I think there is an observation post on Vega Station to detect incoming foreign ships.  we should be able to use that.</Text>
+   <Text tag="[Conv_Q30gA_0023]">There is an observation post on Vega Station to detect incoming foreign ships.  we should be able to use that.</Text>
+
+</TextLibrary>

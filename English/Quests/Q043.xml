@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Q043_1_0_LOG]">Scan Gorgon III.</Text>
+   <Text tag="[Q043_1_0_ACTN]">Scan the Planet</Text>
+
+   <Text tag="[Q043_2_0_LOG]">Scan Typhon X.</Text>
+   <Text tag="[Q043_2_0_ACTN]">Scan the Planet</Text>
+
+   <Text tag="[Q043_3_0_LOG]">Scan Gehenna III.</Text>   
+   <Text tag="[Q043_3_0_ACTN]">Scan the Planet</Text>
+
+   <Text tag="[Q043_4_0_LOG]">Scan Hades V.</Text>   
+   <Text tag="[Q043_4_0_ACTN]">Scan the Planet</Text>
+
+   <Text tag="[Q043_5_0_LOG]">Scan Acheron Prime.</Text> 
+   <Text tag="[Q043_5_0_ACTN]">Scan the Planet</Text>
+   
+</TextLibrary>

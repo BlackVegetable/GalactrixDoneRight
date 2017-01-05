@@ -1,0 +1,15 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0D5_STARTMSG]">Your first delivery is to Apus Station.</Text>
+   <Text tag="[Q0D5_1_0_ACTN]">Deliver the Food</Text>
+   <Text tag="[Q0D5_1_0_LOG]">Travel to Apus Station.</Text>
+   <Text tag="[Q0D5_1_0_ENDMSG]">The food has been delivered. Continue on to Orion Port.</Text>
+   <Text tag="[Q0D5_2_0_ACTN]">Deliver the Food</Text>
+   <Text tag="[Q0D5_2_0_LOG]">Travel to Orion Port.</Text>
+   <Text tag="[Q0D5_2_0_ENDMSG]">The food has been delivered. Continue on to Delphinus Station.</Text>
+   <Text tag="[Q0D5_3_0_ACTN]">Deliver the Food</Text>
+   <Text tag="[Q0D5_3_0_LOG]">Travel to Delphinus Station.</Text>
+   <Text tag="[Q0D5_3_0_ENDMSG]">The food has been delivered. Return to Degani Prime.</Text>
+   <Text tag="[Q0D5_4_0_ACTN]">Return to Degani</Text>
+   <Text tag="[Q0D5_4_0_LOG]">Return to Degani Prime.</Text>
+</TextLibrary>

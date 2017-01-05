@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q003a_NAME1]">LYDIA</Text>
+
+   <Text tag="[Conv_Q003a_0000]">Okay, kid. By way of thanks for fighting the Pirates, the lads&apos;ve fitted your ship with some basic mining equipment. It&apos;s portable too, so if you get a new ship, you can just reattach it.</Text>
+   <Text tag="[Conv_Q003a_0001]">Okay, kid. By way of thanks for fighting the Pirates, the lads&apos;ve fitted your ship with some basic mining equipment. It&apos;s portable too, so if you get a new ship, you can just reattach it.</Text>
+   <Text tag="[Conv_Q003a_0002]">Thank you. How do I use it?</Text>
+   <Text tag="[Conv_Q003a_0003]">Thank you. How do I use it?</Text>
+   <Text tag="[Conv_Q003a_0004]">You don&apos;t. I do. I&apos;m going to tag along with you for a bit if you don&apos;t mind. I go a bit mad stuck on Erebus Sigma Station all day, it&apos;d be nice to travel on a ship like yours for a bit.</Text>
+   <Text tag="[Conv_Q003a_0005]">You don&apos;t. I do. I&apos;m going to tag along with you for a bit if you don&apos;t mind. I go a bit mad stuck on Erebus Sigma Station all day, it&apos;d be nice to travel on a ship like yours for a bit.</Text>
+
+</TextLibrary>

@@ -1,0 +1,15 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q0D3_STARTMSG]">Your first delivery is to Port of Elysia.</Text>
+   <Text tag="[Q0D3_1_0_ACTN]">Deliver the Food</Text>
+   <Text tag="[Q0D3_1_0_LOG]">Travel to Port of Elysia.</Text>
+   <Text tag="[Q0D3_1_0_ENDMSG]">The food has been delivered. Continue on to Centauri Tradeport.</Text>
+   <Text tag="[Q0D3_2_0_ACTN]">Deliver the Food</Text>
+   <Text tag="[Q0D3_2_0_LOG]">Travel to Centauri Tradeport.</Text>
+   <Text tag="[Q0D3_2_0_ENDMSG]">The food has been delivered. Continue on to Corvus Port.</Text>
+   <Text tag="[Q0D3_3_0_ACTN]">Deliver the Food</Text>
+   <Text tag="[Q0D3_3_0_LOG]">Travel to Corvus Port.</Text>
+   <Text tag="[Q0D3_3_0_ENDMSG]">The food has been delivered. Now return to Degani Prime.</Text>
+   <Text tag="[Q0D3_4_0_ACTN]">Return to Degani</Text>
+   <Text tag="[Q0D3_4_0_LOG]">Return to Degani Prime.</Text>
+</TextLibrary>

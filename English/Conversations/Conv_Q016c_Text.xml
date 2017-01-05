@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q016c_NAME1]">PEZT</Text>
+
+   <Text tag="[Conv_Q016c_0000]">Anybody see anything here?</Text>
+   <Text tag="[Conv_Q016c_0001]">Anybody see anything here?</Text>
+   
+   <Text tag="[Conv_Q016c_0002]">Jahrwoxi all dead! Dead, dead, dead!</Text>
+   <Text tag="[Conv_Q016c_0003]">Jahrwoxi all dead! Dead, dead, dead!</Text>
+   
+   <Text tag="[Conv_Q016c_0004]">Kirine? Anything?</Text>
+   <Text tag="[Conv_Q016c_0005]">Kirine? Anything?</Text>
+   
+   <Text tag="[Conv_Q016c_0006]">The scanners are picking up some kind of Automated Defense. We&apos;d better get back to the ship!</Text>
+   <Text tag="[Conv_Q016c_0007]">The scanners are picking up some kind of Automated Defense. We&apos;d better get back to the ship!</Text>
+
+</TextLibrary>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+   <Text tag="[Q0F3_1_0_ACTN]">Fight the Android</Text>
+   <Text tag="[Q0F3_1_0_LOG]">Track the Android to Eridanus Omicron.</Text>
+   <Text tag="[Q0F3_1_0_ENDMSG]">You have captured the Android. Now return it to Fornax Prime.</Text>
+   <Text tag="[Q0F3_2_0_ACTN]">Return the Android</Text>
+   <Text tag="[Q0F3_2_0_LOG]">Return to Fornax Prime.</Text>
+</TextLibrary>

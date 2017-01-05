@@ -1,0 +1,13 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q020_1_0_LOG]">Fly to Quesada Prime.</Text>
+   <Text tag="[Q020_2_0_ACTN]">Speak with the Quesadans</Text>
+   <Text tag="[Q020_2_0_LOG]">Speak with the Quesadans on Quesada Prime.</Text>
+   <Text tag="[Q020_3_0_ACTN]">Offer Help to the Quesadans</Text>
+   <Text tag="[Q020_3_0_LOG]">Offer to help the Quesadans at Quesada Prime.</Text>
+   <Text tag="[Q020_4_0_ACTN]">Hack LeapGate</Text>
+   <Text tag="[Q020_4_0_LOG]">Hack the Quesada-Ramses LeapGate.</Text>
+   <Text tag="[Q020_4_0_ENDMSG]">Return to Quesada Prime to report your success.</Text>
+   <Text tag="[Q020_5_0_ACTN]">Return to the Quesadans</Text>
+   <Text tag="[Q020_5_0_LOG]">Return to Quesada Prime and speak with the Priests.</Text>
+</TextLibrary>

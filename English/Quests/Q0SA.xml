@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Q0SA_1_0_LOG]">Explore the Atlia System.</Text>
+
+   <Text tag="[Q0SA_1_0_ACTN]">Scan the Planet</Text>
+   <Text tag="[Q0SA_1_0_ENDMSG]">Your scan uncovers nothing unusual.</Text>
+   <Text tag="[Q0SA_1_1_ACTN]">Scan the Planet</Text>
+   <Text tag="[Q0SA_1_1_ENDMSG]">Your scan uncovers nothing unusual.</Text>
+   <Text tag="[Q0SA_1_2_ACTN]">Scan the Planet</Text>
+   <Text tag="[Q0SA_1_2_ENDMSG]">Your scan uncovers nothing unusual.</Text>
+   <Text tag="[Q0SA_1_3_ACTN]">Scan the Moon</Text>
+   <Text tag="[Q0SA_1_3_LOG]">Scan the Planets and Moon in the Atlia System.</Text>
+   <Text tag="[Q0SA_1_4_ACTN]">Scan the Station</Text>
+   <Text tag="[Q0SA_1_5_ACTN]">Scan the Asteroid</Text>
+   <Text tag="[Q0SA_1_6_ACTN]">Scan the Asteroid</Text>
+
+   <Text tag="[Q0SA_2_0_ACTN]">Search the Pod</Text>
+   <Text tag="[Q0SA_2_0_LOG]">Search the pod on Atlia Sigma.</Text>
+   
+</TextLibrary>

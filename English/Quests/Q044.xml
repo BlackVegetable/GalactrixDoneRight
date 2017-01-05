@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<TextLibrary>
+   <Text tag="[Q044_1_0_ACTN]">Scan the Planet</Text>
+   <Text tag="[Q044_1_0_LOG]">Scan Nornes III.</Text>
+   <Text tag="[Q044_2_0_ACTN]">Attack the Krystalli</Text>
+   <Text tag="[Q044_2_0_LOG]">Attack the Krystalli ship at Nornes III.</Text>
+   <Text tag="[Q044_2_0_ENDMSG]">You obtain a Krystalli body. Return with it to Acheron Prime.</Text>
+   <Text tag="[Q044_3_0_ACTN]">Contact the Spirit</Text>
+   <Text tag="[Q044_3_0_LOG]">Contact the Spirit of Acheron Prime.</Text>
+</TextLibrary>

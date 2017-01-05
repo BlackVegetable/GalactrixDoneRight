@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Q015_1_0_LOG]">Search for a trader on Keck Sigma.</Text>
+   <Text tag="[Q015_2_0_ACTN]">Search for the Trader</Text>
+   <Text tag="[Q015_2_0_LOG]">Search for a trader on Keck Sigma.</Text>
+   <Text tag="[Q015_3_0_ACTN]">Ask About the Trader</Text>
+   <Text tag="[Q015_3_0_LOG]">Ask about the trader on Keck Prime.</Text>
+   
+</TextLibrary>

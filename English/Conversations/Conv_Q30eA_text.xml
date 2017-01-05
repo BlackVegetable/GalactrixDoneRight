@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q30eA_NAME1]">Sable</Text>
+
+   <Text tag="[Conv_Q30eA_0000]">I don&apos;t think we&apos;ll need to come back here for a while.</Text>
+   <Text tag="[Conv_Q30eA_0001]">I don&apos;t think we&apos;ll need to come back here for a while.</Text>
+   <Text tag="[Conv_Q30eA_0002]">Why?  Did they give you the device?</Text>
+   <Text tag="[Conv_Q30eA_0003]">You mean they already gave you the device?</Text>
+   <Text tag="[Conv_Q30eA_0004]">No, but I was given directions explaining how to assemble it.</Text>
+   <Text tag="[Conv_Q30eA_0005]">No, but I was given directions explaining how to assemble it.</Text>
+   <Text tag="[Conv_Q30eA_0006]">Well, what do we need to do first?</Text>
+   <Text tag="[Conv_Q30eA_0007]">Great, just what we needed, more tasks to complete with no reward in sight.  Oh well, what is it we need to do?</Text>
+   <Text tag="[Conv_Q30eA_0008]">I&apos;ve assigned ED and Lydia to some information gathering for some later tasks.  In the meantime we need to purchase a Cobalt Magnifier from Ceti CPUs.</Text>
+   <Text tag="[Conv_Q30eA_0009]">I&apos;ve assigned ED and Lydia to some information gathering for some later tasks.  In the meantime we need to purchase a Cobalt Magnifier from Ceti CPUs.</Text>
+   <Text tag="[Conv_Q30eA_0010]">Wait, we need to purchase it?  I thought Nasty Butler was a billionaire.</Text>
+   <Text tag="[Conv_Q30eA_0011]">This better not be too expensive.</Text>
+   <Text tag="[Conv_Q30eA_0012]">Yes, he is rich, but he is also eccentric.  Furthermore, I get the feeling his branch is trying to give away its assets.  For whatever reason, Nasty Butler suspects he will soon lose access to his fortune.</Text>
+   <Text tag="[Conv_Q30eA_0013]">I&apos;m sure the payoff from the end product will be well worth the component cost.</Text>
+   <Text tag="[Conv_Q30eA_0014]">Let&apos;s head to the Ceti System then.</Text>
+   <Text tag="[Conv_Q30eA_0015]">Let&apos;s head to the Ceti System then.</Text>
+
+</TextLibrary>

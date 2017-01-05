@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TextLibrary>
+   <Text tag="[Q0LG_STARTMSG]">The first step is their Automated Defense.</Text>
+   <Text tag="[Q0LG_1_0_ACTN]">Fight the Automated Defense</Text>
+   <Text tag="[Q0LG_1_0_LOG]">Fight the Automated Defense</Text>
+   <Text tag="[Q0LG_1_0_ENDMSG]">The next step is the Gun Turrets...</Text>
+   <Text tag="[Q0LG_2_0_ACTN]">Attack the Gun Turrets</Text>
+   <Text tag="[Q0LG_2_0_LOG]">Attack the Gun Turrets</Text>
+   <Text tag="[Q0LG_2_0_ENDMSG]">The final step is to blow up Gorn&apos;s ship before he can escape.</Text>
+   <Text tag="[Q0LG_3_0_LOG]">The final step is to blow up Gorn&apos;s ship before he can escape.</Text>
+   <Text tag="[Q0LG_3_0_ACTN]">Battle Gorn</Text>
+</TextLibrary>
