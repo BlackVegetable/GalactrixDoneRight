@@ -6,6 +6,7 @@ use_safeglobals()
 class "Hero" (GameObject)
 
 local playerTurnCounter = 0;
+
 _G.TOTAL_TURNS = 0;
 -- BEGIN ATTRIBUTE DESCRIPTIONS
 local attribs = AttributeDescriptionList()
@@ -44,7 +45,6 @@ function Hero:PreDestroy()
 			_G.SCREENS.MPLobby.players[player_id]=nil
 		end
 	end
-
 end
 
 
@@ -60,7 +60,6 @@ end
 function Hero:GetCurrSystem()
 	return self:GetAttribute("curr_system")
 end
-
 
 function Hero:GetCurrLoc()
 	return self:GetAttribute("curr_loc")
@@ -198,7 +197,6 @@ function Hero:LevelToHero(hero)
 		self:SetAttribute("engineer", HEROES[self.classIDStr].base_engineer + (lvlMultiplier * HEROES[self.classIDStr].gain_engineer))
 		self:SetAttribute("science",  HEROES[self.classIDStr].base_science  + (lvlMultiplier * HEROES[self.classIDStr].gain_science))
 		self:SetAttribute("pilot",    HEROES[self.classIDStr].base_pilot    + (lvlMultiplier * HEROES[self.classIDStr].gain_pilot))
-
 	end
 
 end
@@ -245,7 +243,6 @@ function Hero:GetFactionStanding(faction)
 	if (faction == 0) then
 		return _G.STANDING_NEUTRAL
 	end
-
 	local standing = self:GetAttributeAt("faction_standings",faction)
 
 	if standing <= -50 then
@@ -259,7 +256,6 @@ function Hero:GetFactionStanding(faction)
 	else
 		standing = _G.STANDING_ALLIED
 	end
-
 	return standing
 end
 
@@ -310,7 +306,6 @@ function Hero:OnEventMovementFinished(event)
 				PlaySound("snd_shipdepart")
 			end
 		end
-
 	end
 end
 
@@ -454,7 +449,6 @@ function Hero:SpendCredits(amount)
 		credits = 0
 	end
 
-
 	self:SetAttribute("credits",credits)
 
 	return credits
@@ -467,12 +461,6 @@ function Hero:GetCurrLoadout()
 end
 
 
-
-
-
-
-
-
 --Inserts Hero/Enemies default items into ships loadout
 function Hero:InitShip(shipType)
 	return _G.LoadAndExecute("HeroStateInit","InitShip",false,  self,shipType)
@@ -483,9 +471,6 @@ end
 -------------------------------------------------------------------------------
 function Hero:InitBattleStats()
 	_G.LoadAndExecute("HeroStateInit","InitBattleStats",true,  self)
-
-
-
 end
 
 function Hero:GetItemAt(i)
@@ -618,15 +603,6 @@ function Hero:OnEventReceiveEnergy(event)
 		_G.SCREENS.GameMenu:set_text_raw(string.format("str_%s_%d",effect,player_id),tostring(energy))
 		if effect ~= "shield" then
 			_G.SCREENS.GameMenu:set_progress(string.format("progbar_%s_%d",effect,player_id),(energy/energyMax)*100)
-
-			local bar_height = lerp(energy,0,energyMax,0,39)
-			_G.SCREENS.GameMenu:set_widget_size(string.format("icon_bar_%s_%d",effect,player_id),14,bar_height)
-
-			_G.SCREENS.GameMenu:set_widget_position(string.format("icon_bar_%s_%d",effect,player_id),_G.SCREENS.GameMenu:get_widget_x(string.format("icon_bar_%s_%d",effect,player_id)),189-bar_height)
-		else
-			self:UpdatePlayerShield(player_id,energy,energyMax)
-    	end
-
 		---***************************8
 		--]]
 	else
@@ -644,7 +620,6 @@ function Hero:OnEventReceiveEnergy(event)
 		_G.ShowMessage(world,amount,font,coords[1]-world.offset_x,coords[2],true)
 	end
 
-
 end
 
 
@@ -658,8 +633,6 @@ function Hero:OnEventLoseEnergy(event)
 	local energy = self:GetAttribute(effect)
 	local amount = event:GetAttribute("amount")
 	local world = SCREENS.GameMenu.world
-
-
 
 	energy = energy - amount
 
@@ -698,7 +671,6 @@ function Hero:OnEventDirectDamage(event)
 	--local battleGround = event:GetAttribute("BattleGround")
 	local battleGround = SCREENS.GameMenu.world
 
-
     local life = self:GetAttribute('life')
 	local ship = self:GetAttribute("curr_ship")
 	local playerID = self:GetAttribute("player_id")
@@ -713,9 +685,7 @@ function Hero:OnEventDirectDamage(event)
 
 		self.damage_received = self.damage_received + damage
 
-
 	    _G.DamageMessage(battleGround,msg,battleGround.coords[playerID]["life"][1]-battleGround.offset_x,battleGround.coords[playerID]["life"][2])--Displays "+3","+4","-10" over match
-
 
 	    if newLife < 0 then
 	        newLife = 0
@@ -731,8 +701,6 @@ function Hero:OnEventDirectDamage(event)
 
 		_G.SCREENS.GameMenu:set_widget_position(string.format("icon_bar_life_%d",playerID),_G.SCREENS.GameMenu:get_widget_x(string.format("icon_bar_life_%d",playerID)),189-bar_height)
     end
-
-
 
 end
 
@@ -753,7 +721,6 @@ function Hero:OnEventShipDamage(event)
 	MutateWithCollection(event, self, "Effects")
 
 	local amount = event:GetAttribute("amount")
-
 
 	if self:GetAttribute("ai") ~= 0 then
 		local shield = self:GetAttribute("shield")
@@ -914,7 +881,7 @@ function Hero:ReceiveDamage(amount)
 	end
 
 	--if damage to be applied direct to ship
-    if damage < 0 then
+  if damage < 0 then
 
     	newShield = 0
 		local event = GameEventManager:Construct("DirectDamage")
@@ -922,15 +889,6 @@ function Hero:ReceiveDamage(amount)
 		event:SetAttribute('source',self)
 		event:SetAttribute("amount",-damage)
 		self:OnEventDirectDamage(event)--Deal direct damage.
-        --local newLife = life + damage
-        --if newLife < 0 then
-        --    newLife = 0
-        --end
-
-        --self:SetAttribute('life',newLife)
-		--AttachParticles(self,"ShipDamage", 0,0)
-
-
 
 		-- Optimal Targeting Effect Removal --
 		if self:NumAttributes("Effects") >= 1 then
@@ -953,23 +911,10 @@ function Hero:ReceiveDamage(amount)
 			end
 		end
 
-    end
-    self:SetAttribute('shield',newShield)
+  end
+  self:SetAttribute('shield',newShield)
 	if newShield ~= shield then
 		self:UpdatePlayerShield(self:GetAttribute("player_id"),newShield,self:GetAttribute('shield_max'))
-		--[[
-		local shields_remaining = newShield/self:GetAttribute('shield_max')*10;
-		local player_id = self:GetAttribute("player_id")
-		_G.SCREENS.GameMenu:set_text_raw(string.format("str_shield_%d",player_id),tostring(newShield))
-		local shieldStr = string.format("icon_shield_%d_",player_id)
-		for j=10, shields_remaining +1 ,-1 do
-			_G.SCREENS.GameMenu:set_alpha(string.format("%s%d",shieldStr,j), 0)
-		end
-
-		for j=1,shields_remaining,1 do
-			_G.SCREENS.GameMenu:set_alpha(string.format("%s%d",shieldStr,j), 1)
-		end
-		--]]
 	end
 end
 
@@ -997,7 +942,6 @@ end
 
 function Hero:EndTurn(chain)
 	--LOG(string.format("end turn %d",self:GetAttribute("player_id")))
-
 	if chain > self.longest_chain then
 		self.longest_chain = chain
 		if chain > self:GetAttribute("longest_chain") then
@@ -1012,7 +956,6 @@ function Hero:OnEventNewTurn(event)
 	local SWAP2 = 2
 	local MATCH_WEIGHT = 3
 
-
 	local myHero = _G.SCREENS.GameMenu.world:GetAttributeAt("Players", _G.SCREENS.GameMenu.world:GetAttribute("curr_turn"))
 	local myengineer = myHero:GetCombatStat('engineer')
 	local life = myHero:GetAttribute('life')
@@ -1020,8 +963,6 @@ function Hero:OnEventNewTurn(event)
 	local event1
 
 	local battleGround = _G.SCREENS.GameMenu.world
---	effectObj:DeductEnergy(player, "shield", 3)
---	battleGround:DamagePlayer(player,player,3,true,"RedPath")
 
 	if myHero:NumAttributes("Effects") > 0 then
 		for i=1, myHero:NumAttributes("Effects") do
@@ -1159,7 +1100,6 @@ function Hero:OnEventNewTurn(event)
 		end
 	end
 
-
 	-- Determines when players are stunned by TimeWarp effects
 	_G.ALLY_STUNNED = false
 
@@ -1255,7 +1195,6 @@ function Hero:OnEventNewTurn(event)
 	end
 
 
-
 	--local battleGround = event:GetAttribute("BattleGround")
 	local battleGround = SCREENS.GameMenu.world
 	local ship = self:GetAttribute("curr_ship")
@@ -1268,7 +1207,6 @@ function Hero:OnEventNewTurn(event)
 	end
 	battleGround.state = _G.STATE_IDLE
 	--_G.GLOBAL_FUNCTIONS[string.format("Update%s",battleGround.ui)]()
-
 
 	LOG(string.format("%d new turn %d,  my_player_id= %d",self:GetAttribute("player_id"),self:GetAttribute("ai"),battleGround.my_player_id))
 
@@ -1313,11 +1251,6 @@ function Hero:OnEventNewTurn(event)
 			elseif (playerTurnCounter == 5) then
 				tutorial_opened = _G.ShowTutorialFirstTime(6,_G.Hero)
 			end
-
-			--if tutorial_opened then
-				--battleGround.pause = true--Not Necessary to pause anything when these tutorials play.
-			--end
-
 			if is_yesno_menu_open() then
 				move_yesno_menu_to_front()
 			end
@@ -1385,8 +1318,6 @@ function Hero:OnEventNewTurn(event)
 			end
 		end
 
-
-
 		if useItem then
 			LOG(string.format("AI ACTIVATE ITEM %s",activeItems[useItem].classIDStr))
 			self:ActivateItem(battleGround,activeItems[useItem])
@@ -1401,8 +1332,6 @@ function Hero:OnEventNewTurn(event)
 				swap1 = bestMove[2]
 				swap2 = bestMove[1]
 			end
-
-
 
 			local e = GameEventManager:Construct("AIMove")
 			e:SetAttribute("swap1",swap1)
@@ -1502,26 +1431,21 @@ function Hero:GetPrefList(battleGround)
 
 	local enemy = battleGround:GetEnemy(self)
     --init preference lists
-    local prefList = {}
+  local prefList = {}
 
-    prefList["damage"]=7
-    prefList["shield"]=5
-    prefList["engine"]=4
-    prefList["cpu"]=4
-    prefList["weapon"]=4
-    prefList["psi"]=2
-    prefList["intel"]=2
+  prefList["damage"]=7
+  prefList["shield"]=5
+  prefList["engine"]=4
+  prefList["cpu"]=4
+  prefList["weapon"]=4
+  prefList["psi"]=2
+  prefList["intel"]=2
 	prefList["other"]=1
-
-
 	local engine_adjust = 0
 	local weapon_adjust = 0
 	local cpu_adjust = 0
 	local shield_adjust = 0
-
-
-
-
+  
 	local engine_req = 0
 	local cpu_req = 0
 	local weapon_req = 0
@@ -1598,7 +1522,6 @@ function Hero:GetPrefList(battleGround)
 		LOG(string.format("cpu Adjust = %d",cpu_adjust))
 	end
 
-
 	prefList["shield"]= prefList["shield"] + shield_adjust
     prefList["engine"]= prefList["engine"] + engine_adjust
     prefList["cpu"]	  = prefList["cpu"]    + cpu_adjust
@@ -1606,7 +1529,6 @@ function Hero:GetPrefList(battleGround)
 
     return prefList
 end
-
 
 function Hero:GetAIMove(battleGround)
 	local theMove = {21,28,0}
@@ -1622,7 +1544,6 @@ function Hero:GetAIMove(battleGround)
 	end
 	return theMove
 end
-
 
 
 function Hero:AddItem(newItemID,show)
@@ -1745,11 +1666,13 @@ end
 
 
 function Hero:OnEventGiveFriend(event)
+
 	_G.LoadAndExecute("HeroStateQuest","OnEventGiveFriend",true,  self,event)
 end
 
 function Hero:OnEventRemoveFriend(event)
 	_G.LoadAndExecute("HeroStateQuest","OnEventRemoveFriend",true,  self,event)
+
 end
 
 
