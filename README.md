@@ -1,6 +1,6 @@
 This is a revision of the old BlackVegetable Comprehensive Balance Mod (CBM) for Galactrix.
 
-This will include bug fixes, additional balance changes, typo fixes, and additional content.
+This will include bug fixes, and additional balance changes.
 
 I hope you enjoy,
 BlackVegetable
