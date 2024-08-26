@@ -1,11 +1,11 @@
 -- I097
--- Memory Field - Inflicts Confusion effect  on the enemy (halving their pilot’s stats) for 5 turns, +1 turn for every 3 Blue Gems in play.
+-- Memory Field - Inflicts Confusion effect  on the enemy (halving their pilotâ€™s stats) for 5 turns, +1 turn for every 3 Blue Gems in play.
 
 local function activate(item, world, player, obj,weapon,engine,cpu)
 	local turns = 5 + math.floor(#world:GetGemList("GSHD") / 3)
 	local enemy = world:GetEnemy(player)
 
-	if enemey:NumAttributes("Effects") > 0 then
+	if enemy:NumAttributes("Effects") > 0 then
 		for i=1,enemy:NumAttributes("Effects") do
 			if enemy:GetAttributeAt("Effects", i):GetAttribute("name") == "[FS01_NAME]" then
 				local effect = enemy:GetAttributeAt("Effects",i)

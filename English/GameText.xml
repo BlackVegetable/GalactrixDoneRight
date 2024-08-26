@@ -100,10 +100,10 @@
    <Text tag="[BLACKHOLE]">Black Hole!</Text>
    <Text tag="[NOVA]">NOVA!</Text>
    <Text tag="[SUPANOVA]">SUPANOVA!</Text>
-   <Text tag="[NOVA_EFFECT]">X2 MULTIPLIER!!</Text>
+   <Text tag="[NOVA_EFFECT]">BONUS MULTIPLIER!!</Text>
 	<Text tag="[MAX_ENERGY_INCREASE]">MAX ENERGY INCREASED</Text>
 	<Text tag="[MAX_TYPE_INCREASE]">MAX {1} INCREASED</Text>
-   <Text tag="[SUPANOVA_EFFECT]">X3 MULTIPLIER!!!</Text>
+   <Text tag="[SUPANOVA_EFFECT]">BONUS MULTIPLIER!!!</Text>
    <Text tag="[FOUROFAKINDS_]">4 Of A Kind:</Text>
    <Text tag="[FIVEOFAKINDS_]">5 Of A Kind:</Text>
    <Text tag="[SIXOFAKINDS_]">6 Of A Kind:</Text>

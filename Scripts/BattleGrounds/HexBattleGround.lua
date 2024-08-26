@@ -590,8 +590,13 @@ function BattleGround:Nova()
 	player.novas = player.novas + 1
 	--local otherPlayer
 
-	LOG("NOVA - set multiplier to 2")
-	self.multiplier = 2
+        if self:NumAttributes("Players") >= 2 then
+	  LOG("NOVA - set multiplier to 1.5") -- Novas are too strong. <CBM>
+	  self.multiplier = 1.5
+        else
+	  LOG("NOVA - set multiplier to 2")
+	  self.multiplier = 2
+	end
 
 	local trapped = false
 	--if self:NumAttributes("Players") >= 2 then
@@ -701,8 +706,13 @@ function BattleGround:SupaNova()
 		end
 	end
 
-	--LOG("SUPANOVA - set multiplier to 3")
-	self.multiplier = 3
+	if self:NumAttributes("Players") >= 2 then
+	  LOG("SUPANOVA - set multiplier to 1.5") -- Getting an extra turn is reward enough <CBM>
+	  self.multiplier = 1.5
+        else
+	  LOG("SUPANOVA - set multiplier to 3")
+	  self.multiplier = 3
+	end
 	self:AwardExtraTurn(-(self.text_extra_y - (self.nova_y-self.nova_offset_1-10)))
 	--self:AwardExtraTurn()
 
