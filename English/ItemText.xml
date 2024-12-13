@@ -544,7 +544,7 @@
 	<Text tag="[I319_DESC]">Gives a chance for small ships to deal 150% damage. Lasts 5T + 1 per 5 CPU which it drains.</Text>
 
 	<Text tag="[I320_NAME]">*Mobility Core</Text>
-	<Text tag="[I320_DESC]">Reduce incoming damage by 75% on small ships ~30% of the time for ~7 Turns.
+	<Text tag="[I320_DESC]">Reduce incoming damage by 75% on small ships ~30% of the time for ~7 Turns.</Text>
 
 	<Text tag="[I321_NAME]">*Density Field</Text>
 	<Text tag="[I321_DESC]">Increases the engine gained by small ships and decreases it for large ones for 8 Turns.</Text>
